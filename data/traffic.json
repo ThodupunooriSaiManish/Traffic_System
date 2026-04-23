@@ -1,0 +1,1451 @@
+{"location": "Signal B", "vehicles": 62, "speed": 40, "status": "Moderate", "timestamp": 1776188017.9982886, "alert": "Normal"}
+{"location": "Signal A", "vehicles": 59, "speed": 27, "status": "Moderate", "timestamp": 1776188019.9988601, "alert": "Normal"}
+{"location": "Signal A", "vehicles": 59, "speed": 27, "status": "Moderate", "timestamp": 1776188019.9988601, "alert": "Normal"}
+{"location": "Signal B", "vehicles": 68, "speed": 26, "status": "Moderate", "timestamp": 1776188022.0001078, "alert": "Normal"}
+{"location": "Signal B", "vehicles": 68, "speed": 26, "status": "Moderate", "timestamp": 1776188022.0001078, "alert": "Normal"}
+{"location": "Signal C", "vehicles": 13, "speed": 20, "status": "Low", "timestamp": 1776188024.0016184, "alert": "Normal"}
+{"location": "Signal C", "vehicles": 13, "speed": 20, "status": "Low", "timestamp": 1776188024.0016184, "alert": "Normal"}
+{"location": "Signal C", "vehicles": 100, "speed": 29, "status": "Heavy Traffic", "timestamp": 1776188026.0025423, "alert": "Normal"}
+{"location": "Signal C", "vehicles": 100, "speed": 29, "status": "Heavy Traffic", "timestamp": 1776188026.0025423, "alert": "Normal"}
+{"location": "Signal A", "vehicles": 54, "speed": 43, "status": "Moderate", "timestamp": 1776188028.0036764, "alert": "Normal"}
+{"location": "Signal A", "vehicles": 54, "speed": 43, "status": "Moderate", "timestamp": 1776188028.0036764, "alert": "Normal"}
+{"location": "Signal A", "vehicles": 28, "speed": 17, "status": "Low", "timestamp": 1776188030.0049448, "alert": "Normal"}
+{"location": "Signal A", "vehicles": 28, "speed": 17, "status": "Low", "timestamp": 1776188030.0049448, "alert": "Normal"}
+{"location": "Signal C", "vehicles": 42, "speed": 7, "status": "Moderate", "timestamp": 1776188032.0061142, "alert": "Normal"}
+{"location": "Signal C", "vehicles": 42, "speed": 7, "status": "Moderate", "timestamp": 1776188032.0061142, "alert": "Normal"}
+{"location": "Signal A", "vehicles": 89, "speed": 31, "status": "Heavy Traffic", "timestamp": 1776188034.0069222, "alert": "Normal"}
+{"location": "Signal A", "vehicles": 89, "speed": 31, "status": "Heavy Traffic", "timestamp": 1776188034.0069222, "alert": "Normal"}
+{"location": "Signal C", "vehicles": 30, "speed": 37, "status": "Low", "timestamp": 1776188036.007946, "alert": "Normal"}
+{"location": "Signal C", "vehicles": 30, "speed": 37, "status": "Low", "timestamp": 1776188036.007946, "alert": "Normal"}
+{"location": "Signal C", "vehicles": 86, "speed": 24, "status": "Heavy Traffic", "timestamp": 1776188038.008845, "alert": "Normal"}
+{"location": "Signal C", "vehicles": 86, "speed": 24, "status": "Heavy Traffic", "timestamp": 1776188038.008845, "alert": "Normal"}
+{"location": "Signal B", "vehicles": 54, "speed": 24, "status": "Moderate", "timestamp": 1776188040.0103962, "alert": "Normal"}
+{"location": "Signal B", "vehicles": 54, "speed": 24, "status": "Moderate", "timestamp": 1776188040.0103962, "alert": "Normal"}
+{"location": "Signal A", "vehicles": 31, "speed": 31, "status": "Low", "timestamp": 1776188042.0119584, "alert": "Normal"}
+{"location": "Signal A", "vehicles": 31, "speed": 31, "status": "Low", "timestamp": 1776188042.0119584, "alert": "Normal"}
+{"location": "Signal B", "vehicles": 62, "speed": 51, "status": "Moderate", "timestamp": 1776188044.0128655, "alert": "Normal"}
+{"location": "Signal B", "vehicles": 62, "speed": 51, "status": "Moderate", "timestamp": 1776188044.0128655, "alert": "Normal"}
+{"location": "Signal B", "vehicles": 40, "speed": 48, "status": "Low", "timestamp": 1776188046.013948, "alert": "Normal"}
+{"location": "Signal B", "vehicles": 40, "speed": 48, "status": "Low", "timestamp": 1776188046.013948, "alert": "Normal"}
+{"location": "Signal B", "vehicles": 55, "speed": 59, "status": "Moderate", "timestamp": 1776188048.0148723, "alert": "Normal"}
+{"location": "Signal B", "vehicles": 55, "speed": 59, "status": "Moderate", "timestamp": 1776188048.0148723, "alert": "Normal"}
+{"location": "Signal C", "vehicles": 79, "speed": 10, "status": "Heavy Traffic", "timestamp": 1776188050.0159686, "alert": "Normal"}
+{"location": "Signal C", "vehicles": 79, "speed": 10, "status": "Heavy Traffic", "timestamp": 1776188050.0159686, "alert": "Normal"}
+{"location": "Signal A", "vehicles": 55, "speed": 52, "status": "Moderate", "timestamp": 1776188052.017152, "alert": "Normal"}
+{"location": "Signal A", "vehicles": 55, "speed": 52, "status": "Moderate", "timestamp": 1776188052.017152, "alert": "Normal"}
+{"location": "Signal B", "vehicles": 30, "speed": 55, "status": "Low", "timestamp": 1776188054.0184252, "alert": "Normal"}
+{"location": "Signal B", "vehicles": 30, "speed": 55, "status": "Low", "timestamp": 1776188054.0184252, "alert": "Normal"}
+{"location": "Signal A", "vehicles": 47, "speed": 8, "status": "Moderate", "timestamp": 1776188056.0195076, "alert": "Normal"}
+{"location": "Signal A", "vehicles": 47, "speed": 8, "status": "Moderate", "timestamp": 1776188056.0195076, "alert": "Normal"}
+{"location": "Signal A", "vehicles": 34, "speed": 46, "status": "Low", "timestamp": 1776188058.0204897, "alert": "Normal"}
+{"location": "Signal A", "vehicles": 34, "speed": 46, "status": "Low", "timestamp": 1776188058.0204897, "alert": "Normal"}
+{"location": "Signal B", "vehicles": 83, "speed": 22, "status": "Heavy Traffic", "timestamp": 1776188060.022078, "alert": "Normal"}
+{"location": "Signal B", "vehicles": 83, "speed": 22, "status": "Heavy Traffic", "timestamp": 1776188060.022078, "alert": "Normal"}
+{"location": "Signal A", "vehicles": 11, "speed": 55, "status": "Low", "timestamp": 1776188062.0228472, "alert": "Normal"}
+{"location": "Signal A", "vehicles": 11, "speed": 55, "status": "Low", "timestamp": 1776188062.0228472, "alert": "Normal"}
+{"location": "Signal B", "vehicles": 78, "speed": 51, "status": "Heavy Traffic", "timestamp": 1776188064.0237467, "alert": "Normal"}
+{"location": "Signal B", "vehicles": 78, "speed": 51, "status": "Heavy Traffic", "timestamp": 1776188064.0237467, "alert": "Normal"}
+{"location": "Signal B", "vehicles": 30, "speed": 28, "status": "Low", "timestamp": 1776188066.0250833, "alert": "Normal"}
+{"location": "Signal B", "vehicles": 30, "speed": 28, "status": "Low", "timestamp": 1776188066.0250833, "alert": "Normal"}
+{"location": "Signal C", "vehicles": 75, "speed": 52, "status": "Heavy Traffic", "timestamp": 1776188068.0261767, "alert": "Normal"}
+{"location": "Signal C", "vehicles": 75, "speed": 52, "status": "Heavy Traffic", "timestamp": 1776188068.0261767, "alert": "Normal"}
+{"location": "Signal C", "vehicles": 28, "speed": 39, "status": "Low", "timestamp": 1776188070.027231, "alert": "Normal"}
+{"location": "Signal C", "vehicles": 28, "speed": 39, "status": "Low", "timestamp": 1776188070.027231, "alert": "Normal"}
+{"location": "Signal A", "vehicles": 33, "speed": 28, "status": "Low", "timestamp": 1776188072.0286531, "alert": "Normal"}
+{"location": "Signal A", "vehicles": 33, "speed": 28, "status": "Low", "timestamp": 1776188072.0286531, "alert": "Normal"}
+{"location": "Signal C", "vehicles": 60, "speed": 59, "status": "Moderate", "timestamp": 1776188074.0309904, "alert": "Normal"}
+{"location": "Signal C", "vehicles": 60, "speed": 59, "status": "Moderate", "timestamp": 1776188074.0309904, "alert": "Normal"}
+{"location": "Signal A", "vehicles": 41, "speed": 36, "status": "Moderate", "timestamp": 1776188076.033569, "alert": "Normal"}
+{"location": "Signal A", "vehicles": 41, "speed": 36, "status": "Moderate", "timestamp": 1776188076.033569, "alert": "Normal"}
+{"location": "Signal B", "vehicles": 89, "speed": 23, "status": "Heavy Traffic", "timestamp": 1776188078.0356987, "alert": "Normal"}
+{"location": "Signal B", "vehicles": 89, "speed": 23, "status": "Heavy Traffic", "timestamp": 1776188078.0356987, "alert": "Normal"}
+{"location": "Signal B", "vehicles": 40, "speed": 23, "status": "Low", "timestamp": 1776188080.0380292, "alert": "Normal"}
+{"location": "Signal B", "vehicles": 40, "speed": 23, "status": "Low", "timestamp": 1776188080.0380292, "alert": "Normal"}
+{"location": "Signal B", "vehicles": 41, "speed": 28, "status": "Moderate", "timestamp": 1776188082.0402694, "alert": "Normal"}
+{"location": "Signal B", "vehicles": 41, "speed": 28, "status": "Moderate", "timestamp": 1776188082.0402694, "alert": "Normal"}
+{"location": "Signal B", "vehicles": 10, "speed": 18, "status": "Low", "timestamp": 1776188084.0415742, "alert": "Normal"}
+{"location": "Signal B", "vehicles": 10, "speed": 18, "status": "Low", "timestamp": 1776188084.0415742, "alert": "Normal"}
+{"location": "Signal B", "vehicles": 93, "speed": 34, "status": "Heavy Traffic", "timestamp": 1776188086.0428956, "alert": "Normal"}
+{"location": "Signal B", "vehicles": 93, "speed": 34, "status": "Heavy Traffic", "timestamp": 1776188086.0428956, "alert": "Normal"}
+{"location": "Signal A", "vehicles": 58, "speed": 47, "status": "Moderate", "timestamp": 1776188088.044854, "alert": "Normal"}
+{"location": "Signal A", "vehicles": 58, "speed": 47, "status": "Moderate", "timestamp": 1776188088.044854, "alert": "Normal"}
+{"location": "Signal B", "vehicles": 45, "speed": 16, "status": "Moderate", "timestamp": 1776188090.0464087, "alert": "Normal"}
+{"location": "Signal B", "vehicles": 45, "speed": 16, "status": "Moderate", "timestamp": 1776188090.0464087, "alert": "Normal"}
+{"location": "Signal A", "vehicles": 79, "speed": 30, "status": "Heavy Traffic", "timestamp": 1776188092.0487201, "alert": "Normal"}
+{"location": "Signal A", "vehicles": 79, "speed": 30, "status": "Heavy Traffic", "timestamp": 1776188092.0487201, "alert": "Normal"}
+{"location": "Signal C", "vehicles": 92, "speed": 9, "status": "Heavy Traffic", "timestamp": 1776188094.0501018, "alert": "\ud83d\udea8 Accident"}
+{"location": "Signal C", "vehicles": 92, "speed": 9, "status": "Heavy Traffic", "timestamp": 1776188094.0501018, "alert": "\ud83d\udea8 Accident"}
+{"location": "Signal A", "vehicles": 44, "speed": 12, "status": "Moderate", "timestamp": 1776188096.0512261, "alert": "Normal"}
+{"location": "Signal A", "vehicles": 44, "speed": 12, "status": "Moderate", "timestamp": 1776188096.0512261, "alert": "Normal"}
+{"location": "Signal A", "vehicles": 45, "speed": 43, "status": "Moderate", "timestamp": 1776188098.0528283, "alert": "Normal"}
+{"location": "Signal A", "vehicles": 45, "speed": 43, "status": "Moderate", "timestamp": 1776188098.0528283, "alert": "Normal"}
+{"location": "Signal C", "vehicles": 74, "speed": 57, "status": "Heavy Traffic", "timestamp": 1776188100.054077, "alert": "Normal"}
+{"location": "Signal C", "vehicles": 74, "speed": 57, "status": "Heavy Traffic", "timestamp": 1776188100.054077, "alert": "Normal"}
+{"location": "Signal A", "vehicles": 84, "speed": 59, "status": "Heavy Traffic", "timestamp": 1776188102.0551267, "alert": "Normal"}
+{"location": "Signal A", "vehicles": 84, "speed": 59, "status": "Heavy Traffic", "timestamp": 1776188102.0551267, "alert": "Normal"}
+{"location": "Signal C", "vehicles": 92, "speed": 24, "status": "Heavy Traffic", "timestamp": 1776188104.056995, "alert": "Normal"}
+{"location": "Signal C", "vehicles": 92, "speed": 24, "status": "Heavy Traffic", "timestamp": 1776188104.056995, "alert": "Normal"}
+{"location": "Signal A", "vehicles": 40, "speed": 58, "status": "Low", "timestamp": 1776188106.0588987, "alert": "Normal"}
+{"location": "Signal A", "vehicles": 40, "speed": 58, "status": "Low", "timestamp": 1776188106.0588987, "alert": "Normal"}
+{"location": "Signal B", "vehicles": 67, "speed": 40, "status": "Moderate", "timestamp": 1776188108.0607166, "alert": "Normal"}
+{"location": "Signal B", "vehicles": 67, "speed": 40, "status": "Moderate", "timestamp": 1776188108.0607166, "alert": "Normal"}
+{"location": "Signal A", "vehicles": 66, "speed": 50, "status": "Moderate", "timestamp": 1776188110.0623147, "alert": "Normal"}
+{"location": "Signal A", "vehicles": 66, "speed": 50, "status": "Moderate", "timestamp": 1776188110.0623147, "alert": "Normal"}
+{"location": "Signal A", "vehicles": 75, "speed": 34, "status": "Heavy Traffic", "timestamp": 1776188112.0648315, "alert": "Normal"}
+{"location": "Signal A", "vehicles": 75, "speed": 34, "status": "Heavy Traffic", "timestamp": 1776188112.0648315, "alert": "Normal"}
+{"location": "Signal C", "vehicles": 30, "speed": 32, "status": "Low", "timestamp": 1776188114.0669947, "alert": "Normal"}
+{"location": "Signal C", "vehicles": 30, "speed": 32, "status": "Low", "timestamp": 1776188114.0669947, "alert": "Normal"}
+{"location": "Signal A", "vehicles": 26, "speed": 21, "status": "Low", "timestamp": 1776188116.069036, "alert": "Normal"}
+{"location": "Signal A", "vehicles": 26, "speed": 21, "status": "Low", "timestamp": 1776188116.069036, "alert": "Normal"}
+{"location": "Signal C", "vehicles": 10, "speed": 52, "status": "Low", "timestamp": 1776188118.0712209, "alert": "Normal"}
+{"location": "Signal C", "vehicles": 10, "speed": 52, "status": "Low", "timestamp": 1776188118.0712209, "alert": "Normal"}
+{"location": "Signal C", "vehicles": 43, "speed": 55, "status": "Moderate", "timestamp": 1776188120.073103, "alert": "Normal"}
+{"location": "Signal C", "vehicles": 43, "speed": 55, "status": "Moderate", "timestamp": 1776188120.073103, "alert": "Normal"}
+{"location": "Signal A", "vehicles": 91, "speed": 58, "status": "Heavy Traffic", "timestamp": 1776188122.0756426, "alert": "Normal"}
+{"location": "Signal A", "vehicles": 91, "speed": 58, "status": "Heavy Traffic", "timestamp": 1776188122.0756426, "alert": "Normal"}
+{"location": "Signal A", "vehicles": 43, "speed": 32, "status": "Moderate", "timestamp": 1776188124.07812, "alert": "Normal"}
+{"location": "Signal A", "vehicles": 43, "speed": 32, "status": "Moderate", "timestamp": 1776188124.07812, "alert": "Normal"}
+{"location": "Signal C", "vehicles": 77, "speed": 51, "status": "Heavy Traffic", "timestamp": 1776188126.0797532, "alert": "Normal"}
+{"location": "Signal C", "vehicles": 77, "speed": 51, "status": "Heavy Traffic", "timestamp": 1776188126.0797532, "alert": "Normal"}
+{"location": "Signal C", "vehicles": 62, "speed": 60, "status": "Moderate", "timestamp": 1776188128.081512, "alert": "Normal"}
+{"location": "Signal B", "vehicles": 79, "speed": 51, "status": "Heavy Traffic", "timestamp": 1776188130.0830097, "alert": "Normal"}
+{"location": "Signal B", "vehicles": 79, "speed": 51, "status": "Heavy Traffic", "timestamp": 1776188130.0830097, "alert": "Normal"}
+{"location": "Signal A", "vehicles": 77, "speed": 19, "status": "Heavy Traffic", "timestamp": 1776188132.0843532, "alert": "Normal"}
+{"location": "Signal A", "vehicles": 77, "speed": 19, "status": "Heavy Traffic", "timestamp": 1776188132.0843532, "alert": "Normal"}
+{"location": "Signal C", "vehicles": 68, "speed": 44, "status": "Moderate", "timestamp": 1776188134.0851068, "alert": "Normal"}
+{"location": "Signal C", "vehicles": 68, "speed": 44, "status": "Moderate", "timestamp": 1776188134.0851068, "alert": "Normal"}
+{"location": "Signal B", "vehicles": 48, "speed": 37, "status": "Moderate", "timestamp": 1776188136.0857759, "alert": "Normal"}
+{"location": "Signal B", "vehicles": 48, "speed": 37, "status": "Moderate", "timestamp": 1776188136.0857759, "alert": "Normal"}
+{"location": "Signal B", "vehicles": 67, "speed": 38, "status": "Moderate", "timestamp": 1776188138.086837, "alert": "Normal"}
+{"location": "Signal B", "vehicles": 67, "speed": 38, "status": "Moderate", "timestamp": 1776188138.086837, "alert": "Normal"}
+{"location": "Signal B", "vehicles": 38, "speed": 23, "status": "Low", "timestamp": 1776188140.087629, "alert": "Normal"}
+{"location": "Signal B", "vehicles": 38, "speed": 23, "status": "Low", "timestamp": 1776188140.087629, "alert": "Normal"}
+{"location": "Signal A", "vehicles": 37, "speed": 52, "status": "Low", "timestamp": 1776188142.088825, "alert": "Normal"}
+{"location": "Signal A", "vehicles": 37, "speed": 52, "status": "Low", "timestamp": 1776188142.088825, "alert": "Normal"}
+{"location": "Signal A", "vehicles": 70, "speed": 39, "status": "Moderate", "timestamp": 1776188144.090205, "alert": "Normal"}
+{"location": "Signal A", "vehicles": 70, "speed": 39, "status": "Moderate", "timestamp": 1776188144.090205, "alert": "Normal"}
+{"location": "Signal C", "vehicles": 65, "speed": 25, "status": "Moderate", "timestamp": 1776188146.0915833, "alert": "Normal"}
+{"location": "Signal C", "vehicles": 65, "speed": 25, "status": "Moderate", "timestamp": 1776188146.0915833, "alert": "Normal"}
+{"location": "Signal B", "vehicles": 16, "speed": 10, "status": "Low", "timestamp": 1776188148.0924835, "alert": "Normal"}
+{"location": "Signal B", "vehicles": 16, "speed": 10, "status": "Low", "timestamp": 1776188148.0924835, "alert": "Normal"}
+{"location": "Signal A", "vehicles": 15, "speed": 5, "status": "Low", "timestamp": 1776188150.0935516, "alert": "Normal"}
+{"location": "Signal A", "vehicles": 15, "speed": 5, "status": "Low", "timestamp": 1776188150.0935516, "alert": "Normal"}
+{"location": "Signal B", "vehicles": 41, "speed": 37, "status": "Moderate", "timestamp": 1776188152.09495, "alert": "Normal"}
+{"location": "Signal B", "vehicles": 41, "speed": 37, "status": "Moderate", "timestamp": 1776188152.09495, "alert": "Normal"}
+{"location": "Signal B", "vehicles": 59, "speed": 59, "status": "Moderate", "timestamp": 1776188154.0970552, "alert": "Normal"}
+{"location": "Signal B", "vehicles": 59, "speed": 59, "status": "Moderate", "timestamp": 1776188154.0970552, "alert": "Normal"}
+{"location": "Signal C", "vehicles": 44, "speed": 16, "status": "Moderate", "timestamp": 1776188156.0978756, "alert": "Normal"}
+{"location": "Signal C", "vehicles": 44, "speed": 16, "status": "Moderate", "timestamp": 1776188156.0978756, "alert": "Normal"}
+{"location": "Signal C", "vehicles": 56, "speed": 41, "status": "Moderate", "timestamp": 1776188158.0987062, "alert": "Normal"}
+{"location": "Signal C", "vehicles": 56, "speed": 41, "status": "Moderate", "timestamp": 1776188158.0987062, "alert": "Normal"}
+{"location": "Signal C", "vehicles": 29, "speed": 32, "status": "Low", "timestamp": 1776188160.1000388, "alert": "Normal"}
+{"location": "Signal C", "vehicles": 29, "speed": 32, "status": "Low", "timestamp": 1776188160.1000388, "alert": "Normal"}
+{"location": "Signal B", "vehicles": 20, "speed": 59, "status": "Low", "timestamp": 1776188162.1010084, "alert": "Normal"}
+{"location": "Signal B", "vehicles": 20, "speed": 59, "status": "Low", "timestamp": 1776188162.1010084, "alert": "Normal"}
+{"location": "Signal C", "vehicles": 74, "speed": 13, "status": "Heavy Traffic", "timestamp": 1776188164.1021347, "alert": "Normal"}
+{"location": "Signal C", "vehicles": 74, "speed": 13, "status": "Heavy Traffic", "timestamp": 1776188164.1021347, "alert": "Normal"}
+{"location": "Signal C", "vehicles": 33, "speed": 39, "status": "Low", "timestamp": 1776188166.1027346, "alert": "Normal"}
+{"location": "Signal C", "vehicles": 33, "speed": 39, "status": "Low", "timestamp": 1776188166.1027346, "alert": "Normal"}
+{"location": "Signal A", "vehicles": 34, "speed": 17, "status": "Low", "timestamp": 1776188168.1038105, "alert": "Normal"}
+{"location": "Signal A", "vehicles": 34, "speed": 17, "status": "Low", "timestamp": 1776188168.1038105, "alert": "Normal"}
+{"location": "Signal B", "vehicles": 11, "speed": 25, "status": "Low", "timestamp": 1776188170.1049793, "alert": "Normal"}
+{"location": "Signal B", "vehicles": 11, "speed": 25, "status": "Low", "timestamp": 1776188170.1049793, "alert": "Normal"}
+{"location": "Signal C", "vehicles": 53, "speed": 38, "status": "Moderate", "timestamp": 1776188172.1058185, "alert": "Normal"}
+{"location": "Signal C", "vehicles": 53, "speed": 38, "status": "Moderate", "timestamp": 1776188172.1058185, "alert": "Normal"}
+{"location": "Signal C", "vehicles": 75, "speed": 9, "status": "Heavy Traffic", "timestamp": 1776188174.1066344, "alert": "\ud83d\udea8 Accident"}
+{"location": "Signal C", "vehicles": 75, "speed": 9, "status": "Heavy Traffic", "timestamp": 1776188174.1066344, "alert": "\ud83d\udea8 Accident"}
+{"location": "Signal B", "vehicles": 31, "speed": 43, "status": "Low", "timestamp": 1776188176.1083205, "alert": "Normal"}
+{"location": "Signal B", "vehicles": 31, "speed": 43, "status": "Low", "timestamp": 1776188176.1083205, "alert": "Normal"}
+{"location": "Signal C", "vehicles": 40, "speed": 12, "status": "Low", "timestamp": 1776188178.1093605, "alert": "Normal"}
+{"location": "Signal C", "vehicles": 40, "speed": 12, "status": "Low", "timestamp": 1776188178.1093605, "alert": "Normal"}
+{"location": "Signal C", "vehicles": 22, "speed": 52, "status": "Low", "timestamp": 1776188180.110231, "alert": "Normal"}
+{"location": "Signal C", "vehicles": 22, "speed": 52, "status": "Low", "timestamp": 1776188180.110231, "alert": "Normal"}
+{"location": "Signal A", "vehicles": 64, "speed": 12, "status": "Moderate", "timestamp": 1776188182.1110494, "alert": "Normal"}
+{"location": "Signal A", "vehicles": 64, "speed": 12, "status": "Moderate", "timestamp": 1776188182.1110494, "alert": "Normal"}
+{"location": "Signal C", "vehicles": 64, "speed": 42, "status": "Moderate", "timestamp": 1776188184.1121862, "alert": "Normal"}
+{"location": "Signal C", "vehicles": 64, "speed": 42, "status": "Moderate", "timestamp": 1776188184.1121862, "alert": "Normal"}
+{"location": "Signal C", "vehicles": 60, "speed": 11, "status": "Moderate", "timestamp": 1776188186.113342, "alert": "Normal"}
+{"location": "Signal C", "vehicles": 60, "speed": 11, "status": "Moderate", "timestamp": 1776188186.113342, "alert": "Normal"}
+{"location": "Signal C", "vehicles": 37, "speed": 28, "status": "Low", "timestamp": 1776188188.114572, "alert": "Normal"}
+{"location": "Signal C", "vehicles": 37, "speed": 28, "status": "Low", "timestamp": 1776188188.114572, "alert": "Normal"}
+{"location": "Signal A", "vehicles": 68, "speed": 60, "status": "Moderate", "timestamp": 1776188190.11674, "alert": "Normal"}
+{"location": "Signal A", "vehicles": 68, "speed": 60, "status": "Moderate", "timestamp": 1776188190.11674, "alert": "Normal"}
+{"location": "Signal C", "vehicles": 77, "speed": 42, "status": "Heavy Traffic", "timestamp": 1776188192.1183379, "alert": "Normal"}
+{"location": "Signal C", "vehicles": 77, "speed": 42, "status": "Heavy Traffic", "timestamp": 1776188192.1183379, "alert": "Normal"}
+{"location": "Signal C", "vehicles": 74, "speed": 17, "status": "Heavy Traffic", "timestamp": 1776188194.1203072, "alert": "Normal"}
+{"location": "Signal C", "vehicles": 74, "speed": 17, "status": "Heavy Traffic", "timestamp": 1776188194.1203072, "alert": "Normal"}
+{"location": "Signal A", "vehicles": 39, "speed": 58, "status": "Low", "timestamp": 1776188196.1222346, "alert": "Normal"}
+{"location": "Signal A", "vehicles": 39, "speed": 58, "status": "Low", "timestamp": 1776188196.1222346, "alert": "Normal"}
+{"location": "Signal A", "vehicles": 25, "speed": 41, "status": "Low", "timestamp": 1776188198.1235974, "alert": "Normal"}
+{"location": "Signal A", "vehicles": 25, "speed": 41, "status": "Low", "timestamp": 1776188198.1235974, "alert": "Normal"}
+{"location": "Signal A", "vehicles": 58, "speed": 57, "status": "Moderate", "timestamp": 1776188200.125082, "alert": "Normal"}
+{"location": "Signal A", "vehicles": 58, "speed": 57, "status": "Moderate", "timestamp": 1776188200.125082, "alert": "Normal"}
+{"location": "Signal C", "vehicles": 90, "speed": 39, "status": "Heavy Traffic", "timestamp": 1776188202.1267862, "alert": "Normal"}
+{"location": "Signal C", "vehicles": 90, "speed": 39, "status": "Heavy Traffic", "timestamp": 1776188202.1267862, "alert": "Normal"}
+{"location": "Signal A", "vehicles": 53, "speed": 43, "status": "Moderate", "timestamp": 1776188204.128582, "alert": "Normal"}
+{"location": "Signal A", "vehicles": 53, "speed": 43, "status": "Moderate", "timestamp": 1776188204.128582, "alert": "Normal"}
+{"location": "Signal C", "vehicles": 93, "speed": 50, "status": "Heavy Traffic", "timestamp": 1776188206.130657, "alert": "Normal"}
+{"location": "Signal C", "vehicles": 93, "speed": 50, "status": "Heavy Traffic", "timestamp": 1776188206.130657, "alert": "Normal"}
+{"location": "Signal B", "vehicles": 100, "speed": 47, "status": "Heavy Traffic", "timestamp": 1776188208.1333954, "alert": "Normal"}
+{"location": "Signal B", "vehicles": 100, "speed": 47, "status": "Heavy Traffic", "timestamp": 1776188208.1333954, "alert": "Normal"}
+{"location": "Signal A", "vehicles": 61, "speed": 45, "status": "Moderate", "timestamp": 1776188210.1344411, "alert": "Normal"}
+{"location": "Signal A", "vehicles": 61, "speed": 45, "status": "Moderate", "timestamp": 1776188210.1344411, "alert": "Normal"}
+{"location": "Signal C", "vehicles": 84, "speed": 17, "status": "Heavy Traffic", "timestamp": 1776188212.1357477, "alert": "Normal"}
+{"location": "Signal C", "vehicles": 84, "speed": 17, "status": "Heavy Traffic", "timestamp": 1776188212.1357477, "alert": "Normal"}
+{"location": "Signal B", "vehicles": 62, "speed": 20, "status": "Moderate", "timestamp": 1776188214.1375933, "alert": "Normal"}
+{"location": "Signal B", "vehicles": 62, "speed": 20, "status": "Moderate", "timestamp": 1776188214.1375933, "alert": "Normal"}
+{"location": "Signal C", "vehicles": 70, "speed": 29, "status": "Moderate", "timestamp": 1776188216.1398222, "alert": "Normal"}
+{"location": "Signal C", "vehicles": 70, "speed": 29, "status": "Moderate", "timestamp": 1776188216.1398222, "alert": "Normal"}
+{"location": "Signal B", "vehicles": 31, "speed": 14, "status": "Low", "timestamp": 1776188218.1420047, "alert": "Normal"}
+{"location": "Signal B", "vehicles": 31, "speed": 14, "status": "Low", "timestamp": 1776188218.1420047, "alert": "Normal"}
+{"location": "Signal A", "vehicles": 84, "speed": 24, "status": "Heavy Traffic", "timestamp": 1776188220.1437817, "alert": "Normal"}
+{"location": "Signal A", "vehicles": 84, "speed": 24, "status": "Heavy Traffic", "timestamp": 1776188220.1437817, "alert": "Normal"}
+{"location": "Signal A", "vehicles": 76, "speed": 39, "status": "Heavy Traffic", "timestamp": 1776188222.1452708, "alert": "Normal"}
+{"location": "Signal A", "vehicles": 76, "speed": 39, "status": "Heavy Traffic", "timestamp": 1776188222.1452708, "alert": "Normal"}
+{"location": "Signal C", "vehicles": 52, "speed": 41, "status": "Moderate", "timestamp": 1776188224.1473806, "alert": "Normal"}
+{"location": "Signal C", "vehicles": 52, "speed": 41, "status": "Moderate", "timestamp": 1776188224.1473806, "alert": "Normal"}
+{"location": "Signal A", "vehicles": 34, "speed": 41, "status": "Low", "timestamp": 1776188226.1492667, "alert": "Normal"}
+{"location": "Signal A", "vehicles": 34, "speed": 41, "status": "Low", "timestamp": 1776188226.1492667, "alert": "Normal"}
+{"location": "Signal A", "vehicles": 98, "speed": 39, "status": "Heavy Traffic", "timestamp": 1776188228.151243, "alert": "Normal"}
+{"location": "Signal A", "vehicles": 98, "speed": 39, "status": "Heavy Traffic", "timestamp": 1776188228.151243, "alert": "Normal"}
+{"location": "Signal B", "vehicles": 67, "speed": 9, "status": "Moderate", "timestamp": 1776188230.1522682, "alert": "Normal"}
+{"location": "Signal B", "vehicles": 67, "speed": 9, "status": "Moderate", "timestamp": 1776188230.1522682, "alert": "Normal"}
+{"location": "Signal A", "vehicles": 80, "speed": 7, "status": "Heavy Traffic", "timestamp": 1776188232.1535962, "alert": "\ud83d\udea8 Accident"}
+{"location": "Signal A", "vehicles": 80, "speed": 7, "status": "Heavy Traffic", "timestamp": 1776188232.1535962, "alert": "\ud83d\udea8 Accident"}
+{"location": "Signal A", "vehicles": 79, "speed": 9, "status": "Heavy Traffic", "timestamp": 1776188234.1548731, "alert": "\ud83d\udea8 Accident"}
+{"location": "Signal A", "vehicles": 79, "speed": 9, "status": "Heavy Traffic", "timestamp": 1776188234.1548731, "alert": "\ud83d\udea8 Accident"}
+{"location": "Signal B", "vehicles": 60, "speed": 42, "status": "Moderate", "timestamp": 1776188236.156111, "alert": "Normal"}
+{"location": "Signal B", "vehicles": 60, "speed": 42, "status": "Moderate", "timestamp": 1776188236.156111, "alert": "Normal"}
+{"location": "Signal B", "vehicles": 23, "speed": 25, "status": "Low", "timestamp": 1776188238.1580536, "alert": "Normal"}
+{"location": "Signal B", "vehicles": 23, "speed": 25, "status": "Low", "timestamp": 1776188238.1580536, "alert": "Normal"}
+{"location": "Signal C", "vehicles": 11, "speed": 26, "status": "Low", "timestamp": 1776188240.159618, "alert": "Normal"}
+{"location": "Signal C", "vehicles": 11, "speed": 26, "status": "Low", "timestamp": 1776188240.159618, "alert": "Normal"}
+{"location": "Signal B", "vehicles": 67, "speed": 6, "status": "Moderate", "timestamp": 1776188242.161254, "alert": "Normal"}
+{"location": "Signal B", "vehicles": 67, "speed": 6, "status": "Moderate", "timestamp": 1776188242.161254, "alert": "Normal"}
+{"location": "Signal B", "vehicles": 43, "speed": 25, "status": "Moderate", "timestamp": 1776188244.1632586, "alert": "Normal"}
+{"location": "Signal B", "vehicles": 43, "speed": 25, "status": "Moderate", "timestamp": 1776188244.1632586, "alert": "Normal"}
+{"location": "Signal A", "vehicles": 56, "speed": 16, "status": "Moderate", "timestamp": 1776188246.16531, "alert": "Normal"}
+{"location": "Signal A", "vehicles": 56, "speed": 16, "status": "Moderate", "timestamp": 1776188246.16531, "alert": "Normal"}
+{"location": "Signal B", "vehicles": 16, "speed": 6, "status": "Low", "timestamp": 1776188248.1668653, "alert": "Normal"}
+{"location": "Signal B", "vehicles": 16, "speed": 6, "status": "Low", "timestamp": 1776188248.1668653, "alert": "Normal"}
+{"location": "Signal B", "vehicles": 55, "speed": 45, "status": "Moderate", "timestamp": 1776188250.1690202, "alert": "Normal"}
+{"location": "Signal B", "vehicles": 55, "speed": 45, "status": "Moderate", "timestamp": 1776188250.1690202, "alert": "Normal"}
+{"location": "Signal C", "vehicles": 85, "speed": 18, "status": "Heavy Traffic", "timestamp": 1776188252.1712773, "alert": "Normal"}
+{"location": "Signal C", "vehicles": 85, "speed": 18, "status": "Heavy Traffic", "timestamp": 1776188252.1712773, "alert": "Normal"}
+{"location": "Signal B", "vehicles": 72, "speed": 60, "status": "Heavy Traffic", "timestamp": 1776188254.174402, "alert": "Normal"}
+{"location": "Signal B", "vehicles": 72, "speed": 60, "status": "Heavy Traffic", "timestamp": 1776188254.174402, "alert": "Normal"}
+{"location": "Signal B", "vehicles": 39, "speed": 35, "status": "Low", "timestamp": 1776188256.1766636, "alert": "Normal"}
+{"location": "Signal B", "vehicles": 39, "speed": 35, "status": "Low", "timestamp": 1776188256.1766636, "alert": "Normal"}
+{"location": "Signal A", "vehicles": 89, "speed": 7, "status": "Heavy Traffic", "timestamp": 1776188258.1786559, "alert": "\ud83d\udea8 Accident"}
+{"location": "Signal A", "vehicles": 89, "speed": 7, "status": "Heavy Traffic", "timestamp": 1776188258.1786559, "alert": "\ud83d\udea8 Accident"}
+{"location": "Signal B", "vehicles": 84, "speed": 19, "status": "Heavy Traffic", "timestamp": 1776188260.1804943, "alert": "Normal"}
+{"location": "Signal B", "vehicles": 84, "speed": 19, "status": "Heavy Traffic", "timestamp": 1776188260.1804943, "alert": "Normal"}
+{"location": "Signal A", "vehicles": 99, "speed": 13, "status": "Heavy Traffic", "timestamp": 1776188262.1824746, "alert": "Normal"}
+{"location": "Signal A", "vehicles": 99, "speed": 13, "status": "Heavy Traffic", "timestamp": 1776188262.1824746, "alert": "Normal"}
+{"location": "Signal A", "vehicles": 47, "speed": 60, "status": "Moderate", "timestamp": 1776188264.1840227, "alert": "Normal"}
+{"location": "Signal A", "vehicles": 47, "speed": 60, "status": "Moderate", "timestamp": 1776188264.1840227, "alert": "Normal"}
+{"location": "Signal C", "vehicles": 76, "speed": 13, "status": "Heavy Traffic", "timestamp": 1776188266.1861074, "alert": "Normal"}
+{"location": "Signal C", "vehicles": 76, "speed": 13, "status": "Heavy Traffic", "timestamp": 1776188266.1861074, "alert": "Normal"}
+{"location": "Signal C", "vehicles": 94, "speed": 50, "status": "Heavy Traffic", "timestamp": 1776188268.1883562, "alert": "Normal"}
+{"location": "Signal C", "vehicles": 94, "speed": 50, "status": "Heavy Traffic", "timestamp": 1776188268.1883562, "alert": "Normal"}
+{"location": "Signal B", "vehicles": 65, "speed": 30, "status": "Moderate", "timestamp": 1776188270.1899602, "alert": "Normal"}
+{"location": "Signal C", "vehicles": 62, "speed": 8, "status": "Moderate", "timestamp": 1776188272.1911054, "alert": "Normal"}
+{"location": "Signal C", "vehicles": 62, "speed": 8, "status": "Moderate", "timestamp": 1776188272.1911054, "alert": "Normal"}
+{"location": "Signal A", "vehicles": 93, "speed": 46, "status": "Heavy Traffic", "timestamp": 1776188274.1930919, "alert": "Normal"}
+{"location": "Signal A", "vehicles": 93, "speed": 46, "status": "Heavy Traffic", "timestamp": 1776188274.1930919, "alert": "Normal"}
+{"location": "Signal A", "vehicles": 96, "speed": 31, "status": "Heavy Traffic", "timestamp": 1776188276.1950219, "alert": "Normal"}
+{"location": "Signal A", "vehicles": 96, "speed": 31, "status": "Heavy Traffic", "timestamp": 1776188276.1950219, "alert": "Normal"}
+{"location": "Signal A", "vehicles": 61, "speed": 17, "status": "Moderate", "timestamp": 1776188278.1964653, "alert": "Normal"}
+{"location": "Signal A", "vehicles": 61, "speed": 17, "status": "Moderate", "timestamp": 1776188278.1964653, "alert": "Normal"}
+{"location": "Signal C", "vehicles": 10, "speed": 58, "status": "Low", "timestamp": 1776188280.1983, "alert": "Normal"}
+{"location": "Signal C", "vehicles": 10, "speed": 58, "status": "Low", "timestamp": 1776188280.1983, "alert": "Normal"}
+{"location": "Signal B", "vehicles": 13, "speed": 6, "status": "Low", "timestamp": 1776188282.2002192, "alert": "Normal"}
+{"location": "Signal B", "vehicles": 13, "speed": 6, "status": "Low", "timestamp": 1776188282.2002192, "alert": "Normal"}
+{"location": "Signal C", "vehicles": 55, "speed": 6, "status": "Moderate", "timestamp": 1776188284.2014427, "alert": "Normal"}
+{"location": "Signal C", "vehicles": 55, "speed": 6, "status": "Moderate", "timestamp": 1776188284.2014427, "alert": "Normal"}
+{"location": "Signal A", "vehicles": 74, "speed": 23, "status": "Heavy Traffic", "timestamp": 1776188286.2026074, "alert": "Normal"}
+{"location": "Signal A", "vehicles": 74, "speed": 23, "status": "Heavy Traffic", "timestamp": 1776188286.2026074, "alert": "Normal"}
+{"location": "Signal C", "vehicles": 13, "speed": 26, "status": "Low", "timestamp": 1776188288.2038674, "alert": "Normal"}
+{"location": "Signal C", "vehicles": 13, "speed": 26, "status": "Low", "timestamp": 1776188288.2038674, "alert": "Normal"}
+{"location": "Signal B", "vehicles": 55, "speed": 20, "status": "Moderate", "timestamp": 1776188290.2057421, "alert": "Normal"}
+{"location": "Signal B", "vehicles": 55, "speed": 20, "status": "Moderate", "timestamp": 1776188290.2057421, "alert": "Normal"}
+{"location": "Signal C", "vehicles": 27, "speed": 32, "status": "Low", "timestamp": 1776188292.2068663, "alert": "Normal"}
+{"location": "Signal C", "vehicles": 27, "speed": 32, "status": "Low", "timestamp": 1776188292.2068663, "alert": "Normal"}
+{"location": "Signal B", "vehicles": 83, "speed": 9, "status": "Heavy Traffic", "timestamp": 1776188294.2081842, "alert": "\ud83d\udea8 Accident"}
+{"location": "Signal B", "vehicles": 83, "speed": 9, "status": "Heavy Traffic", "timestamp": 1776188294.2081842, "alert": "\ud83d\udea8 Accident"}
+{"location": "Signal B", "vehicles": 68, "speed": 24, "status": "Moderate", "timestamp": 1776188296.2093124, "alert": "Normal"}
+{"location": "Signal B", "vehicles": 68, "speed": 24, "status": "Moderate", "timestamp": 1776188296.2093124, "alert": "Normal"}
+{"location": "Signal B", "vehicles": 14, "speed": 53, "status": "Low", "timestamp": 1776188298.2101526, "alert": "Normal"}
+{"location": "Signal B", "vehicles": 14, "speed": 53, "status": "Low", "timestamp": 1776188298.2101526, "alert": "Normal"}
+{"location": "Signal B", "vehicles": 73, "speed": 31, "status": "Heavy Traffic", "timestamp": 1776188300.210939, "alert": "Normal"}
+{"location": "Signal B", "vehicles": 73, "speed": 31, "status": "Heavy Traffic", "timestamp": 1776188300.210939, "alert": "Normal"}
+{"location": "Signal B", "vehicles": 23, "speed": 55, "status": "Low", "timestamp": 1776188302.2119753, "alert": "Normal"}
+{"location": "Signal B", "vehicles": 23, "speed": 55, "status": "Low", "timestamp": 1776188302.2119753, "alert": "Normal"}
+{"location": "Signal C", "vehicles": 29, "speed": 7, "status": "Low", "timestamp": 1776188304.2129574, "alert": "Normal"}
+{"location": "Signal C", "vehicles": 29, "speed": 7, "status": "Low", "timestamp": 1776188304.2129574, "alert": "Normal"}
+{"location": "Signal B", "vehicles": 47, "speed": 50, "status": "Moderate", "timestamp": 1776188306.214987, "alert": "Normal"}
+{"location": "Signal B", "vehicles": 47, "speed": 50, "status": "Moderate", "timestamp": 1776188306.214987, "alert": "Normal"}
+{"location": "Signal A", "vehicles": 46, "speed": 30, "status": "Moderate", "timestamp": 1776188308.2169514, "alert": "Normal"}
+{"location": "Signal A", "vehicles": 46, "speed": 30, "status": "Moderate", "timestamp": 1776188308.2169514, "alert": "Normal"}
+{"location": "Signal B", "vehicles": 37, "speed": 27, "status": "Low", "timestamp": 1776188310.218335, "alert": "Normal"}
+{"location": "Signal B", "vehicles": 37, "speed": 27, "status": "Low", "timestamp": 1776188310.218335, "alert": "Normal"}
+{"location": "Signal C", "vehicles": 41, "speed": 34, "status": "Moderate", "timestamp": 1776188312.2200906, "alert": "Normal"}
+{"location": "Signal C", "vehicles": 41, "speed": 34, "status": "Moderate", "timestamp": 1776188312.2200906, "alert": "Normal"}
+{"location": "Signal C", "vehicles": 23, "speed": 21, "status": "Low", "timestamp": 1776188314.2224588, "alert": "Normal"}
+{"location": "Signal C", "vehicles": 23, "speed": 21, "status": "Low", "timestamp": 1776188314.2224588, "alert": "Normal"}
+{"location": "Signal B", "vehicles": 52, "speed": 34, "status": "Moderate", "timestamp": 1776188316.240266, "alert": "Normal"}
+{"location": "Signal B", "vehicles": 52, "speed": 34, "status": "Moderate", "timestamp": 1776188316.240266, "alert": "Normal"}
+{"location": "Signal C", "vehicles": 45, "speed": 17, "status": "Moderate", "timestamp": 1776188318.2412558, "alert": "Normal"}
+{"location": "Signal C", "vehicles": 45, "speed": 17, "status": "Moderate", "timestamp": 1776188318.2412558, "alert": "Normal"}
+{"location": "Signal B", "vehicles": 84, "speed": 9, "status": "Heavy Traffic", "timestamp": 1776188320.243558, "alert": "\ud83d\udea8 Accident"}
+{"location": "Signal B", "vehicles": 84, "speed": 9, "status": "Heavy Traffic", "timestamp": 1776188320.243558, "alert": "\ud83d\udea8 Accident"}
+{"location": "Signal B", "vehicles": 89, "speed": 44, "status": "Heavy Traffic", "timestamp": 1776188322.2458575, "alert": "Normal"}
+{"location": "Signal A", "vehicles": 95, "speed": 22, "status": "Heavy Traffic", "timestamp": 1776188324.2472334, "alert": "Normal"}
+{"location": "Signal A", "vehicles": 95, "speed": 22, "status": "Heavy Traffic", "timestamp": 1776188324.2472334, "alert": "Normal"}
+{"location": "Signal C", "vehicles": 37, "speed": 45, "status": "Low", "timestamp": 1776188326.2506146, "alert": "Normal"}
+{"location": "Signal C", "vehicles": 37, "speed": 45, "status": "Low", "timestamp": 1776188326.2506146, "alert": "Normal"}
+{"location": "Signal A", "vehicles": 14, "speed": 33, "status": "Low", "timestamp": 1776188328.2520914, "alert": "Normal"}
+{"location": "Signal A", "vehicles": 14, "speed": 33, "status": "Low", "timestamp": 1776188328.2520914, "alert": "Normal"}
+{"location": "Signal B", "vehicles": 22, "speed": 52, "status": "Low", "timestamp": 1776188330.2538404, "alert": "Normal"}
+{"location": "Signal B", "vehicles": 22, "speed": 52, "status": "Low", "timestamp": 1776188330.2538404, "alert": "Normal"}
+{"location": "Signal A", "vehicles": 91, "speed": 7, "status": "Heavy Traffic", "timestamp": 1776188332.2552059, "alert": "\ud83d\udea8 Accident"}
+{"location": "Signal A", "vehicles": 91, "speed": 7, "status": "Heavy Traffic", "timestamp": 1776188332.2552059, "alert": "\ud83d\udea8 Accident"}
+{"location": "Signal B", "vehicles": 81, "speed": 26, "status": "Heavy Traffic", "timestamp": 1776188334.2576554, "alert": "Normal"}
+{"location": "Signal B", "vehicles": 81, "speed": 26, "status": "Heavy Traffic", "timestamp": 1776188334.2576554, "alert": "Normal"}
+{"location": "Signal B", "vehicles": 67, "speed": 43, "status": "Moderate", "timestamp": 1776188336.2595115, "alert": "Normal"}
+{"location": "Signal B", "vehicles": 67, "speed": 43, "status": "Moderate", "timestamp": 1776188336.2595115, "alert": "Normal"}
+{"location": "Signal C", "vehicles": 83, "speed": 21, "status": "Heavy Traffic", "timestamp": 1776188338.2607138, "alert": "Normal"}
+{"location": "Signal C", "vehicles": 83, "speed": 21, "status": "Heavy Traffic", "timestamp": 1776188338.2607138, "alert": "Normal"}
+{"location": "Signal C", "vehicles": 71, "speed": 22, "status": "Heavy Traffic", "timestamp": 1776188340.2621338, "alert": "Normal"}
+{"location": "Signal C", "vehicles": 71, "speed": 22, "status": "Heavy Traffic", "timestamp": 1776188340.2621338, "alert": "Normal"}
+{"location": "Signal B", "vehicles": 76, "speed": 32, "status": "Heavy Traffic", "timestamp": 1776188342.2641437, "alert": "Normal"}
+{"location": "Signal B", "vehicles": 76, "speed": 32, "status": "Heavy Traffic", "timestamp": 1776188342.2641437, "alert": "Normal"}
+{"location": "Signal A", "vehicles": 25, "speed": 29, "status": "Low", "timestamp": 1776188344.2657564, "alert": "Normal"}
+{"location": "Signal A", "vehicles": 25, "speed": 29, "status": "Low", "timestamp": 1776188344.2657564, "alert": "Normal"}
+{"location": "Signal C", "vehicles": 13, "speed": 27, "status": "Low", "timestamp": 1776188346.2677655, "alert": "Normal"}
+{"location": "Signal C", "vehicles": 13, "speed": 27, "status": "Low", "timestamp": 1776188346.2677655, "alert": "Normal"}
+{"location": "Signal B", "vehicles": 59, "speed": 51, "status": "Moderate", "timestamp": 1776188348.2695644, "alert": "Normal"}
+{"location": "Signal B", "vehicles": 59, "speed": 51, "status": "Moderate", "timestamp": 1776188348.2695644, "alert": "Normal"}
+{"location": "Signal A", "vehicles": 10, "speed": 22, "status": "Low", "timestamp": 1776188350.2706773, "alert": "Normal"}
+{"location": "Signal A", "vehicles": 10, "speed": 22, "status": "Low", "timestamp": 1776188350.2706773, "alert": "Normal"}
+{"location": "Signal B", "vehicles": 58, "speed": 42, "status": "Moderate", "timestamp": 1776188352.2722275, "alert": "Normal"}
+{"location": "Signal B", "vehicles": 58, "speed": 42, "status": "Moderate", "timestamp": 1776188352.2722275, "alert": "Normal"}
+{"location": "Signal C", "vehicles": 93, "speed": 10, "status": "Heavy Traffic", "timestamp": 1776188354.2740817, "alert": "Normal"}
+{"location": "Signal C", "vehicles": 93, "speed": 10, "status": "Heavy Traffic", "timestamp": 1776188354.2740817, "alert": "Normal"}
+{"location": "Signal C", "vehicles": 73, "speed": 27, "status": "Heavy Traffic", "timestamp": 1776188356.2748017, "alert": "Normal"}
+{"location": "Signal C", "vehicles": 73, "speed": 27, "status": "Heavy Traffic", "timestamp": 1776188356.2748017, "alert": "Normal"}
+{"location": "Signal B", "vehicles": 52, "speed": 34, "status": "Moderate", "timestamp": 1776188358.2757301, "alert": "Normal"}
+{"location": "Signal B", "vehicles": 52, "speed": 34, "status": "Moderate", "timestamp": 1776188358.2757301, "alert": "Normal"}
+{"location": "Signal C", "vehicles": 47, "speed": 55, "status": "Moderate", "timestamp": 1776188360.2769475, "alert": "Normal"}
+{"location": "Signal C", "vehicles": 47, "speed": 55, "status": "Moderate", "timestamp": 1776188360.2769475, "alert": "Normal"}
+{"location": "Signal A", "vehicles": 95, "speed": 53, "status": "Heavy Traffic", "timestamp": 1776188362.2785437, "alert": "Normal"}
+{"location": "Signal A", "vehicles": 95, "speed": 53, "status": "Heavy Traffic", "timestamp": 1776188362.2785437, "alert": "Normal"}
+{"location": "Signal B", "vehicles": 32, "speed": 48, "status": "Low", "timestamp": 1776188364.2798586, "alert": "Normal"}
+{"location": "Signal B", "vehicles": 32, "speed": 48, "status": "Low", "timestamp": 1776188364.2798586, "alert": "Normal"}
+{"location": "Signal B", "vehicles": 72, "speed": 10, "status": "Heavy Traffic", "timestamp": 1776188366.2807472, "alert": "Normal"}
+{"location": "Signal B", "vehicles": 72, "speed": 10, "status": "Heavy Traffic", "timestamp": 1776188366.2807472, "alert": "Normal"}
+{"location": "Signal A", "vehicles": 92, "speed": 48, "status": "Heavy Traffic", "timestamp": 1776188368.2822087, "alert": "Normal"}
+{"location": "Signal A", "vehicles": 92, "speed": 48, "status": "Heavy Traffic", "timestamp": 1776188368.2822087, "alert": "Normal"}
+{"location": "Signal C", "vehicles": 29, "speed": 33, "status": "Low", "timestamp": 1776188370.2829916, "alert": "Normal"}
+{"location": "Signal C", "vehicles": 29, "speed": 33, "status": "Low", "timestamp": 1776188370.2829916, "alert": "Normal"}
+{"location": "Signal B", "vehicles": 52, "speed": 53, "status": "Moderate", "timestamp": 1776188372.284056, "alert": "Normal"}
+{"location": "Signal B", "vehicles": 52, "speed": 53, "status": "Moderate", "timestamp": 1776188372.284056, "alert": "Normal"}
+{"location": "Signal B", "vehicles": 44, "speed": 54, "status": "Moderate", "timestamp": 1776188374.285021, "alert": "Normal"}
+{"location": "Signal B", "vehicles": 44, "speed": 54, "status": "Moderate", "timestamp": 1776188374.285021, "alert": "Normal"}
+{"location": "Signal C", "vehicles": 35, "speed": 7, "status": "Low", "timestamp": 1776188376.2861323, "alert": "Normal"}
+{"location": "Signal C", "vehicles": 35, "speed": 7, "status": "Low", "timestamp": 1776188376.2861323, "alert": "Normal"}
+{"location": "Signal A", "vehicles": 99, "speed": 52, "status": "Heavy Traffic", "timestamp": 1776188378.2869806, "alert": "Normal"}
+{"location": "Signal A", "vehicles": 99, "speed": 52, "status": "Heavy Traffic", "timestamp": 1776188378.2869806, "alert": "Normal"}
+{"location": "Signal A", "vehicles": 40, "speed": 57, "status": "Low", "timestamp": 1776188380.2877262, "alert": "Normal"}
+{"location": "Signal A", "vehicles": 40, "speed": 57, "status": "Low", "timestamp": 1776188380.2877262, "alert": "Normal"}
+{"location": "Signal A", "vehicles": 59, "speed": 52, "status": "Moderate", "timestamp": 1776188382.2887056, "alert": "Normal"}
+{"location": "Signal A", "vehicles": 59, "speed": 52, "status": "Moderate", "timestamp": 1776188382.2887056, "alert": "Normal"}
+{"location": "Signal A", "vehicles": 10, "speed": 27, "status": "Low", "timestamp": 1776188384.2899036, "alert": "Normal"}
+{"location": "Signal A", "vehicles": 10, "speed": 27, "status": "Low", "timestamp": 1776188384.2899036, "alert": "Normal"}
+{"location": "Signal A", "vehicles": 71, "speed": 50, "status": "Heavy Traffic", "timestamp": 1776188386.2914479, "alert": "Normal"}
+{"location": "Signal A", "vehicles": 71, "speed": 50, "status": "Heavy Traffic", "timestamp": 1776188386.2914479, "alert": "Normal"}
+{"location": "Signal A", "vehicles": 88, "speed": 7, "status": "Heavy Traffic", "timestamp": 1776188388.2925313, "alert": "\ud83d\udea8 Accident"}
+{"location": "Signal A", "vehicles": 88, "speed": 7, "status": "Heavy Traffic", "timestamp": 1776188388.2925313, "alert": "\ud83d\udea8 Accident"}
+{"location": "Signal C", "vehicles": 99, "speed": 59, "status": "Heavy Traffic", "timestamp": 1776188390.294184, "alert": "Normal"}
+{"location": "Signal C", "vehicles": 99, "speed": 59, "status": "Heavy Traffic", "timestamp": 1776188390.294184, "alert": "Normal"}
+{"location": "Signal B", "vehicles": 42, "speed": 49, "status": "Moderate", "timestamp": 1776188392.295258, "alert": "Normal"}
+{"location": "Signal B", "vehicles": 42, "speed": 49, "status": "Moderate", "timestamp": 1776188392.295258, "alert": "Normal"}
+{"location": "Signal B", "vehicles": 35, "speed": 36, "status": "Low", "timestamp": 1776188394.2966647, "alert": "Normal"}
+{"location": "Signal B", "vehicles": 35, "speed": 36, "status": "Low", "timestamp": 1776188394.2966647, "alert": "Normal"}
+{"location": "Signal B", "vehicles": 94, "speed": 44, "status": "Heavy Traffic", "timestamp": 1776188396.2979221, "alert": "Normal"}
+{"location": "Signal B", "vehicles": 94, "speed": 44, "status": "Heavy Traffic", "timestamp": 1776188396.2979221, "alert": "Normal"}
+{"location": "Signal C", "vehicles": 78, "speed": 18, "status": "Heavy Traffic", "timestamp": 1776188398.300481, "alert": "Normal"}
+{"location": "Signal C", "vehicles": 78, "speed": 18, "status": "Heavy Traffic", "timestamp": 1776188398.300481, "alert": "Normal"}
+{"location": "Signal A", "vehicles": 75, "speed": 25, "status": "Heavy Traffic", "timestamp": 1776188400.3017337, "alert": "Normal"}
+{"location": "Signal A", "vehicles": 75, "speed": 25, "status": "Heavy Traffic", "timestamp": 1776188400.3017337, "alert": "Normal"}
+{"location": "Signal B", "vehicles": 85, "speed": 56, "status": "Heavy Traffic", "timestamp": 1776188402.3033438, "alert": "Normal"}
+{"location": "Signal B", "vehicles": 85, "speed": 56, "status": "Heavy Traffic", "timestamp": 1776188402.3033438, "alert": "Normal"}
+{"location": "Signal B", "vehicles": 27, "speed": 53, "status": "Low", "timestamp": 1776188404.3046284, "alert": "Normal"}
+{"location": "Signal B", "vehicles": 27, "speed": 53, "status": "Low", "timestamp": 1776188404.3046284, "alert": "Normal"}
+{"location": "Signal C", "vehicles": 50, "speed": 36, "status": "Moderate", "timestamp": 1776188406.3065534, "alert": "Normal"}
+{"location": "Signal C", "vehicles": 50, "speed": 36, "status": "Moderate", "timestamp": 1776188406.3065534, "alert": "Normal"}
+{"location": "Signal B", "vehicles": 13, "speed": 47, "status": "Low", "timestamp": 1776188408.3080091, "alert": "Normal"}
+{"location": "Signal B", "vehicles": 13, "speed": 47, "status": "Low", "timestamp": 1776188408.3080091, "alert": "Normal"}
+{"location": "Signal B", "vehicles": 77, "speed": 8, "status": "Heavy Traffic", "timestamp": 1776188410.3125134, "alert": "\ud83d\udea8 Accident"}
+{"location": "Signal B", "vehicles": 77, "speed": 8, "status": "Heavy Traffic", "timestamp": 1776188410.3125134, "alert": "\ud83d\udea8 Accident"}
+{"location": "Signal B", "vehicles": 49, "speed": 45, "status": "Moderate", "timestamp": 1776188412.3143606, "alert": "Normal"}
+{"location": "Signal B", "vehicles": 49, "speed": 45, "status": "Moderate", "timestamp": 1776188412.3143606, "alert": "Normal"}
+{"location": "Signal B", "vehicles": 45, "speed": 38, "status": "Moderate", "timestamp": 1776188414.3170803, "alert": "Normal"}
+{"location": "Signal B", "vehicles": 45, "speed": 38, "status": "Moderate", "timestamp": 1776188414.3170803, "alert": "Normal"}
+{"location": "Signal A", "vehicles": 14, "speed": 16, "status": "Low", "timestamp": 1776188416.3195555, "alert": "Normal"}
+{"location": "Signal A", "vehicles": 14, "speed": 16, "status": "Low", "timestamp": 1776188416.3195555, "alert": "Normal"}
+{"location": "Signal C", "vehicles": 18, "speed": 33, "status": "Low", "timestamp": 1776188418.3215783, "alert": "Normal"}
+{"location": "Signal C", "vehicles": 18, "speed": 33, "status": "Low", "timestamp": 1776188418.3215783, "alert": "Normal"}
+{"location": "Signal C", "vehicles": 49, "speed": 52, "status": "Moderate", "timestamp": 1776188420.323862, "alert": "Normal"}
+{"location": "Signal C", "vehicles": 49, "speed": 52, "status": "Moderate", "timestamp": 1776188420.323862, "alert": "Normal"}
+{"location": "Signal C", "vehicles": 45, "speed": 46, "status": "Moderate", "timestamp": 1776188422.3254006, "alert": "Normal"}
+{"location": "Signal C", "vehicles": 45, "speed": 46, "status": "Moderate", "timestamp": 1776188422.3254006, "alert": "Normal"}
+{"location": "Signal C", "vehicles": 90, "speed": 12, "status": "Heavy Traffic", "timestamp": 1776188424.3266459, "alert": "Normal"}
+{"location": "Signal C", "vehicles": 90, "speed": 12, "status": "Heavy Traffic", "timestamp": 1776188424.3266459, "alert": "Normal"}
+{"location": "Signal C", "vehicles": 67, "speed": 41, "status": "Moderate", "timestamp": 1776188426.328208, "alert": "Normal"}
+{"location": "Signal C", "vehicles": 67, "speed": 41, "status": "Moderate", "timestamp": 1776188426.328208, "alert": "Normal"}
+{"location": "Signal C", "vehicles": 99, "speed": 12, "status": "Heavy Traffic", "timestamp": 1776188428.3292973, "alert": "Normal"}
+{"location": "Signal C", "vehicles": 99, "speed": 12, "status": "Heavy Traffic", "timestamp": 1776188428.3292973, "alert": "Normal"}
+{"location": "Signal A", "vehicles": 70, "speed": 9, "status": "Moderate", "timestamp": 1776188430.3306472, "alert": "Normal"}
+{"location": "Signal A", "vehicles": 70, "speed": 9, "status": "Moderate", "timestamp": 1776188430.3306472, "alert": "Normal"}
+{"location": "Signal C", "vehicles": 27, "speed": 38, "status": "Low", "timestamp": 1776188432.3318822, "alert": "Normal"}
+{"location": "Signal C", "vehicles": 27, "speed": 38, "status": "Low", "timestamp": 1776188432.3318822, "alert": "Normal"}
+{"location": "Signal C", "vehicles": 16, "speed": 10, "status": "Low", "timestamp": 1776188434.3330946, "alert": "Normal"}
+{"location": "Signal C", "vehicles": 71, "speed": 21, "status": "Heavy Traffic", "timestamp": 1776188436.3341317, "alert": "Normal"}
+{"location": "Signal C", "vehicles": 71, "speed": 21, "status": "Heavy Traffic", "timestamp": 1776188436.3341317, "alert": "Normal"}
+{"location": "Signal B", "vehicles": 43, "speed": 18, "status": "Moderate", "timestamp": 1776188438.3355753, "alert": "Normal"}
+{"location": "Signal B", "vehicles": 43, "speed": 18, "status": "Moderate", "timestamp": 1776188438.3355753, "alert": "Normal"}
+{"location": "Signal B", "vehicles": 28, "speed": 6, "status": "Low", "timestamp": 1776188440.3364127, "alert": "Normal"}
+{"location": "Signal B", "vehicles": 28, "speed": 6, "status": "Low", "timestamp": 1776188440.3364127, "alert": "Normal"}
+{"location": "Signal A", "vehicles": 82, "speed": 51, "status": "Heavy Traffic", "timestamp": 1776188442.3369977, "alert": "Normal"}
+{"location": "Signal A", "vehicles": 82, "speed": 51, "status": "Heavy Traffic", "timestamp": 1776188442.3369977, "alert": "Normal"}
+{"location": "Signal B", "vehicles": 13, "speed": 17, "status": "Low", "timestamp": 1776188444.338356, "alert": "Normal"}
+{"location": "Signal B", "vehicles": 13, "speed": 17, "status": "Low", "timestamp": 1776188444.338356, "alert": "Normal"}
+{"location": "Signal A", "vehicles": 40, "speed": 45, "status": "Low", "timestamp": 1776188446.3392906, "alert": "Normal"}
+{"location": "Signal A", "vehicles": 40, "speed": 45, "status": "Low", "timestamp": 1776188446.3392906, "alert": "Normal"}
+{"location": "Signal C", "vehicles": 74, "speed": 23, "status": "Heavy Traffic", "timestamp": 1776188448.3401294, "alert": "Normal"}
+{"location": "Signal C", "vehicles": 74, "speed": 23, "status": "Heavy Traffic", "timestamp": 1776188448.3401294, "alert": "Normal"}
+{"location": "Signal A", "vehicles": 18, "speed": 50, "status": "Low", "timestamp": 1776188450.3410888, "alert": "Normal"}
+{"location": "Signal A", "vehicles": 18, "speed": 50, "status": "Low", "timestamp": 1776188450.3410888, "alert": "Normal"}
+{"location": "Signal C", "vehicles": 31, "speed": 30, "status": "Low", "timestamp": 1776188452.3423364, "alert": "Normal"}
+{"location": "Signal C", "vehicles": 31, "speed": 30, "status": "Low", "timestamp": 1776188452.3423364, "alert": "Normal"}
+{"location": "Signal A", "vehicles": 87, "speed": 43, "status": "Heavy Traffic", "timestamp": 1776188454.3431988, "alert": "Normal"}
+{"location": "Signal A", "vehicles": 87, "speed": 43, "status": "Heavy Traffic", "timestamp": 1776188454.3431988, "alert": "Normal"}
+{"location": "Signal B", "vehicles": 24, "speed": 25, "status": "Low", "timestamp": 1776188456.3441677, "alert": "Normal"}
+{"location": "Signal B", "vehicles": 24, "speed": 25, "status": "Low", "timestamp": 1776188456.3441677, "alert": "Normal"}
+{"location": "Signal C", "vehicles": 87, "speed": 7, "status": "Heavy Traffic", "timestamp": 1776188458.346306, "alert": "\ud83d\udea8 Accident"}
+{"location": "Signal C", "vehicles": 87, "speed": 7, "status": "Heavy Traffic", "timestamp": 1776188458.346306, "alert": "\ud83d\udea8 Accident"}
+{"location": "Signal B", "vehicles": 80, "speed": 40, "status": "Heavy Traffic", "timestamp": 1776188460.348757, "alert": "Normal"}
+{"location": "Signal B", "vehicles": 80, "speed": 40, "status": "Heavy Traffic", "timestamp": 1776188460.348757, "alert": "Normal"}
+{"location": "Signal C", "vehicles": 96, "speed": 49, "status": "Heavy Traffic", "timestamp": 1776188462.3502977, "alert": "Normal"}
+{"location": "Signal C", "vehicles": 96, "speed": 49, "status": "Heavy Traffic", "timestamp": 1776188462.3502977, "alert": "Normal"}
+{"location": "Signal B", "vehicles": 61, "speed": 27, "status": "Moderate", "timestamp": 1776188464.3519063, "alert": "Normal"}
+{"location": "Signal B", "vehicles": 61, "speed": 27, "status": "Moderate", "timestamp": 1776188464.3519063, "alert": "Normal"}
+{"location": "Signal C", "vehicles": 69, "speed": 28, "status": "Moderate", "timestamp": 1776188466.353693, "alert": "Normal"}
+{"location": "Signal C", "vehicles": 69, "speed": 28, "status": "Moderate", "timestamp": 1776188466.353693, "alert": "Normal"}
+{"location": "Signal C", "vehicles": 44, "speed": 16, "status": "Moderate", "timestamp": 1776188468.3547795, "alert": "Normal"}
+{"location": "Signal C", "vehicles": 44, "speed": 16, "status": "Moderate", "timestamp": 1776188468.3547795, "alert": "Normal"}
+{"location": "Signal C", "vehicles": 88, "speed": 49, "status": "Heavy Traffic", "timestamp": 1776188470.357136, "alert": "Normal"}
+{"location": "Signal C", "vehicles": 88, "speed": 49, "status": "Heavy Traffic", "timestamp": 1776188470.357136, "alert": "Normal"}
+{"location": "Signal A", "vehicles": 97, "speed": 17, "status": "Heavy Traffic", "timestamp": 1776188472.357783, "alert": "Normal"}
+{"location": "Signal A", "vehicles": 97, "speed": 17, "status": "Heavy Traffic", "timestamp": 1776188472.357783, "alert": "Normal"}
+{"location": "Signal C", "vehicles": 74, "speed": 47, "status": "Heavy Traffic", "timestamp": 1776188474.358855, "alert": "Normal"}
+{"location": "Signal C", "vehicles": 74, "speed": 47, "status": "Heavy Traffic", "timestamp": 1776188474.358855, "alert": "Normal"}
+{"location": "Signal C", "vehicles": 98, "speed": 8, "status": "Heavy Traffic", "timestamp": 1776188476.3602533, "alert": "\ud83d\udea8 Accident"}
+{"location": "Signal C", "vehicles": 98, "speed": 8, "status": "Heavy Traffic", "timestamp": 1776188476.3602533, "alert": "\ud83d\udea8 Accident"}
+{"location": "Signal C", "vehicles": 75, "speed": 47, "status": "Heavy Traffic", "timestamp": 1776188478.3610198, "alert": "Normal"}
+{"location": "Signal C", "vehicles": 75, "speed": 47, "status": "Heavy Traffic", "timestamp": 1776188478.3610198, "alert": "Normal"}
+{"location": "Signal A", "vehicles": 96, "speed": 38, "status": "Heavy Traffic", "timestamp": 1776188480.3622732, "alert": "Normal"}
+{"location": "Signal A", "vehicles": 96, "speed": 38, "status": "Heavy Traffic", "timestamp": 1776188480.3622732, "alert": "Normal"}
+{"location": "Signal B", "vehicles": 88, "speed": 24, "status": "Heavy Traffic", "timestamp": 1776188482.3638117, "alert": "Normal"}
+{"location": "Signal B", "vehicles": 88, "speed": 24, "status": "Heavy Traffic", "timestamp": 1776188482.3638117, "alert": "Normal"}
+{"location": "Signal A", "vehicles": 59, "speed": 53, "status": "Moderate", "timestamp": 1776188484.3653276, "alert": "Normal"}
+{"location": "Signal A", "vehicles": 59, "speed": 53, "status": "Moderate", "timestamp": 1776188484.3653276, "alert": "Normal"}
+{"location": "Signal A", "vehicles": 16, "speed": 8, "status": "Low", "timestamp": 1776188486.3663306, "alert": "Normal"}
+{"location": "Signal A", "vehicles": 16, "speed": 8, "status": "Low", "timestamp": 1776188486.3663306, "alert": "Normal"}
+{"location": "Signal C", "vehicles": 90, "speed": 15, "status": "Heavy Traffic", "timestamp": 1776188488.3677046, "alert": "Normal"}
+{"location": "Signal C", "vehicles": 90, "speed": 15, "status": "Heavy Traffic", "timestamp": 1776188488.3677046, "alert": "Normal"}
+{"location": "Signal C", "vehicles": 69, "speed": 29, "status": "Moderate", "timestamp": 1776188490.3698878, "alert": "Normal"}
+{"location": "Signal C", "vehicles": 69, "speed": 29, "status": "Moderate", "timestamp": 1776188490.3698878, "alert": "Normal"}
+{"location": "Signal B", "vehicles": 45, "speed": 49, "status": "Moderate", "timestamp": 1776188492.37097, "alert": "Normal"}
+{"location": "Signal B", "vehicles": 45, "speed": 49, "status": "Moderate", "timestamp": 1776188492.37097, "alert": "Normal"}
+{"location": "Signal B", "vehicles": 60, "speed": 55, "status": "Moderate", "timestamp": 1776188494.3721867, "alert": "Normal"}
+{"location": "Signal B", "vehicles": 60, "speed": 55, "status": "Moderate", "timestamp": 1776188494.3721867, "alert": "Normal"}
+{"location": "Signal A", "vehicles": 62, "speed": 50, "status": "Moderate", "timestamp": 1776188496.3728967, "alert": "Normal"}
+{"location": "Signal A", "vehicles": 62, "speed": 50, "status": "Moderate", "timestamp": 1776188496.3728967, "alert": "Normal"}
+{"location": "Signal B", "vehicles": 21, "speed": 36, "status": "Low", "timestamp": 1776188498.3742158, "alert": "Normal"}
+{"location": "Signal B", "vehicles": 21, "speed": 36, "status": "Low", "timestamp": 1776188498.3742158, "alert": "Normal"}
+{"location": "Signal A", "vehicles": 19, "speed": 10, "status": "Low", "timestamp": 1776188500.3752437, "alert": "Normal"}
+{"location": "Signal A", "vehicles": 19, "speed": 10, "status": "Low", "timestamp": 1776188500.3752437, "alert": "Normal"}
+{"location": "Signal B", "vehicles": 16, "speed": 34, "status": "Low", "timestamp": 1776188502.3769028, "alert": "Normal"}
+{"location": "Signal B", "vehicles": 16, "speed": 34, "status": "Low", "timestamp": 1776188502.3769028, "alert": "Normal"}
+{"location": "Signal A", "vehicles": 85, "speed": 14, "status": "Heavy Traffic", "timestamp": 1776188504.3782427, "alert": "Normal"}
+{"location": "Signal A", "vehicles": 85, "speed": 14, "status": "Heavy Traffic", "timestamp": 1776188504.3782427, "alert": "Normal"}
+{"location": "Signal A", "vehicles": 94, "speed": 43, "status": "Heavy Traffic", "timestamp": 1776188506.3792758, "alert": "Normal"}
+{"location": "Signal A", "vehicles": 94, "speed": 43, "status": "Heavy Traffic", "timestamp": 1776188506.3792758, "alert": "Normal"}
+{"location": "Signal B", "vehicles": 57, "speed": 24, "status": "Moderate", "timestamp": 1776188508.3803172, "alert": "Normal"}
+{"location": "Signal B", "vehicles": 57, "speed": 24, "status": "Moderate", "timestamp": 1776188508.3803172, "alert": "Normal"}
+{"location": "Signal C", "vehicles": 73, "speed": 57, "status": "Heavy Traffic", "timestamp": 1776188510.381298, "alert": "Normal"}
+{"location": "Signal C", "vehicles": 73, "speed": 57, "status": "Heavy Traffic", "timestamp": 1776188510.381298, "alert": "Normal"}
+{"location": "Signal A", "vehicles": 66, "speed": 60, "status": "Moderate", "timestamp": 1776188512.3824067, "alert": "Normal"}
+{"location": "Signal A", "vehicles": 66, "speed": 60, "status": "Moderate", "timestamp": 1776188512.3824067, "alert": "Normal"}
+{"location": "Signal B", "vehicles": 50, "speed": 11, "status": "Moderate", "timestamp": 1776188514.3839295, "alert": "Normal"}
+{"location": "Signal B", "vehicles": 50, "speed": 11, "status": "Moderate", "timestamp": 1776188514.3839295, "alert": "Normal"}
+{"location": "Signal B", "vehicles": 11, "speed": 34, "status": "Low", "timestamp": 1776188516.3851724, "alert": "Normal"}
+{"location": "Signal B", "vehicles": 11, "speed": 34, "status": "Low", "timestamp": 1776188516.3851724, "alert": "Normal"}
+{"location": "Signal B", "vehicles": 92, "speed": 38, "status": "Heavy Traffic", "timestamp": 1776188518.3863165, "alert": "Normal"}
+{"location": "Signal B", "vehicles": 92, "speed": 38, "status": "Heavy Traffic", "timestamp": 1776188518.3863165, "alert": "Normal"}
+{"location": "Signal B", "vehicles": 68, "speed": 58, "status": "Moderate", "timestamp": 1776188520.3878539, "alert": "Normal"}
+{"location": "Signal B", "vehicles": 68, "speed": 58, "status": "Moderate", "timestamp": 1776188520.3878539, "alert": "Normal"}
+{"location": "Signal B", "vehicles": 97, "speed": 53, "status": "Heavy Traffic", "timestamp": 1776188522.3890817, "alert": "Normal"}
+{"location": "Signal B", "vehicles": 97, "speed": 53, "status": "Heavy Traffic", "timestamp": 1776188522.3890817, "alert": "Normal"}
+{"location": "Signal C", "vehicles": 91, "speed": 54, "status": "Heavy Traffic", "timestamp": 1776188524.389886, "alert": "Normal"}
+{"location": "Signal C", "vehicles": 91, "speed": 54, "status": "Heavy Traffic", "timestamp": 1776188524.389886, "alert": "Normal"}
+{"location": "Signal C", "vehicles": 59, "speed": 47, "status": "Moderate", "timestamp": 1776188526.3910725, "alert": "Normal"}
+{"location": "Signal C", "vehicles": 59, "speed": 47, "status": "Moderate", "timestamp": 1776188526.3910725, "alert": "Normal"}
+{"location": "Signal A", "vehicles": 62, "speed": 45, "status": "Moderate", "timestamp": 1776188528.3924294, "alert": "Normal"}
+{"location": "Signal A", "vehicles": 62, "speed": 45, "status": "Moderate", "timestamp": 1776188528.3924294, "alert": "Normal"}
+{"location": "Signal A", "vehicles": 90, "speed": 29, "status": "Heavy Traffic", "timestamp": 1776188530.3931432, "alert": "Normal"}
+{"location": "Signal A", "vehicles": 90, "speed": 29, "status": "Heavy Traffic", "timestamp": 1776188530.3931432, "alert": "Normal"}
+{"location": "Signal C", "vehicles": 66, "speed": 50, "status": "Moderate", "timestamp": 1776188532.3938, "alert": "Normal"}
+{"location": "Signal C", "vehicles": 66, "speed": 50, "status": "Moderate", "timestamp": 1776188532.3938, "alert": "Normal"}
+{"location": "Signal B", "vehicles": 77, "speed": 50, "status": "Heavy Traffic", "timestamp": 1776188534.3949893, "alert": "Normal"}
+{"location": "Signal B", "vehicles": 77, "speed": 50, "status": "Heavy Traffic", "timestamp": 1776188534.3949893, "alert": "Normal"}
+{"location": "Signal B", "vehicles": 23, "speed": 5, "status": "Low", "timestamp": 1776188536.3962367, "alert": "Normal"}
+{"location": "Signal B", "vehicles": 23, "speed": 5, "status": "Low", "timestamp": 1776188536.3962367, "alert": "Normal"}
+{"location": "Signal A", "vehicles": 19, "speed": 19, "status": "Low", "timestamp": 1776188538.397015, "alert": "Normal"}
+{"location": "Signal A", "vehicles": 19, "speed": 19, "status": "Low", "timestamp": 1776188538.397015, "alert": "Normal"}
+{"location": "Signal C", "vehicles": 83, "speed": 50, "status": "Heavy Traffic", "timestamp": 1776188540.39853, "alert": "Normal"}
+{"location": "Signal C", "vehicles": 83, "speed": 50, "status": "Heavy Traffic", "timestamp": 1776188540.39853, "alert": "Normal"}
+{"location": "Signal A", "vehicles": 90, "speed": 23, "status": "Heavy Traffic", "timestamp": 1776188542.4001243, "alert": "Normal"}
+{"location": "Signal A", "vehicles": 90, "speed": 23, "status": "Heavy Traffic", "timestamp": 1776188542.4001243, "alert": "Normal"}
+{"location": "Signal B", "vehicles": 42, "speed": 36, "status": "Moderate", "timestamp": 1776188544.4012933, "alert": "Normal"}
+{"location": "Signal B", "vehicles": 42, "speed": 36, "status": "Moderate", "timestamp": 1776188544.4012933, "alert": "Normal"}
+{"location": "Signal C", "vehicles": 39, "speed": 13, "status": "Low", "timestamp": 1776188546.4020576, "alert": "Normal"}
+{"location": "Signal C", "vehicles": 39, "speed": 13, "status": "Low", "timestamp": 1776188546.4020576, "alert": "Normal"}
+{"location": "Signal B", "vehicles": 52, "speed": 35, "status": "Moderate", "timestamp": 1776188548.4028919, "alert": "Normal"}
+{"location": "Signal B", "vehicles": 52, "speed": 35, "status": "Moderate", "timestamp": 1776188548.4028919, "alert": "Normal"}
+{"location": "Signal C", "vehicles": 21, "speed": 24, "status": "Low", "timestamp": 1776188550.406255, "alert": "Normal"}
+{"location": "Signal C", "vehicles": 21, "speed": 24, "status": "Low", "timestamp": 1776188550.406255, "alert": "Normal"}
+{"location": "Signal C", "vehicles": 21, "speed": 44, "status": "Low", "timestamp": 1776188552.409395, "alert": "Normal"}
+{"location": "Signal C", "vehicles": 21, "speed": 44, "status": "Low", "timestamp": 1776188552.409395, "alert": "Normal"}
+{"location": "Signal A", "vehicles": 55, "speed": 47, "status": "Moderate", "timestamp": 1776188554.4102144, "alert": "Normal"}
+{"location": "Signal A", "vehicles": 55, "speed": 47, "status": "Moderate", "timestamp": 1776188554.4102144, "alert": "Normal"}
+{"location": "Signal B", "vehicles": 79, "speed": 7, "status": "Heavy Traffic", "timestamp": 1776188556.41093, "alert": "\ud83d\udea8 Accident"}
+{"location": "Signal B", "vehicles": 79, "speed": 7, "status": "Heavy Traffic", "timestamp": 1776188556.41093, "alert": "\ud83d\udea8 Accident"}
+{"location": "Signal B", "vehicles": 29, "speed": 12, "status": "Low", "timestamp": 1776188558.411866, "alert": "Normal"}
+{"location": "Signal B", "vehicles": 29, "speed": 12, "status": "Low", "timestamp": 1776188558.411866, "alert": "Normal"}
+{"location": "Signal B", "vehicles": 54, "speed": 52, "status": "Moderate", "timestamp": 1776188560.4126115, "alert": "Normal"}
+{"location": "Signal B", "vehicles": 54, "speed": 52, "status": "Moderate", "timestamp": 1776188560.4126115, "alert": "Normal"}
+{"location": "Signal C", "vehicles": 72, "speed": 57, "status": "Heavy Traffic", "timestamp": 1776188562.4137392, "alert": "Normal"}
+{"location": "Signal C", "vehicles": 72, "speed": 57, "status": "Heavy Traffic", "timestamp": 1776188562.4137392, "alert": "Normal"}
+{"location": "Signal C", "vehicles": 20, "speed": 12, "status": "Low", "timestamp": 1776188564.4146633, "alert": "Normal"}
+{"location": "Signal C", "vehicles": 20, "speed": 12, "status": "Low", "timestamp": 1776188564.4146633, "alert": "Normal"}
+{"location": "Signal C", "vehicles": 69, "speed": 17, "status": "Moderate", "timestamp": 1776188566.4157233, "alert": "Normal"}
+{"location": "Signal C", "vehicles": 69, "speed": 17, "status": "Moderate", "timestamp": 1776188566.4157233, "alert": "Normal"}
+{"location": "Signal C", "vehicles": 23, "speed": 14, "status": "Low", "timestamp": 1776188568.4167886, "alert": "Normal"}
+{"location": "Signal C", "vehicles": 23, "speed": 14, "status": "Low", "timestamp": 1776188568.4167886, "alert": "Normal"}
+{"location": "Signal A", "vehicles": 57, "speed": 38, "status": "Moderate", "timestamp": 1776188570.4177594, "alert": "Normal"}
+{"location": "Signal A", "vehicles": 57, "speed": 38, "status": "Moderate", "timestamp": 1776188570.4177594, "alert": "Normal"}
+{"location": "Signal C", "vehicles": 55, "speed": 49, "status": "Moderate", "timestamp": 1776188572.4185503, "alert": "Normal"}
+{"location": "Signal C", "vehicles": 55, "speed": 49, "status": "Moderate", "timestamp": 1776188572.4185503, "alert": "Normal"}
+{"location": "Signal C", "vehicles": 91, "speed": 47, "status": "Heavy Traffic", "timestamp": 1776188574.4195027, "alert": "Normal"}
+{"location": "Signal C", "vehicles": 91, "speed": 47, "status": "Heavy Traffic", "timestamp": 1776188574.4195027, "alert": "Normal"}
+{"location": "Signal A", "vehicles": 70, "speed": 42, "status": "Moderate", "timestamp": 1776188576.4205635, "alert": "Normal"}
+{"location": "Signal A", "vehicles": 70, "speed": 42, "status": "Moderate", "timestamp": 1776188576.4205635, "alert": "Normal"}
+{"location": "Signal A", "vehicles": 13, "speed": 52, "status": "Low", "timestamp": 1776188578.4216099, "alert": "Normal"}
+{"location": "Signal A", "vehicles": 13, "speed": 52, "status": "Low", "timestamp": 1776188578.4216099, "alert": "Normal"}
+{"location": "Signal C", "vehicles": 49, "speed": 5, "status": "Moderate", "timestamp": 1776188580.4225798, "alert": "Normal"}
+{"location": "Signal C", "vehicles": 49, "speed": 5, "status": "Moderate", "timestamp": 1776188580.4225798, "alert": "Normal"}
+{"location": "Signal B", "vehicles": 23, "speed": 22, "status": "Low", "timestamp": 1776188582.42318, "alert": "Normal"}
+{"location": "Signal B", "vehicles": 23, "speed": 22, "status": "Low", "timestamp": 1776188582.42318, "alert": "Normal"}
+{"location": "Signal B", "vehicles": 73, "speed": 53, "status": "Heavy Traffic", "timestamp": 1776188584.424088, "alert": "Normal"}
+{"location": "Signal B", "vehicles": 73, "speed": 53, "status": "Heavy Traffic", "timestamp": 1776188584.424088, "alert": "Normal"}
+{"location": "Signal C", "vehicles": 84, "speed": 32, "status": "Heavy Traffic", "timestamp": 1776188586.425751, "alert": "Normal"}
+{"location": "Signal C", "vehicles": 84, "speed": 32, "status": "Heavy Traffic", "timestamp": 1776188586.425751, "alert": "Normal"}
+{"location": "Signal C", "vehicles": 86, "speed": 48, "status": "Heavy Traffic", "timestamp": 1776188588.4267616, "alert": "Normal"}
+{"location": "Signal C", "vehicles": 86, "speed": 48, "status": "Heavy Traffic", "timestamp": 1776188588.4267616, "alert": "Normal"}
+{"location": "Signal A", "vehicles": 11, "speed": 44, "status": "Low", "timestamp": 1776188590.4278286, "alert": "Normal"}
+{"location": "Signal A", "vehicles": 11, "speed": 44, "status": "Low", "timestamp": 1776188590.4278286, "alert": "Normal"}
+{"location": "Signal B", "vehicles": 58, "speed": 8, "status": "Moderate", "timestamp": 1776188592.4294517, "alert": "Normal"}
+{"location": "Signal B", "vehicles": 58, "speed": 8, "status": "Moderate", "timestamp": 1776188592.4294517, "alert": "Normal"}
+{"location": "Signal B", "vehicles": 67, "speed": 35, "status": "Moderate", "timestamp": 1776188594.4307299, "alert": "Normal"}
+{"location": "Signal B", "vehicles": 67, "speed": 35, "status": "Moderate", "timestamp": 1776188594.4307299, "alert": "Normal"}
+{"location": "Signal C", "vehicles": 82, "speed": 59, "status": "Heavy Traffic", "timestamp": 1776188596.4314415, "alert": "Normal"}
+{"location": "Signal C", "vehicles": 82, "speed": 59, "status": "Heavy Traffic", "timestamp": 1776188596.4314415, "alert": "Normal"}
+{"location": "Signal B", "vehicles": 93, "speed": 56, "status": "Heavy Traffic", "timestamp": 1776188598.4323807, "alert": "Normal"}
+{"location": "Signal B", "vehicles": 93, "speed": 56, "status": "Heavy Traffic", "timestamp": 1776188598.4323807, "alert": "Normal"}
+{"location": "Signal B", "vehicles": 30, "speed": 43, "status": "Low", "timestamp": 1776188600.433624, "alert": "Normal"}
+{"location": "Signal B", "vehicles": 30, "speed": 43, "status": "Low", "timestamp": 1776188600.433624, "alert": "Normal"}
+{"location": "Signal C", "vehicles": 38, "speed": 47, "status": "Low", "timestamp": 1776188602.43445, "alert": "Normal"}
+{"location": "Signal C", "vehicles": 38, "speed": 47, "status": "Low", "timestamp": 1776188602.43445, "alert": "Normal"}
+{"location": "Signal A", "vehicles": 75, "speed": 33, "status": "Heavy Traffic", "timestamp": 1776188604.4354818, "alert": "Normal"}
+{"location": "Signal A", "vehicles": 75, "speed": 33, "status": "Heavy Traffic", "timestamp": 1776188604.4354818, "alert": "Normal"}
+{"location": "Signal A", "vehicles": 14, "speed": 50, "status": "Low", "timestamp": 1776188606.4365575, "alert": "Normal"}
+{"location": "Signal A", "vehicles": 14, "speed": 50, "status": "Low", "timestamp": 1776188606.4365575, "alert": "Normal"}
+{"location": "Signal A", "vehicles": 57, "speed": 44, "status": "Moderate", "timestamp": 1776188608.4374592, "alert": "Normal"}
+{"location": "Signal A", "vehicles": 57, "speed": 44, "status": "Moderate", "timestamp": 1776188608.4374592, "alert": "Normal"}
+{"location": "Signal A", "vehicles": 78, "speed": 12, "status": "Heavy Traffic", "timestamp": 1776188610.4387414, "alert": "Normal"}
+{"location": "Signal A", "vehicles": 78, "speed": 12, "status": "Heavy Traffic", "timestamp": 1776188610.4387414, "alert": "Normal"}
+{"location": "Signal A", "vehicles": 61, "speed": 51, "status": "Moderate", "timestamp": 1776188612.4398756, "alert": "Normal"}
+{"location": "Signal A", "vehicles": 61, "speed": 51, "status": "Moderate", "timestamp": 1776188612.4398756, "alert": "Normal"}
+{"location": "Signal B", "vehicles": 85, "speed": 58, "status": "Heavy Traffic", "timestamp": 1776188614.4405797, "alert": "Normal"}
+{"location": "Signal B", "vehicles": 85, "speed": 58, "status": "Heavy Traffic", "timestamp": 1776188614.4405797, "alert": "Normal"}
+{"location": "Signal B", "vehicles": 21, "speed": 59, "status": "Low", "timestamp": 1776188616.4414456, "alert": "Normal"}
+{"location": "Signal B", "vehicles": 21, "speed": 59, "status": "Low", "timestamp": 1776188616.4414456, "alert": "Normal"}
+{"location": "Signal B", "vehicles": 83, "speed": 16, "status": "Heavy Traffic", "timestamp": 1776188618.4426186, "alert": "Normal"}
+{"location": "Signal B", "vehicles": 83, "speed": 16, "status": "Heavy Traffic", "timestamp": 1776188618.4426186, "alert": "Normal"}
+{"location": "Signal C", "vehicles": 52, "speed": 6, "status": "Moderate", "timestamp": 1776188620.4435735, "alert": "Normal"}
+{"location": "Signal C", "vehicles": 52, "speed": 6, "status": "Moderate", "timestamp": 1776188620.4435735, "alert": "Normal"}
+{"location": "Signal B", "vehicles": 37, "speed": 19, "status": "Low", "timestamp": 1776188622.4443533, "alert": "Normal"}
+{"location": "Signal B", "vehicles": 37, "speed": 19, "status": "Low", "timestamp": 1776188622.4443533, "alert": "Normal"}
+{"location": "Signal B", "vehicles": 32, "speed": 25, "status": "Low", "timestamp": 1776188624.4457257, "alert": "Normal"}
+{"location": "Signal B", "vehicles": 32, "speed": 25, "status": "Low", "timestamp": 1776188624.4457257, "alert": "Normal"}
+{"location": "Signal A", "vehicles": 98, "speed": 42, "status": "Heavy Traffic", "timestamp": 1776188626.446822, "alert": "Normal"}
+{"location": "Signal A", "vehicles": 98, "speed": 42, "status": "Heavy Traffic", "timestamp": 1776188626.446822, "alert": "Normal"}
+{"location": "Signal A", "vehicles": 53, "speed": 27, "status": "Moderate", "timestamp": 1776188628.4478908, "alert": "Normal"}
+{"location": "Signal A", "vehicles": 53, "speed": 27, "status": "Moderate", "timestamp": 1776188628.4478908, "alert": "Normal"}
+{"location": "Signal B", "vehicles": 13, "speed": 46, "status": "Low", "timestamp": 1776188630.448504, "alert": "Normal"}
+{"location": "Signal B", "vehicles": 13, "speed": 46, "status": "Low", "timestamp": 1776188630.448504, "alert": "Normal"}
+{"location": "Signal C", "vehicles": 83, "speed": 26, "status": "Heavy Traffic", "timestamp": 1776188632.4495456, "alert": "Normal"}
+{"location": "Signal C", "vehicles": 83, "speed": 26, "status": "Heavy Traffic", "timestamp": 1776188632.4495456, "alert": "Normal"}
+{"location": "Signal A", "vehicles": 10, "speed": 52, "status": "Low", "timestamp": 1776188634.4506764, "alert": "Normal"}
+{"location": "Signal A", "vehicles": 10, "speed": 52, "status": "Low", "timestamp": 1776188634.4506764, "alert": "Normal"}
+{"location": "Signal C", "vehicles": 92, "speed": 20, "status": "Heavy Traffic", "timestamp": 1776188636.4516234, "alert": "Normal"}
+{"location": "Signal C", "vehicles": 92, "speed": 20, "status": "Heavy Traffic", "timestamp": 1776188636.4516234, "alert": "Normal"}
+{"location": "Signal C", "vehicles": 12, "speed": 40, "status": "Low", "timestamp": 1776188638.4526632, "alert": "Normal"}
+{"location": "Signal C", "vehicles": 12, "speed": 40, "status": "Low", "timestamp": 1776188638.4526632, "alert": "Normal"}
+{"location": "Signal B", "vehicles": 18, "speed": 32, "status": "Low", "timestamp": 1776188640.4536448, "alert": "Normal"}
+{"location": "Signal B", "vehicles": 18, "speed": 32, "status": "Low", "timestamp": 1776188640.4536448, "alert": "Normal"}
+{"location": "Signal C", "vehicles": 95, "speed": 45, "status": "Heavy Traffic", "timestamp": 1776188642.4548116, "alert": "Normal"}
+{"location": "Signal C", "vehicles": 95, "speed": 45, "status": "Heavy Traffic", "timestamp": 1776188642.4548116, "alert": "Normal"}
+{"location": "Signal B", "vehicles": 22, "speed": 11, "status": "Low", "timestamp": 1776188644.4557145, "alert": "Normal"}
+{"location": "Signal B", "vehicles": 22, "speed": 11, "status": "Low", "timestamp": 1776188644.4557145, "alert": "Normal"}
+{"location": "Signal A", "vehicles": 38, "speed": 24, "status": "Low", "timestamp": 1776188646.457011, "alert": "Normal"}
+{"location": "Signal A", "vehicles": 38, "speed": 24, "status": "Low", "timestamp": 1776188646.457011, "alert": "Normal"}
+{"location": "Signal C", "vehicles": 38, "speed": 51, "status": "Low", "timestamp": 1776188648.4577732, "alert": "Normal"}
+{"location": "Signal C", "vehicles": 38, "speed": 51, "status": "Low", "timestamp": 1776188648.4577732, "alert": "Normal"}
+{"location": "Signal B", "vehicles": 83, "speed": 27, "status": "Heavy Traffic", "timestamp": 1776188650.458886, "alert": "Normal"}
+{"location": "Signal B", "vehicles": 83, "speed": 27, "status": "Heavy Traffic", "timestamp": 1776188650.458886, "alert": "Normal"}
+{"location": "Signal B", "vehicles": 99, "speed": 57, "status": "Heavy Traffic", "timestamp": 1776188652.4595358, "alert": "Normal"}
+{"location": "Signal B", "vehicles": 99, "speed": 57, "status": "Heavy Traffic", "timestamp": 1776188652.4595358, "alert": "Normal"}
+{"location": "Signal A", "vehicles": 69, "speed": 7, "status": "Moderate", "timestamp": 1776188654.4603944, "alert": "Normal"}
+{"location": "Signal A", "vehicles": 69, "speed": 7, "status": "Moderate", "timestamp": 1776188654.4603944, "alert": "Normal"}
+{"location": "Signal C", "vehicles": 54, "speed": 26, "status": "Moderate", "timestamp": 1776188656.4611542, "alert": "Normal"}
+{"location": "Signal C", "vehicles": 54, "speed": 26, "status": "Moderate", "timestamp": 1776188656.4611542, "alert": "Normal"}
+{"location": "Signal A", "vehicles": 43, "speed": 7, "status": "Moderate", "timestamp": 1776188658.4623833, "alert": "Normal"}
+{"location": "Signal A", "vehicles": 43, "speed": 7, "status": "Moderate", "timestamp": 1776188658.4623833, "alert": "Normal"}
+{"location": "Signal B", "vehicles": 93, "speed": 47, "status": "Heavy Traffic", "timestamp": 1776188660.4632013, "alert": "Normal"}
+{"location": "Signal B", "vehicles": 93, "speed": 47, "status": "Heavy Traffic", "timestamp": 1776188660.4632013, "alert": "Normal"}
+{"location": "Signal C", "vehicles": 57, "speed": 11, "status": "Moderate", "timestamp": 1776188662.4639626, "alert": "Normal"}
+{"location": "Signal C", "vehicles": 57, "speed": 11, "status": "Moderate", "timestamp": 1776188662.4639626, "alert": "Normal"}
+{"location": "Signal B", "vehicles": 25, "speed": 11, "status": "Low", "timestamp": 1776188664.4652169, "alert": "Normal"}
+{"location": "Signal B", "vehicles": 25, "speed": 11, "status": "Low", "timestamp": 1776188664.4652169, "alert": "Normal"}
+{"location": "Signal A", "vehicles": 47, "speed": 13, "status": "Moderate", "timestamp": 1776188666.4662907, "alert": "Normal"}
+{"location": "Signal A", "vehicles": 47, "speed": 13, "status": "Moderate", "timestamp": 1776188666.4662907, "alert": "Normal"}
+{"location": "Signal B", "vehicles": 22, "speed": 30, "status": "Low", "timestamp": 1776188668.4675317, "alert": "Normal"}
+{"location": "Signal B", "vehicles": 22, "speed": 30, "status": "Low", "timestamp": 1776188668.4675317, "alert": "Normal"}
+{"location": "Signal C", "vehicles": 97, "speed": 25, "status": "Heavy Traffic", "timestamp": 1776188670.4685626, "alert": "Normal"}
+{"location": "Signal C", "vehicles": 97, "speed": 25, "status": "Heavy Traffic", "timestamp": 1776188670.4685626, "alert": "Normal"}
+{"location": "Signal A", "vehicles": 93, "speed": 57, "status": "Heavy Traffic", "timestamp": 1776188672.469639, "alert": "Normal"}
+{"location": "Signal A", "vehicles": 93, "speed": 57, "status": "Heavy Traffic", "timestamp": 1776188672.469639, "alert": "Normal"}
+{"location": "Signal C", "vehicles": 43, "speed": 60, "status": "Moderate", "timestamp": 1776188674.4708366, "alert": "Normal"}
+{"location": "Signal C", "vehicles": 43, "speed": 60, "status": "Moderate", "timestamp": 1776188674.4708366, "alert": "Normal"}
+{"location": "Signal A", "vehicles": 68, "speed": 27, "status": "Moderate", "timestamp": 1776188676.4719925, "alert": "Normal"}
+{"location": "Signal A", "vehicles": 68, "speed": 27, "status": "Moderate", "timestamp": 1776188676.4719925, "alert": "Normal"}
+{"location": "Signal B", "vehicles": 75, "speed": 44, "status": "Heavy Traffic", "timestamp": 1776188678.472984, "alert": "Normal"}
+{"location": "Signal B", "vehicles": 75, "speed": 44, "status": "Heavy Traffic", "timestamp": 1776188678.472984, "alert": "Normal"}
+{"location": "Signal A", "vehicles": 30, "speed": 48, "status": "Low", "timestamp": 1776188680.4743023, "alert": "Normal"}
+{"location": "Signal A", "vehicles": 30, "speed": 48, "status": "Low", "timestamp": 1776188680.4743023, "alert": "Normal"}
+{"location": "Signal A", "vehicles": 81, "speed": 20, "status": "Heavy Traffic", "timestamp": 1776188682.4756124, "alert": "Normal"}
+{"location": "Signal A", "vehicles": 81, "speed": 20, "status": "Heavy Traffic", "timestamp": 1776188682.4756124, "alert": "Normal"}
+{"location": "Signal C", "vehicles": 14, "speed": 14, "status": "Low", "timestamp": 1776188684.4766777, "alert": "Normal"}
+{"location": "Signal C", "vehicles": 14, "speed": 14, "status": "Low", "timestamp": 1776188684.4766777, "alert": "Normal"}
+{"location": "Signal A", "vehicles": 89, "speed": 17, "status": "Heavy Traffic", "timestamp": 1776188686.4780705, "alert": "Normal"}
+{"location": "Signal A", "vehicles": 89, "speed": 17, "status": "Heavy Traffic", "timestamp": 1776188686.4780705, "alert": "Normal"}
+{"location": "Signal A", "vehicles": 21, "speed": 56, "status": "Low", "timestamp": 1776188688.4793434, "alert": "Normal"}
+{"location": "Signal A", "vehicles": 21, "speed": 56, "status": "Low", "timestamp": 1776188688.4793434, "alert": "Normal"}
+{"location": "Signal B", "vehicles": 59, "speed": 52, "status": "Moderate", "timestamp": 1776188690.4805453, "alert": "Normal"}
+{"location": "Signal B", "vehicles": 59, "speed": 52, "status": "Moderate", "timestamp": 1776188690.4805453, "alert": "Normal"}
+{"location": "Signal C", "vehicles": 45, "speed": 54, "status": "Moderate", "timestamp": 1776188692.481334, "alert": "Normal"}
+{"location": "Signal C", "vehicles": 45, "speed": 54, "status": "Moderate", "timestamp": 1776188692.481334, "alert": "Normal"}
+{"location": "Signal C", "vehicles": 44, "speed": 10, "status": "Moderate", "timestamp": 1776188694.4826121, "alert": "Normal"}
+{"location": "Signal C", "vehicles": 44, "speed": 10, "status": "Moderate", "timestamp": 1776188694.4826121, "alert": "Normal"}
+{"location": "Signal C", "vehicles": 66, "speed": 32, "status": "Moderate", "timestamp": 1776188696.48431, "alert": "Normal"}
+{"location": "Signal C", "vehicles": 66, "speed": 32, "status": "Moderate", "timestamp": 1776188696.48431, "alert": "Normal"}
+{"location": "Signal A", "vehicles": 28, "speed": 36, "status": "Low", "timestamp": 1776188698.4856372, "alert": "Normal"}
+{"location": "Signal A", "vehicles": 28, "speed": 36, "status": "Low", "timestamp": 1776188698.4856372, "alert": "Normal"}
+{"location": "Signal C", "vehicles": 43, "speed": 59, "status": "Moderate", "timestamp": 1776188700.4867876, "alert": "Normal"}
+{"location": "Signal C", "vehicles": 43, "speed": 59, "status": "Moderate", "timestamp": 1776188700.4867876, "alert": "Normal"}
+{"location": "Signal B", "vehicles": 38, "speed": 31, "status": "Low", "timestamp": 1776188702.4878294, "alert": "Normal"}
+{"location": "Signal B", "vehicles": 38, "speed": 31, "status": "Low", "timestamp": 1776188702.4878294, "alert": "Normal"}
+{"location": "Signal C", "vehicles": 78, "speed": 20, "status": "Heavy Traffic", "timestamp": 1776188704.4892452, "alert": "Normal"}
+{"location": "Signal C", "vehicles": 78, "speed": 20, "status": "Heavy Traffic", "timestamp": 1776188704.4892452, "alert": "Normal"}
+{"location": "Signal B", "vehicles": 82, "speed": 30, "status": "Heavy Traffic", "timestamp": 1776188706.490458, "alert": "Normal"}
+{"location": "Signal B", "vehicles": 82, "speed": 30, "status": "Heavy Traffic", "timestamp": 1776188706.490458, "alert": "Normal"}
+{"location": "Signal C", "vehicles": 95, "speed": 33, "status": "Heavy Traffic", "timestamp": 1776188708.491185, "alert": "Normal"}
+{"location": "Signal C", "vehicles": 95, "speed": 33, "status": "Heavy Traffic", "timestamp": 1776188708.491185, "alert": "Normal"}
+{"location": "Signal B", "vehicles": 27, "speed": 29, "status": "Low", "timestamp": 1776188710.4923983, "alert": "Normal"}
+{"location": "Signal B", "vehicles": 27, "speed": 29, "status": "Low", "timestamp": 1776188710.4923983, "alert": "Normal"}
+{"location": "Signal C", "vehicles": 93, "speed": 10, "status": "Heavy Traffic", "timestamp": 1776188712.4943883, "alert": "Normal"}
+{"location": "Signal C", "vehicles": 93, "speed": 10, "status": "Heavy Traffic", "timestamp": 1776188712.4943883, "alert": "Normal"}
+{"location": "Signal A", "vehicles": 27, "speed": 51, "status": "Low", "timestamp": 1776188714.4950776, "alert": "Normal"}
+{"location": "Signal A", "vehicles": 27, "speed": 51, "status": "Low", "timestamp": 1776188714.4950776, "alert": "Normal"}
+{"location": "Signal B", "vehicles": 70, "speed": 54, "status": "Moderate", "timestamp": 1776188716.4968035, "alert": "Normal"}
+{"location": "Signal B", "vehicles": 70, "speed": 54, "status": "Moderate", "timestamp": 1776188716.4968035, "alert": "Normal"}
+{"location": "Signal A", "vehicles": 57, "speed": 35, "status": "Moderate", "timestamp": 1776188718.497681, "alert": "Normal"}
+{"location": "Signal A", "vehicles": 57, "speed": 35, "status": "Moderate", "timestamp": 1776188718.497681, "alert": "Normal"}
+{"location": "Signal B", "vehicles": 84, "speed": 16, "status": "Heavy Traffic", "timestamp": 1776188720.498505, "alert": "Normal"}
+{"location": "Signal B", "vehicles": 84, "speed": 16, "status": "Heavy Traffic", "timestamp": 1776188720.498505, "alert": "Normal"}
+{"location": "Signal B", "vehicles": 23, "speed": 43, "status": "Low", "timestamp": 1776188722.4995878, "alert": "Normal"}
+{"location": "Signal B", "vehicles": 23, "speed": 43, "status": "Low", "timestamp": 1776188722.4995878, "alert": "Normal"}
+{"location": "Signal A", "vehicles": 47, "speed": 52, "status": "Moderate", "timestamp": 1776188724.5008187, "alert": "Normal"}
+{"location": "Signal A", "vehicles": 47, "speed": 52, "status": "Moderate", "timestamp": 1776188724.5008187, "alert": "Normal"}
+{"location": "Signal C", "vehicles": 27, "speed": 57, "status": "Low", "timestamp": 1776188726.5018547, "alert": "Normal"}
+{"location": "Signal C", "vehicles": 27, "speed": 57, "status": "Low", "timestamp": 1776188726.5018547, "alert": "Normal"}
+{"location": "Signal B", "vehicles": 45, "speed": 44, "status": "Moderate", "timestamp": 1776188728.5030184, "alert": "Normal"}
+{"location": "Signal B", "vehicles": 45, "speed": 44, "status": "Moderate", "timestamp": 1776188728.5030184, "alert": "Normal"}
+{"location": "Signal B", "vehicles": 100, "speed": 19, "status": "Heavy Traffic", "timestamp": 1776188730.5039387, "alert": "Normal"}
+{"location": "Signal B", "vehicles": 100, "speed": 19, "status": "Heavy Traffic", "timestamp": 1776188730.5039387, "alert": "Normal"}
+{"location": "Signal A", "vehicles": 52, "speed": 58, "status": "Moderate", "timestamp": 1776188732.5049715, "alert": "Normal"}
+{"location": "Signal A", "vehicles": 52, "speed": 58, "status": "Moderate", "timestamp": 1776188732.5049715, "alert": "Normal"}
+{"location": "Signal B", "vehicles": 88, "speed": 58, "status": "Heavy Traffic", "timestamp": 1776188734.505914, "alert": "Normal"}
+{"location": "Signal B", "vehicles": 88, "speed": 58, "status": "Heavy Traffic", "timestamp": 1776188734.505914, "alert": "Normal"}
+{"location": "Signal A", "vehicles": 10, "speed": 56, "status": "Low", "timestamp": 1776188736.5072315, "alert": "Normal"}
+{"location": "Signal A", "vehicles": 10, "speed": 56, "status": "Low", "timestamp": 1776188736.5072315, "alert": "Normal"}
+{"location": "Signal B", "vehicles": 66, "speed": 37, "status": "Moderate", "timestamp": 1776188738.508502, "alert": "Normal"}
+{"location": "Signal B", "vehicles": 66, "speed": 37, "status": "Moderate", "timestamp": 1776188738.508502, "alert": "Normal"}
+{"location": "Signal B", "vehicles": 14, "speed": 45, "status": "Low", "timestamp": 1776188740.5098863, "alert": "Normal"}
+{"location": "Signal B", "vehicles": 14, "speed": 45, "status": "Low", "timestamp": 1776188740.5098863, "alert": "Normal"}
+{"location": "Signal B", "vehicles": 49, "speed": 32, "status": "Moderate", "timestamp": 1776188742.5116389, "alert": "Normal"}
+{"location": "Signal B", "vehicles": 49, "speed": 32, "status": "Moderate", "timestamp": 1776188742.5116389, "alert": "Normal"}
+{"location": "Signal C", "vehicles": 58, "speed": 5, "status": "Moderate", "timestamp": 1776188744.5136764, "alert": "Normal"}
+{"location": "Signal C", "vehicles": 58, "speed": 5, "status": "Moderate", "timestamp": 1776188744.5136764, "alert": "Normal"}
+{"location": "Signal A", "vehicles": 71, "speed": 53, "status": "Heavy Traffic", "timestamp": 1776188746.514707, "alert": "Normal"}
+{"location": "Signal A", "vehicles": 71, "speed": 53, "status": "Heavy Traffic", "timestamp": 1776188746.514707, "alert": "Normal"}
+{"location": "Signal B", "vehicles": 69, "speed": 5, "status": "Moderate", "timestamp": 1776188748.515759, "alert": "Normal"}
+{"location": "Signal B", "vehicles": 69, "speed": 5, "status": "Moderate", "timestamp": 1776188748.515759, "alert": "Normal"}
+{"location": "Signal B", "vehicles": 72, "speed": 46, "status": "Heavy Traffic", "timestamp": 1776188750.51724, "alert": "Normal"}
+{"location": "Signal B", "vehicles": 72, "speed": 46, "status": "Heavy Traffic", "timestamp": 1776188750.51724, "alert": "Normal"}
+{"location": "Signal B", "vehicles": 44, "speed": 22, "status": "Moderate", "timestamp": 1776188752.5180357, "alert": "Normal"}
+{"location": "Signal B", "vehicles": 44, "speed": 22, "status": "Moderate", "timestamp": 1776188752.5180357, "alert": "Normal"}
+{"location": "Signal B", "vehicles": 81, "speed": 19, "status": "Heavy Traffic", "timestamp": 1776188754.519477, "alert": "Normal"}
+{"location": "Signal B", "vehicles": 81, "speed": 19, "status": "Heavy Traffic", "timestamp": 1776188754.519477, "alert": "Normal"}
+{"location": "Signal A", "vehicles": 95, "speed": 22, "status": "Heavy Traffic", "timestamp": 1776188756.520304, "alert": "Normal"}
+{"location": "Signal A", "vehicles": 95, "speed": 22, "status": "Heavy Traffic", "timestamp": 1776188756.520304, "alert": "Normal"}
+{"location": "Signal C", "vehicles": 66, "speed": 40, "status": "Moderate", "timestamp": 1776188758.521315, "alert": "Normal"}
+{"location": "Signal C", "vehicles": 66, "speed": 40, "status": "Moderate", "timestamp": 1776188758.521315, "alert": "Normal"}
+{"location": "Signal B", "vehicles": 93, "speed": 15, "status": "Heavy Traffic", "timestamp": 1776188760.5227907, "alert": "Normal"}
+{"location": "Signal B", "vehicles": 93, "speed": 15, "status": "Heavy Traffic", "timestamp": 1776188760.5227907, "alert": "Normal"}
+{"location": "Signal A", "vehicles": 51, "speed": 30, "status": "Moderate", "timestamp": 1776188762.5247753, "alert": "Normal"}
+{"location": "Signal A", "vehicles": 51, "speed": 30, "status": "Moderate", "timestamp": 1776188762.5247753, "alert": "Normal"}
+{"location": "Signal A", "vehicles": 46, "speed": 22, "status": "Moderate", "timestamp": 1776188764.5279474, "alert": "Normal"}
+{"location": "Signal A", "vehicles": 46, "speed": 22, "status": "Moderate", "timestamp": 1776188764.5279474, "alert": "Normal"}
+{"location": "Signal B", "vehicles": 46, "speed": 8, "status": "Moderate", "timestamp": 1776188766.530126, "alert": "Normal"}
+{"location": "Signal B", "vehicles": 46, "speed": 8, "status": "Moderate", "timestamp": 1776188766.530126, "alert": "Normal"}
+{"location": "Signal C", "vehicles": 81, "speed": 38, "status": "Heavy Traffic", "timestamp": 1776188768.5318928, "alert": "Normal"}
+{"location": "Signal C", "vehicles": 81, "speed": 38, "status": "Heavy Traffic", "timestamp": 1776188768.5318928, "alert": "Normal"}
+{"location": "Signal C", "vehicles": 77, "speed": 55, "status": "Heavy Traffic", "timestamp": 1776188770.5336509, "alert": "Normal"}
+{"location": "Signal C", "vehicles": 77, "speed": 55, "status": "Heavy Traffic", "timestamp": 1776188770.5336509, "alert": "Normal"}
+{"location": "Signal C", "vehicles": 56, "speed": 44, "status": "Moderate", "timestamp": 1776188772.5348535, "alert": "Normal"}
+{"location": "Signal C", "vehicles": 56, "speed": 44, "status": "Moderate", "timestamp": 1776188772.5348535, "alert": "Normal"}
+{"location": "Signal A", "vehicles": 33, "speed": 20, "status": "Low", "timestamp": 1776188774.5357993, "alert": "Normal"}
+{"location": "Signal A", "vehicles": 33, "speed": 20, "status": "Low", "timestamp": 1776188774.5357993, "alert": "Normal"}
+{"location": "Signal B", "vehicles": 30, "speed": 36, "status": "Low", "timestamp": 1776188776.5369396, "alert": "Normal"}
+{"location": "Signal B", "vehicles": 30, "speed": 36, "status": "Low", "timestamp": 1776188776.5369396, "alert": "Normal"}
+{"location": "Signal B", "vehicles": 75, "speed": 17, "status": "Heavy Traffic", "timestamp": 1776188778.5391662, "alert": "Normal"}
+{"location": "Signal B", "vehicles": 75, "speed": 17, "status": "Heavy Traffic", "timestamp": 1776188778.5391662, "alert": "Normal"}
+{"location": "Signal C", "vehicles": 62, "speed": 45, "status": "Moderate", "timestamp": 1776188780.5405593, "alert": "Normal"}
+{"location": "Signal C", "vehicles": 62, "speed": 45, "status": "Moderate", "timestamp": 1776188780.5405593, "alert": "Normal"}
+{"location": "Signal A", "vehicles": 94, "speed": 33, "status": "Heavy Traffic", "timestamp": 1776188782.542822, "alert": "Normal"}
+{"location": "Signal A", "vehicles": 94, "speed": 33, "status": "Heavy Traffic", "timestamp": 1776188782.542822, "alert": "Normal"}
+{"location": "Signal A", "vehicles": 48, "speed": 26, "status": "Moderate", "timestamp": 1776188784.54467, "alert": "Normal"}
+{"location": "Signal A", "vehicles": 48, "speed": 26, "status": "Moderate", "timestamp": 1776188784.54467, "alert": "Normal"}
+{"location": "Signal B", "vehicles": 48, "speed": 36, "status": "Moderate", "timestamp": 1776188786.546115, "alert": "Normal"}
+{"location": "Signal B", "vehicles": 48, "speed": 36, "status": "Moderate", "timestamp": 1776188786.546115, "alert": "Normal"}
+{"location": "Signal B", "vehicles": 34, "speed": 18, "status": "Low", "timestamp": 1776188788.548374, "alert": "Normal"}
+{"location": "Signal B", "vehicles": 34, "speed": 18, "status": "Low", "timestamp": 1776188788.548374, "alert": "Normal"}
+{"location": "Signal A", "vehicles": 12, "speed": 9, "status": "Low", "timestamp": 1776188790.5496805, "alert": "Normal"}
+{"location": "Signal A", "vehicles": 12, "speed": 9, "status": "Low", "timestamp": 1776188790.5496805, "alert": "Normal"}
+{"location": "Signal A", "vehicles": 27, "speed": 24, "status": "Low", "timestamp": 1776188792.5519612, "alert": "Normal"}
+{"location": "Signal A", "vehicles": 27, "speed": 24, "status": "Low", "timestamp": 1776188792.5519612, "alert": "Normal"}
+{"location": "Signal C", "vehicles": 69, "speed": 7, "status": "Moderate", "timestamp": 1776188794.5539625, "alert": "Normal"}
+{"location": "Signal C", "vehicles": 69, "speed": 7, "status": "Moderate", "timestamp": 1776188794.5539625, "alert": "Normal"}
+{"location": "Signal B", "vehicles": 43, "speed": 26, "status": "Moderate", "timestamp": 1776188796.5558376, "alert": "Normal"}
+{"location": "Signal B", "vehicles": 43, "speed": 26, "status": "Moderate", "timestamp": 1776188796.5558376, "alert": "Normal"}
+{"location": "Signal C", "vehicles": 19, "speed": 60, "status": "Low", "timestamp": 1776188798.5581899, "alert": "Normal"}
+{"location": "Signal C", "vehicles": 19, "speed": 60, "status": "Low", "timestamp": 1776188798.5581899, "alert": "Normal"}
+{"location": "Signal B", "vehicles": 22, "speed": 52, "status": "Low", "timestamp": 1776188800.5592399, "alert": "Normal"}
+{"location": "Signal B", "vehicles": 22, "speed": 52, "status": "Low", "timestamp": 1776188800.5592399, "alert": "Normal"}
+{"location": "Signal A", "vehicles": 33, "speed": 13, "status": "Low", "timestamp": 1776188802.5635474, "alert": "Normal"}
+{"location": "Signal A", "vehicles": 33, "speed": 13, "status": "Low", "timestamp": 1776188802.5635474, "alert": "Normal"}
+{"location": "Signal A", "vehicles": 89, "speed": 23, "status": "Heavy Traffic", "timestamp": 1776188804.5751448, "alert": "Normal"}
+{"location": "Signal A", "vehicles": 89, "speed": 23, "status": "Heavy Traffic", "timestamp": 1776188804.5751448, "alert": "Normal"}
+{"location": "Signal C", "vehicles": 95, "speed": 31, "status": "Heavy Traffic", "timestamp": 1776188806.576875, "alert": "Normal"}
+{"location": "Signal C", "vehicles": 95, "speed": 31, "status": "Heavy Traffic", "timestamp": 1776188806.576875, "alert": "Normal"}
+{"location": "Signal C", "vehicles": 11, "speed": 48, "status": "Low", "timestamp": 1776188808.5785034, "alert": "Normal"}
+{"location": "Signal C", "vehicles": 11, "speed": 48, "status": "Low", "timestamp": 1776188808.5785034, "alert": "Normal"}
+{"location": "Signal B", "vehicles": 70, "speed": 42, "status": "Moderate", "timestamp": 1776188810.5804012, "alert": "Normal"}
+{"location": "Signal B", "vehicles": 70, "speed": 42, "status": "Moderate", "timestamp": 1776188810.5804012, "alert": "Normal"}
+{"location": "Signal A", "vehicles": 26, "speed": 5, "status": "Low", "timestamp": 1776188812.5817933, "alert": "Normal"}
+{"location": "Signal A", "vehicles": 26, "speed": 5, "status": "Low", "timestamp": 1776188812.5817933, "alert": "Normal"}
+{"location": "Signal A", "vehicles": 14, "speed": 24, "status": "Low", "timestamp": 1776188814.5832367, "alert": "Normal"}
+{"location": "Signal A", "vehicles": 14, "speed": 24, "status": "Low", "timestamp": 1776188814.5832367, "alert": "Normal"}
+{"location": "Signal C", "vehicles": 74, "speed": 38, "status": "Heavy Traffic", "timestamp": 1776188816.5847304, "alert": "Normal"}
+{"location": "Signal C", "vehicles": 74, "speed": 38, "status": "Heavy Traffic", "timestamp": 1776188816.5847304, "alert": "Normal"}
+{"location": "Signal C", "vehicles": 87, "speed": 35, "status": "Heavy Traffic", "timestamp": 1776188818.5864208, "alert": "Normal"}
+{"location": "Signal C", "vehicles": 87, "speed": 35, "status": "Heavy Traffic", "timestamp": 1776188818.5864208, "alert": "Normal"}
+{"location": "Signal A", "vehicles": 93, "speed": 5, "status": "Heavy Traffic", "timestamp": 1776188820.5873084, "alert": "\ud83d\udea8 Accident"}
+{"location": "Signal A", "vehicles": 93, "speed": 5, "status": "Heavy Traffic", "timestamp": 1776188820.5873084, "alert": "\ud83d\udea8 Accident"}
+{"location": "Signal A", "vehicles": 90, "speed": 32, "status": "Heavy Traffic", "timestamp": 1776188822.5882246, "alert": "Normal"}
+{"location": "Signal A", "vehicles": 90, "speed": 32, "status": "Heavy Traffic", "timestamp": 1776188822.5882246, "alert": "Normal"}
+{"location": "Signal A", "vehicles": 92, "speed": 7, "status": "Heavy Traffic", "timestamp": 1776188824.5893414, "alert": "\ud83d\udea8 Accident"}
+{"location": "Signal A", "vehicles": 92, "speed": 7, "status": "Heavy Traffic", "timestamp": 1776188824.5893414, "alert": "\ud83d\udea8 Accident"}
+{"location": "Signal C", "vehicles": 99, "speed": 60, "status": "Heavy Traffic", "timestamp": 1776188826.590408, "alert": "Normal"}
+{"location": "Signal C", "vehicles": 99, "speed": 60, "status": "Heavy Traffic", "timestamp": 1776188826.590408, "alert": "Normal"}
+{"location": "Signal B", "vehicles": 25, "speed": 31, "status": "Low", "timestamp": 1776188828.5916264, "alert": "Normal"}
+{"location": "Signal B", "vehicles": 25, "speed": 31, "status": "Low", "timestamp": 1776188828.5916264, "alert": "Normal"}
+{"location": "Signal C", "vehicles": 59, "speed": 15, "status": "Moderate", "timestamp": 1776748541.9133437, "alert": "Normal"}
+{"location": "Signal C", "vehicles": 59, "speed": 15, "status": "Moderate", "timestamp": 1776748541.9133437, "alert": "Normal"}
+{"location": "Signal A", "vehicles": 30, "speed": 23, "status": "Low", "timestamp": 1776748544.0340898, "alert": "Normal"}
+{"location": "Signal A", "vehicles": 30, "speed": 23, "status": "Low", "timestamp": 1776748544.0340898, "alert": "Normal"}
+{"location": "Signal C", "vehicles": 29, "speed": 6, "status": "Low", "timestamp": 1776748546.035177, "alert": "Normal"}
+{"location": "Signal C", "vehicles": 29, "speed": 6, "status": "Low", "timestamp": 1776748546.035177, "alert": "Normal"}
+{"location": "Signal B", "vehicles": 44, "speed": 30, "status": "Moderate", "timestamp": 1776748548.0358565, "alert": "Normal"}
+{"location": "Signal B", "vehicles": 44, "speed": 30, "status": "Moderate", "timestamp": 1776748548.0358565, "alert": "Normal"}
+{"location": "Signal B", "vehicles": 32, "speed": 21, "status": "Low", "timestamp": 1776748550.0366678, "alert": "Normal"}
+{"location": "Signal B", "vehicles": 32, "speed": 21, "status": "Low", "timestamp": 1776748550.0366678, "alert": "Normal"}
+{"location": "Signal B", "vehicles": 10, "speed": 10, "status": "Low", "timestamp": 1776748552.0376706, "alert": "Normal"}
+{"location": "Signal B", "vehicles": 10, "speed": 10, "status": "Low", "timestamp": 1776748552.0376706, "alert": "Normal"}
+{"location": "Signal C", "vehicles": 10, "speed": 53, "status": "Low", "timestamp": 1776748554.038914, "alert": "Normal"}
+{"location": "Signal C", "vehicles": 10, "speed": 53, "status": "Low", "timestamp": 1776748554.038914, "alert": "Normal"}
+{"location": "Signal C", "vehicles": 88, "speed": 12, "status": "Heavy Traffic", "timestamp": 1776748556.04011, "alert": "Normal"}
+{"location": "Signal C", "vehicles": 88, "speed": 12, "status": "Heavy Traffic", "timestamp": 1776748556.04011, "alert": "Normal"}
+{"location": "Signal B", "vehicles": 74, "speed": 11, "status": "Heavy Traffic", "timestamp": 1776748558.041292, "alert": "Normal"}
+{"location": "Signal B", "vehicles": 74, "speed": 11, "status": "Heavy Traffic", "timestamp": 1776748558.041292, "alert": "Normal"}
+{"location": "Signal B", "vehicles": 84, "speed": 24, "status": "Heavy Traffic", "timestamp": 1776748560.0424995, "alert": "Normal"}
+{"location": "Signal B", "vehicles": 84, "speed": 24, "status": "Heavy Traffic", "timestamp": 1776748560.0424995, "alert": "Normal"}
+{"location": "Signal C", "vehicles": 80, "speed": 24, "status": "Heavy Traffic", "timestamp": 1776748562.0437732, "alert": "Normal"}
+{"location": "Signal C", "vehicles": 80, "speed": 24, "status": "Heavy Traffic", "timestamp": 1776748562.0437732, "alert": "Normal"}
+{"location": "Signal B", "vehicles": 22, "speed": 41, "status": "Low", "timestamp": 1776748564.0447652, "alert": "Normal"}
+{"location": "Signal B", "vehicles": 22, "speed": 41, "status": "Low", "timestamp": 1776748564.0447652, "alert": "Normal"}
+{"location": "Signal C", "vehicles": 81, "speed": 48, "status": "Heavy Traffic", "timestamp": 1776748566.0460258, "alert": "Normal"}
+{"location": "Signal C", "vehicles": 81, "speed": 48, "status": "Heavy Traffic", "timestamp": 1776748566.0460258, "alert": "Normal"}
+{"location": "Signal B", "vehicles": 65, "speed": 16, "status": "Moderate", "timestamp": 1776748568.0466683, "alert": "Normal"}
+{"location": "Signal B", "vehicles": 65, "speed": 16, "status": "Moderate", "timestamp": 1776748568.0466683, "alert": "Normal"}
+{"location": "Signal C", "vehicles": 34, "speed": 39, "status": "Low", "timestamp": 1776748570.0474515, "alert": "Normal"}
+{"location": "Signal C", "vehicles": 34, "speed": 39, "status": "Low", "timestamp": 1776748570.0474515, "alert": "Normal"}
+{"location": "Signal A", "vehicles": 60, "speed": 41, "status": "Moderate", "timestamp": 1776748572.0489006, "alert": "Normal"}
+{"location": "Signal A", "vehicles": 60, "speed": 41, "status": "Moderate", "timestamp": 1776748572.0489006, "alert": "Normal"}
+{"location": "Signal A", "vehicles": 96, "speed": 47, "status": "Heavy Traffic", "timestamp": 1776748574.050126, "alert": "Normal"}
+{"location": "Signal A", "vehicles": 96, "speed": 47, "status": "Heavy Traffic", "timestamp": 1776748574.050126, "alert": "Normal"}
+{"location": "Signal B", "vehicles": 63, "speed": 58, "status": "Moderate", "timestamp": 1776748576.0509276, "alert": "Normal"}
+{"location": "Signal B", "vehicles": 63, "speed": 58, "status": "Moderate", "timestamp": 1776748576.0509276, "alert": "Normal"}
+{"location": "Signal C", "vehicles": 91, "speed": 17, "status": "Heavy Traffic", "timestamp": 1776748578.0518327, "alert": "Normal"}
+{"location": "Signal C", "vehicles": 91, "speed": 17, "status": "Heavy Traffic", "timestamp": 1776748578.0518327, "alert": "Normal"}
+{"location": "Signal B", "vehicles": 73, "speed": 58, "status": "Heavy Traffic", "timestamp": 1776748580.0529203, "alert": "Normal"}
+{"location": "Signal B", "vehicles": 73, "speed": 58, "status": "Heavy Traffic", "timestamp": 1776748580.0529203, "alert": "Normal"}
+{"location": "Signal B", "vehicles": 28, "speed": 27, "status": "Low", "timestamp": 1776748582.053565, "alert": "Normal"}
+{"location": "Signal B", "vehicles": 28, "speed": 27, "status": "Low", "timestamp": 1776748582.053565, "alert": "Normal"}
+{"location": "Signal A", "vehicles": 74, "speed": 14, "status": "Heavy Traffic", "timestamp": 1776748584.0545578, "alert": "Normal"}
+{"location": "Signal A", "vehicles": 74, "speed": 14, "status": "Heavy Traffic", "timestamp": 1776748584.0545578, "alert": "Normal"}
+{"location": "Signal B", "vehicles": 73, "speed": 12, "status": "Heavy Traffic", "timestamp": 1776748586.0551982, "alert": "Normal"}
+{"location": "Signal B", "vehicles": 73, "speed": 12, "status": "Heavy Traffic", "timestamp": 1776748586.0551982, "alert": "Normal"}
+{"location": "Signal B", "vehicles": 90, "speed": 54, "status": "Heavy Traffic", "timestamp": 1776748588.0563462, "alert": "Normal"}
+{"location": "Signal B", "vehicles": 90, "speed": 54, "status": "Heavy Traffic", "timestamp": 1776748588.0563462, "alert": "Normal"}
+{"location": "Signal B", "vehicles": 84, "speed": 55, "status": "Heavy Traffic", "timestamp": 1776748590.0570407, "alert": "Normal"}
+{"location": "Signal B", "vehicles": 84, "speed": 55, "status": "Heavy Traffic", "timestamp": 1776748590.0570407, "alert": "Normal"}
+{"location": "Signal B", "vehicles": 64, "speed": 8, "status": "Moderate", "timestamp": 1776748592.0580275, "alert": "Normal"}
+{"location": "Signal B", "vehicles": 64, "speed": 8, "status": "Moderate", "timestamp": 1776748592.0580275, "alert": "Normal"}
+{"location": "Signal B", "vehicles": 63, "speed": 51, "status": "Moderate", "timestamp": 1776748594.0600173, "alert": "Normal"}
+{"location": "Signal B", "vehicles": 63, "speed": 51, "status": "Moderate", "timestamp": 1776748594.0600173, "alert": "Normal"}
+{"location": "Signal A", "vehicles": 20, "speed": 7, "status": "Low", "timestamp": 1776748596.0619483, "alert": "Normal"}
+{"location": "Signal A", "vehicles": 20, "speed": 7, "status": "Low", "timestamp": 1776748596.0619483, "alert": "Normal"}
+{"location": "Signal C", "vehicles": 85, "speed": 50, "status": "Heavy Traffic", "timestamp": 1776748598.063769, "alert": "Normal"}
+{"location": "Signal C", "vehicles": 85, "speed": 50, "status": "Heavy Traffic", "timestamp": 1776748598.063769, "alert": "Normal"}
+{"location": "Signal A", "vehicles": 89, "speed": 37, "status": "Heavy Traffic", "timestamp": 1776748600.0664232, "alert": "Normal"}
+{"location": "Signal A", "vehicles": 89, "speed": 37, "status": "Heavy Traffic", "timestamp": 1776748600.0664232, "alert": "Normal"}
+{"location": "Signal B", "vehicles": 10, "speed": 45, "status": "Low", "timestamp": 1776748602.0690968, "alert": "Normal"}
+{"location": "Signal B", "vehicles": 10, "speed": 45, "status": "Low", "timestamp": 1776748602.0690968, "alert": "Normal"}
+{"location": "Signal A", "vehicles": 88, "speed": 30, "status": "Heavy Traffic", "timestamp": 1776748604.071771, "alert": "Normal"}
+{"location": "Signal A", "vehicles": 88, "speed": 30, "status": "Heavy Traffic", "timestamp": 1776748604.071771, "alert": "Normal"}
+{"location": "Signal A", "vehicles": 26, "speed": 6, "status": "Low", "timestamp": 1776748606.0736651, "alert": "Normal"}
+{"location": "Signal A", "vehicles": 26, "speed": 6, "status": "Low", "timestamp": 1776748606.0736651, "alert": "Normal"}
+{"location": "Signal B", "vehicles": 15, "speed": 19, "status": "Low", "timestamp": 1776748608.0746915, "alert": "Normal"}
+{"location": "Signal B", "vehicles": 15, "speed": 19, "status": "Low", "timestamp": 1776748608.0746915, "alert": "Normal"}
+{"location": "Signal A", "vehicles": 55, "speed": 21, "status": "Moderate", "timestamp": 1776748610.0756035, "alert": "Normal"}
+{"location": "Signal A", "vehicles": 55, "speed": 21, "status": "Moderate", "timestamp": 1776748610.0756035, "alert": "Normal"}
+{"location": "Signal A", "vehicles": 56, "speed": 17, "status": "Moderate", "timestamp": 1776748612.07671, "alert": "Normal"}
+{"location": "Signal A", "vehicles": 56, "speed": 17, "status": "Moderate", "timestamp": 1776748612.07671, "alert": "Normal"}
+{"location": "Signal C", "vehicles": 30, "speed": 11, "status": "Low", "timestamp": 1776748614.0776954, "alert": "Normal"}
+{"location": "Signal C", "vehicles": 30, "speed": 11, "status": "Low", "timestamp": 1776748614.0776954, "alert": "Normal"}
+{"location": "Signal C", "vehicles": 71, "speed": 8, "status": "Heavy Traffic", "timestamp": 1776748616.0792606, "alert": "\ud83d\udea8 Accident"}
+{"location": "Signal C", "vehicles": 71, "speed": 8, "status": "Heavy Traffic", "timestamp": 1776748616.0792606, "alert": "\ud83d\udea8 Accident"}
+{"location": "Signal A", "vehicles": 39, "speed": 57, "status": "Low", "timestamp": 1776748618.0806346, "alert": "Normal"}
+{"location": "Signal A", "vehicles": 39, "speed": 57, "status": "Low", "timestamp": 1776748618.0806346, "alert": "Normal"}
+{"location": "Signal B", "vehicles": 82, "speed": 8, "status": "Heavy Traffic", "timestamp": 1776748620.0832105, "alert": "\ud83d\udea8 Accident"}
+{"location": "Signal B", "vehicles": 82, "speed": 8, "status": "Heavy Traffic", "timestamp": 1776748620.0832105, "alert": "\ud83d\udea8 Accident"}
+{"location": "Signal C", "vehicles": 64, "speed": 58, "status": "Moderate", "timestamp": 1776748622.085754, "alert": "Normal"}
+{"location": "Signal C", "vehicles": 64, "speed": 58, "status": "Moderate", "timestamp": 1776748622.085754, "alert": "Normal"}
+{"location": "Signal B", "vehicles": 98, "speed": 17, "status": "Heavy Traffic", "timestamp": 1776748624.0873733, "alert": "Normal"}
+{"location": "Signal B", "vehicles": 98, "speed": 17, "status": "Heavy Traffic", "timestamp": 1776748624.0873733, "alert": "Normal"}
+{"location": "Signal A", "vehicles": 12, "speed": 19, "status": "Low", "timestamp": 1776748626.088942, "alert": "Normal"}
+{"location": "Signal A", "vehicles": 12, "speed": 19, "status": "Low", "timestamp": 1776748626.088942, "alert": "Normal"}
+{"location": "Signal A", "vehicles": 99, "speed": 36, "status": "Heavy Traffic", "timestamp": 1776748628.0922177, "alert": "Normal"}
+{"location": "Signal A", "vehicles": 99, "speed": 36, "status": "Heavy Traffic", "timestamp": 1776748628.0922177, "alert": "Normal"}
+{"location": "Signal A", "vehicles": 82, "speed": 44, "status": "Heavy Traffic", "timestamp": 1776748630.0932474, "alert": "Normal"}
+{"location": "Signal A", "vehicles": 82, "speed": 44, "status": "Heavy Traffic", "timestamp": 1776748630.0932474, "alert": "Normal"}
+{"location": "Signal C", "vehicles": 49, "speed": 27, "status": "Moderate", "timestamp": 1776748632.0952299, "alert": "Normal"}
+{"location": "Signal C", "vehicles": 49, "speed": 27, "status": "Moderate", "timestamp": 1776748632.0952299, "alert": "Normal"}
+{"location": "Signal C", "vehicles": 89, "speed": 7, "status": "Heavy Traffic", "timestamp": 1776748634.0981739, "alert": "\ud83d\udea8 Accident"}
+{"location": "Signal C", "vehicles": 89, "speed": 7, "status": "Heavy Traffic", "timestamp": 1776748634.0981739, "alert": "\ud83d\udea8 Accident"}
+{"location": "Signal B", "vehicles": 84, "speed": 50, "status": "Heavy Traffic", "timestamp": 1776748636.0999565, "alert": "Normal"}
+{"location": "Signal B", "vehicles": 84, "speed": 50, "status": "Heavy Traffic", "timestamp": 1776748636.0999565, "alert": "Normal"}
+{"location": "Signal A", "vehicles": 27, "speed": 11, "status": "Low", "timestamp": 1776748638.1022751, "alert": "Normal"}
+{"location": "Signal A", "vehicles": 27, "speed": 11, "status": "Low", "timestamp": 1776748638.1022751, "alert": "Normal"}
+{"location": "Signal A", "vehicles": 69, "speed": 22, "status": "Moderate", "timestamp": 1776748640.1039307, "alert": "Normal"}
+{"location": "Signal A", "vehicles": 69, "speed": 22, "status": "Moderate", "timestamp": 1776748640.1039307, "alert": "Normal"}
+{"location": "Signal C", "vehicles": 52, "speed": 48, "status": "Moderate", "timestamp": 1776748642.1054034, "alert": "Normal"}
+{"location": "Signal C", "vehicles": 52, "speed": 48, "status": "Moderate", "timestamp": 1776748642.1054034, "alert": "Normal"}
+{"location": "Signal A", "vehicles": 37, "speed": 48, "status": "Low", "timestamp": 1776748644.1069026, "alert": "Normal"}
+{"location": "Signal A", "vehicles": 37, "speed": 48, "status": "Low", "timestamp": 1776748644.1069026, "alert": "Normal"}
+{"location": "Signal C", "vehicles": 32, "speed": 25, "status": "Low", "timestamp": 1776748646.1090474, "alert": "Normal"}
+{"location": "Signal A", "vehicles": 12, "speed": 30, "status": "Low", "timestamp": 1776748648.109874, "alert": "Normal"}
+{"location": "Signal A", "vehicles": 12, "speed": 30, "status": "Low", "timestamp": 1776748648.109874, "alert": "Normal"}
+{"location": "Signal A", "vehicles": 77, "speed": 52, "status": "Heavy Traffic", "timestamp": 1776748650.1113758, "alert": "Normal"}
+{"location": "Signal A", "vehicles": 77, "speed": 52, "status": "Heavy Traffic", "timestamp": 1776748650.1113758, "alert": "Normal"}
+{"location": "Signal C", "vehicles": 58, "speed": 40, "status": "Moderate", "timestamp": 1776748652.1122353, "alert": "Normal"}
+{"location": "Signal C", "vehicles": 58, "speed": 40, "status": "Moderate", "timestamp": 1776748652.1122353, "alert": "Normal"}
+{"location": "Signal B", "vehicles": 20, "speed": 44, "status": "Low", "timestamp": 1776748654.1130548, "alert": "Normal"}
+{"location": "Signal B", "vehicles": 20, "speed": 44, "status": "Low", "timestamp": 1776748654.1130548, "alert": "Normal"}
+{"location": "Signal C", "vehicles": 33, "speed": 11, "status": "Low", "timestamp": 1776748656.114244, "alert": "Normal"}
+{"location": "Signal C", "vehicles": 33, "speed": 11, "status": "Low", "timestamp": 1776748656.114244, "alert": "Normal"}
+{"location": "Signal C", "vehicles": 24, "speed": 33, "status": "Low", "timestamp": 1776748658.1154895, "alert": "Normal"}
+{"location": "Signal C", "vehicles": 24, "speed": 33, "status": "Low", "timestamp": 1776748658.1154895, "alert": "Normal"}
+{"location": "Signal A", "vehicles": 40, "speed": 48, "status": "Low", "timestamp": 1776748660.1173172, "alert": "Normal"}
+{"location": "Signal A", "vehicles": 40, "speed": 48, "status": "Low", "timestamp": 1776748660.1173172, "alert": "Normal"}
+{"location": "Signal A", "vehicles": 53, "speed": 14, "status": "Moderate", "timestamp": 1776748662.1185224, "alert": "Normal"}
+{"location": "Signal A", "vehicles": 53, "speed": 14, "status": "Moderate", "timestamp": 1776748662.1185224, "alert": "Normal"}
+{"location": "Signal C", "vehicles": 73, "speed": 51, "status": "Heavy Traffic", "timestamp": 1776748664.1196647, "alert": "Normal"}
+{"location": "Signal C", "vehicles": 73, "speed": 51, "status": "Heavy Traffic", "timestamp": 1776748664.1196647, "alert": "Normal"}
+{"location": "Signal B", "vehicles": 10, "speed": 26, "status": "Low", "timestamp": 1776748666.1209102, "alert": "Normal"}
+{"location": "Signal B", "vehicles": 10, "speed": 26, "status": "Low", "timestamp": 1776748666.1209102, "alert": "Normal"}
+{"location": "Signal C", "vehicles": 77, "speed": 50, "status": "Heavy Traffic", "timestamp": 1776748668.1217525, "alert": "Normal"}
+{"location": "Signal C", "vehicles": 77, "speed": 50, "status": "Heavy Traffic", "timestamp": 1776748668.1217525, "alert": "Normal"}
+{"location": "Signal A", "vehicles": 27, "speed": 57, "status": "Low", "timestamp": 1776748670.1230211, "alert": "Normal"}
+{"location": "Signal A", "vehicles": 27, "speed": 57, "status": "Low", "timestamp": 1776748670.1230211, "alert": "Normal"}
+{"location": "Signal B", "vehicles": 41, "speed": 44, "status": "Moderate", "timestamp": 1776748672.123889, "alert": "Normal"}
+{"location": "Signal B", "vehicles": 41, "speed": 44, "status": "Moderate", "timestamp": 1776748672.123889, "alert": "Normal"}
+{"location": "Signal C", "vehicles": 97, "speed": 14, "status": "Heavy Traffic", "timestamp": 1776748674.1245866, "alert": "Normal"}
+{"location": "Signal C", "vehicles": 97, "speed": 14, "status": "Heavy Traffic", "timestamp": 1776748674.1245866, "alert": "Normal"}
+{"location": "Signal B", "vehicles": 41, "speed": 17, "status": "Moderate", "timestamp": 1776748676.125693, "alert": "Normal"}
+{"location": "Signal B", "vehicles": 41, "speed": 17, "status": "Moderate", "timestamp": 1776748676.125693, "alert": "Normal"}
+{"location": "Signal C", "vehicles": 36, "speed": 35, "status": "Low", "timestamp": 1776748678.1269772, "alert": "Normal"}
+{"location": "Signal C", "vehicles": 36, "speed": 35, "status": "Low", "timestamp": 1776748678.1269772, "alert": "Normal"}
+{"location": "Signal B", "vehicles": 53, "speed": 23, "status": "Moderate", "timestamp": 1776748680.1279867, "alert": "Normal"}
+{"location": "Signal B", "vehicles": 53, "speed": 23, "status": "Moderate", "timestamp": 1776748680.1279867, "alert": "Normal"}
+{"location": "Signal C", "vehicles": 86, "speed": 8, "status": "Heavy Traffic", "timestamp": 1776748682.1292164, "alert": "\ud83d\udea8 Accident"}
+{"location": "Signal C", "vehicles": 86, "speed": 8, "status": "Heavy Traffic", "timestamp": 1776748682.1292164, "alert": "\ud83d\udea8 Accident"}
+{"location": "Signal A", "vehicles": 12, "speed": 28, "status": "Low", "timestamp": 1776748684.130364, "alert": "Normal"}
+{"location": "Signal A", "vehicles": 12, "speed": 28, "status": "Low", "timestamp": 1776748684.130364, "alert": "Normal"}
+{"location": "Signal A", "vehicles": 54, "speed": 50, "status": "Moderate", "timestamp": 1776748686.132301, "alert": "Normal"}
+{"location": "Signal A", "vehicles": 54, "speed": 50, "status": "Moderate", "timestamp": 1776748686.132301, "alert": "Normal"}
+{"location": "Signal A", "vehicles": 69, "speed": 32, "status": "Moderate", "timestamp": 1776748688.1339247, "alert": "Normal"}
+{"location": "Signal A", "vehicles": 69, "speed": 32, "status": "Moderate", "timestamp": 1776748688.1339247, "alert": "Normal"}
+{"location": "Signal C", "vehicles": 97, "speed": 25, "status": "Heavy Traffic", "timestamp": 1776748690.1350229, "alert": "Normal"}
+{"location": "Signal C", "vehicles": 97, "speed": 25, "status": "Heavy Traffic", "timestamp": 1776748690.1350229, "alert": "Normal"}
+{"location": "Signal C", "vehicles": 100, "speed": 34, "status": "Heavy Traffic", "timestamp": 1776748692.136047, "alert": "Normal"}
+{"location": "Signal C", "vehicles": 100, "speed": 34, "status": "Heavy Traffic", "timestamp": 1776748692.136047, "alert": "Normal"}
+{"location": "Signal B", "vehicles": 20, "speed": 26, "status": "Low", "timestamp": 1776748694.138158, "alert": "Normal"}
+{"location": "Signal B", "vehicles": 20, "speed": 26, "status": "Low", "timestamp": 1776748694.138158, "alert": "Normal"}
+{"location": "Signal A", "vehicles": 72, "speed": 25, "status": "Heavy Traffic", "timestamp": 1776748696.1392956, "alert": "Normal"}
+{"location": "Signal A", "vehicles": 72, "speed": 25, "status": "Heavy Traffic", "timestamp": 1776748696.1392956, "alert": "Normal"}
+{"location": "Signal B", "vehicles": 14, "speed": 36, "status": "Low", "timestamp": 1776748698.1404073, "alert": "Normal"}
+{"location": "Signal B", "vehicles": 14, "speed": 36, "status": "Low", "timestamp": 1776748698.1404073, "alert": "Normal"}
+{"location": "Signal C", "vehicles": 69, "speed": 23, "status": "Moderate", "timestamp": 1776748700.1414957, "alert": "Normal"}
+{"location": "Signal C", "vehicles": 69, "speed": 23, "status": "Moderate", "timestamp": 1776748700.1414957, "alert": "Normal"}
+{"location": "Signal C", "vehicles": 92, "speed": 51, "status": "Heavy Traffic", "timestamp": 1776748702.1426806, "alert": "Normal"}
+{"location": "Signal C", "vehicles": 92, "speed": 51, "status": "Heavy Traffic", "timestamp": 1776748702.1426806, "alert": "Normal"}
+{"location": "Signal B", "vehicles": 42, "speed": 34, "status": "Moderate", "timestamp": 1776748704.1436667, "alert": "Normal"}
+{"location": "Signal B", "vehicles": 42, "speed": 34, "status": "Moderate", "timestamp": 1776748704.1436667, "alert": "Normal"}
+{"location": "Signal A", "vehicles": 81, "speed": 8, "status": "Heavy Traffic", "timestamp": 1776748706.1445987, "alert": "\ud83d\udea8 Accident"}
+{"location": "Signal A", "vehicles": 81, "speed": 8, "status": "Heavy Traffic", "timestamp": 1776748706.1445987, "alert": "\ud83d\udea8 Accident"}
+{"location": "Signal C", "vehicles": 93, "speed": 46, "status": "Heavy Traffic", "timestamp": 1776748708.1455467, "alert": "Normal"}
+{"location": "Signal C", "vehicles": 93, "speed": 46, "status": "Heavy Traffic", "timestamp": 1776748708.1455467, "alert": "Normal"}
+{"location": "Signal B", "vehicles": 15, "speed": 22, "status": "Low", "timestamp": 1776748710.1463094, "alert": "Normal"}
+{"location": "Signal B", "vehicles": 15, "speed": 22, "status": "Low", "timestamp": 1776748710.1463094, "alert": "Normal"}
+{"location": "Signal B", "vehicles": 25, "speed": 45, "status": "Low", "timestamp": 1776748712.1471071, "alert": "Normal"}
+{"location": "Signal B", "vehicles": 25, "speed": 45, "status": "Low", "timestamp": 1776748712.1471071, "alert": "Normal"}
+{"location": "Signal A", "vehicles": 57, "speed": 25, "status": "Moderate", "timestamp": 1776748714.1486967, "alert": "Normal"}
+{"location": "Signal A", "vehicles": 57, "speed": 25, "status": "Moderate", "timestamp": 1776748714.1486967, "alert": "Normal"}
+{"location": "Signal B", "vehicles": 30, "speed": 38, "status": "Low", "timestamp": 1776748716.1505363, "alert": "Normal"}
+{"location": "Signal B", "vehicles": 30, "speed": 38, "status": "Low", "timestamp": 1776748716.1505363, "alert": "Normal"}
+{"location": "Signal A", "vehicles": 66, "speed": 23, "status": "Moderate", "timestamp": 1776748718.152582, "alert": "Normal"}
+{"location": "Signal A", "vehicles": 66, "speed": 23, "status": "Moderate", "timestamp": 1776748718.152582, "alert": "Normal"}
+{"location": "Signal B", "vehicles": 44, "speed": 43, "status": "Moderate", "timestamp": 1776748720.1549292, "alert": "Normal"}
+{"location": "Signal B", "vehicles": 44, "speed": 43, "status": "Moderate", "timestamp": 1776748720.1549292, "alert": "Normal"}
+{"location": "Signal B", "vehicles": 99, "speed": 45, "status": "Heavy Traffic", "timestamp": 1776748722.1566503, "alert": "Normal"}
+{"location": "Signal B", "vehicles": 99, "speed": 45, "status": "Heavy Traffic", "timestamp": 1776748722.1566503, "alert": "Normal"}
+{"location": "Signal A", "vehicles": 66, "speed": 50, "status": "Moderate", "timestamp": 1776748724.1589031, "alert": "Normal"}
+{"location": "Signal A", "vehicles": 66, "speed": 50, "status": "Moderate", "timestamp": 1776748724.1589031, "alert": "Normal"}
+{"location": "Signal C", "vehicles": 27, "speed": 42, "status": "Low", "timestamp": 1776748726.1613855, "alert": "Normal"}
+{"location": "Signal C", "vehicles": 27, "speed": 42, "status": "Low", "timestamp": 1776748726.1613855, "alert": "Normal"}
+{"location": "Signal C", "vehicles": 49, "speed": 9, "status": "Moderate", "timestamp": 1776748728.1626832, "alert": "Normal"}
+{"location": "Signal C", "vehicles": 49, "speed": 9, "status": "Moderate", "timestamp": 1776748728.1626832, "alert": "Normal"}
+{"location": "Signal A", "vehicles": 83, "speed": 23, "status": "Heavy Traffic", "timestamp": 1776748730.1643138, "alert": "Normal"}
+{"location": "Signal A", "vehicles": 83, "speed": 23, "status": "Heavy Traffic", "timestamp": 1776748730.1643138, "alert": "Normal"}
+{"location": "Signal A", "vehicles": 73, "speed": 47, "status": "Heavy Traffic", "timestamp": 1776748732.1667695, "alert": "Normal"}
+{"location": "Signal A", "vehicles": 73, "speed": 47, "status": "Heavy Traffic", "timestamp": 1776748732.1667695, "alert": "Normal"}
+{"location": "Signal C", "vehicles": 33, "speed": 19, "status": "Low", "timestamp": 1776748734.1696842, "alert": "Normal"}
+{"location": "Signal C", "vehicles": 33, "speed": 19, "status": "Low", "timestamp": 1776748734.1696842, "alert": "Normal"}
+{"location": "Signal A", "vehicles": 30, "speed": 57, "status": "Low", "timestamp": 1776748736.1710985, "alert": "Normal"}
+{"location": "Signal A", "vehicles": 30, "speed": 57, "status": "Low", "timestamp": 1776748736.1710985, "alert": "Normal"}
+{"location": "Signal B", "vehicles": 82, "speed": 54, "status": "Heavy Traffic", "timestamp": 1776748738.1727068, "alert": "Normal"}
+{"location": "Signal B", "vehicles": 82, "speed": 54, "status": "Heavy Traffic", "timestamp": 1776748738.1727068, "alert": "Normal"}
+{"location": "Signal C", "vehicles": 70, "speed": 22, "status": "Moderate", "timestamp": 1776748740.174654, "alert": "Normal"}
+{"location": "Signal C", "vehicles": 70, "speed": 22, "status": "Moderate", "timestamp": 1776748740.174654, "alert": "Normal"}
+{"location": "Signal B", "vehicles": 23, "speed": 34, "status": "Low", "timestamp": 1776748742.1759174, "alert": "Normal"}
+{"location": "Signal B", "vehicles": 23, "speed": 34, "status": "Low", "timestamp": 1776748742.1759174, "alert": "Normal"}
+{"location": "Signal A", "vehicles": 12, "speed": 26, "status": "Low", "timestamp": 1776748744.1775868, "alert": "Normal"}
+{"location": "Signal A", "vehicles": 12, "speed": 26, "status": "Low", "timestamp": 1776748744.1775868, "alert": "Normal"}
+{"location": "Signal B", "vehicles": 77, "speed": 18, "status": "Heavy Traffic", "timestamp": 1776748746.179573, "alert": "Normal"}
+{"location": "Signal B", "vehicles": 77, "speed": 18, "status": "Heavy Traffic", "timestamp": 1776748746.179573, "alert": "Normal"}
+{"location": "Signal C", "vehicles": 48, "speed": 23, "status": "Moderate", "timestamp": 1776748748.181059, "alert": "Normal"}
+{"location": "Signal C", "vehicles": 48, "speed": 23, "status": "Moderate", "timestamp": 1776748748.181059, "alert": "Normal"}
+{"location": "Signal C", "vehicles": 95, "speed": 47, "status": "Heavy Traffic", "timestamp": 1776748750.182798, "alert": "Normal"}
+{"location": "Signal C", "vehicles": 95, "speed": 47, "status": "Heavy Traffic", "timestamp": 1776748750.182798, "alert": "Normal"}
+{"location": "Signal C", "vehicles": 26, "speed": 7, "status": "Low", "timestamp": 1776748752.1852767, "alert": "Normal"}
+{"location": "Signal C", "vehicles": 26, "speed": 7, "status": "Low", "timestamp": 1776748752.1852767, "alert": "Normal"}
+{"location": "Signal C", "vehicles": 38, "speed": 16, "status": "Low", "timestamp": 1776748754.1868823, "alert": "Normal"}
+{"location": "Signal C", "vehicles": 38, "speed": 16, "status": "Low", "timestamp": 1776748754.1868823, "alert": "Normal"}
+{"location": "Signal C", "vehicles": 74, "speed": 7, "status": "Heavy Traffic", "timestamp": 1776748756.1885815, "alert": "\ud83d\udea8 Accident"}
+{"location": "Signal C", "vehicles": 74, "speed": 7, "status": "Heavy Traffic", "timestamp": 1776748756.1885815, "alert": "\ud83d\udea8 Accident"}
+{"location": "Signal A", "vehicles": 48, "speed": 9, "status": "Moderate", "timestamp": 1776748758.1904356, "alert": "Normal"}
+{"location": "Signal A", "vehicles": 48, "speed": 9, "status": "Moderate", "timestamp": 1776748758.1904356, "alert": "Normal"}
+{"location": "Signal A", "vehicles": 77, "speed": 43, "status": "Heavy Traffic", "timestamp": 1776748760.192211, "alert": "Normal"}
+{"location": "Signal A", "vehicles": 77, "speed": 43, "status": "Heavy Traffic", "timestamp": 1776748760.192211, "alert": "Normal"}
+{"location": "Signal C", "vehicles": 86, "speed": 40, "status": "Heavy Traffic", "timestamp": 1776748762.194495, "alert": "Normal"}
+{"location": "Signal C", "vehicles": 86, "speed": 40, "status": "Heavy Traffic", "timestamp": 1776748762.194495, "alert": "Normal"}
+{"location": "Signal C", "vehicles": 72, "speed": 32, "status": "Heavy Traffic", "timestamp": 1776748764.1956494, "alert": "Normal"}
+{"location": "Signal C", "vehicles": 72, "speed": 32, "status": "Heavy Traffic", "timestamp": 1776748764.1956494, "alert": "Normal"}
+{"location": "Signal A", "vehicles": 23, "speed": 29, "status": "Low", "timestamp": 1776748766.1970017, "alert": "Normal"}
+{"location": "Signal A", "vehicles": 23, "speed": 29, "status": "Low", "timestamp": 1776748766.1970017, "alert": "Normal"}
+{"location": "Signal A", "vehicles": 15, "speed": 46, "status": "Low", "timestamp": 1776748768.199677, "alert": "Normal"}
+{"location": "Signal A", "vehicles": 15, "speed": 46, "status": "Low", "timestamp": 1776748768.199677, "alert": "Normal"}
+{"location": "Signal C", "vehicles": 86, "speed": 42, "status": "Heavy Traffic", "timestamp": 1776748770.202077, "alert": "Normal"}
+{"location": "Signal C", "vehicles": 86, "speed": 42, "status": "Heavy Traffic", "timestamp": 1776748770.202077, "alert": "Normal"}
+{"location": "Signal B", "vehicles": 19, "speed": 33, "status": "Low", "timestamp": 1776748772.203375, "alert": "Normal"}
+{"location": "Signal B", "vehicles": 19, "speed": 33, "status": "Low", "timestamp": 1776748772.203375, "alert": "Normal"}
+{"location": "Signal C", "vehicles": 65, "speed": 48, "status": "Moderate", "timestamp": 1776748774.2049801, "alert": "Normal"}
+{"location": "Signal C", "vehicles": 65, "speed": 48, "status": "Moderate", "timestamp": 1776748774.2049801, "alert": "Normal"}
+{"location": "Signal B", "vehicles": 98, "speed": 25, "status": "Heavy Traffic", "timestamp": 1776748776.2065747, "alert": "Normal"}
+{"location": "Signal B", "vehicles": 98, "speed": 25, "status": "Heavy Traffic", "timestamp": 1776748776.2065747, "alert": "Normal"}
+{"location": "Signal C", "vehicles": 100, "speed": 29, "status": "Heavy Traffic", "timestamp": 1776748778.2090075, "alert": "Normal"}
+{"location": "Signal C", "vehicles": 100, "speed": 29, "status": "Heavy Traffic", "timestamp": 1776748778.2090075, "alert": "Normal"}
+{"location": "Signal C", "vehicles": 54, "speed": 29, "status": "Moderate", "timestamp": 1776748780.210659, "alert": "Normal"}
+{"location": "Signal C", "vehicles": 54, "speed": 29, "status": "Moderate", "timestamp": 1776748780.210659, "alert": "Normal"}
+{"location": "Signal B", "vehicles": 27, "speed": 11, "status": "Low", "timestamp": 1776748782.212635, "alert": "Normal"}
+{"location": "Signal B", "vehicles": 27, "speed": 11, "status": "Low", "timestamp": 1776748782.212635, "alert": "Normal"}
+{"location": "Signal B", "vehicles": 80, "speed": 56, "status": "Heavy Traffic", "timestamp": 1776748784.2142959, "alert": "Normal"}
+{"location": "Signal B", "vehicles": 80, "speed": 56, "status": "Heavy Traffic", "timestamp": 1776748784.2142959, "alert": "Normal"}
+{"location": "Signal B", "vehicles": 95, "speed": 7, "status": "Heavy Traffic", "timestamp": 1776748786.2162435, "alert": "\ud83d\udea8 Accident"}
+{"location": "Signal B", "vehicles": 95, "speed": 7, "status": "Heavy Traffic", "timestamp": 1776748786.2162435, "alert": "\ud83d\udea8 Accident"}
+{"location": "Signal C", "vehicles": 60, "speed": 12, "status": "Moderate", "timestamp": 1776748788.21754, "alert": "Normal"}
+{"location": "Signal C", "vehicles": 60, "speed": 12, "status": "Moderate", "timestamp": 1776748788.21754, "alert": "Normal"}
+{"location": "Signal C", "vehicles": 97, "speed": 56, "status": "Heavy Traffic", "timestamp": 1776748790.2190113, "alert": "Normal"}
+{"location": "Signal C", "vehicles": 97, "speed": 56, "status": "Heavy Traffic", "timestamp": 1776748790.2190113, "alert": "Normal"}
+{"location": "Signal C", "vehicles": 89, "speed": 6, "status": "Heavy Traffic", "timestamp": 1776748792.2223494, "alert": "\ud83d\udea8 Accident"}
+{"location": "Signal C", "vehicles": 89, "speed": 6, "status": "Heavy Traffic", "timestamp": 1776748792.2223494, "alert": "\ud83d\udea8 Accident"}
+{"location": "Signal C", "vehicles": 24, "speed": 59, "status": "Low", "timestamp": 1776748794.2242386, "alert": "Normal"}
+{"location": "Signal C", "vehicles": 24, "speed": 59, "status": "Low", "timestamp": 1776748794.2242386, "alert": "Normal"}
+{"location": "Signal A", "vehicles": 64, "speed": 60, "status": "Moderate", "timestamp": 1776748796.2262645, "alert": "Normal"}
+{"location": "Signal A", "vehicles": 64, "speed": 60, "status": "Moderate", "timestamp": 1776748796.2262645, "alert": "Normal"}
+{"location": "Signal C", "vehicles": 77, "speed": 28, "status": "Heavy Traffic", "timestamp": 1776748798.228215, "alert": "Normal"}
+{"location": "Signal C", "vehicles": 77, "speed": 28, "status": "Heavy Traffic", "timestamp": 1776748798.228215, "alert": "Normal"}
+{"location": "Signal A", "vehicles": 35, "speed": 11, "status": "Low", "timestamp": 1776748800.2304146, "alert": "Normal"}
+{"location": "Signal A", "vehicles": 35, "speed": 11, "status": "Low", "timestamp": 1776748800.2304146, "alert": "Normal"}
+{"location": "Signal B", "vehicles": 19, "speed": 19, "status": "Low", "timestamp": 1776748802.2323284, "alert": "Normal"}
+{"location": "Signal B", "vehicles": 19, "speed": 19, "status": "Low", "timestamp": 1776748802.2323284, "alert": "Normal"}
+{"location": "Signal A", "vehicles": 58, "speed": 12, "status": "Moderate", "timestamp": 1776748804.2337792, "alert": "Normal"}
+{"location": "Signal A", "vehicles": 58, "speed": 12, "status": "Moderate", "timestamp": 1776748804.2337792, "alert": "Normal"}
+{"location": "Signal A", "vehicles": 31, "speed": 51, "status": "Low", "timestamp": 1776748806.235691, "alert": "Normal"}
+{"location": "Signal A", "vehicles": 31, "speed": 51, "status": "Low", "timestamp": 1776748806.235691, "alert": "Normal"}
+{"location": "Signal C", "vehicles": 80, "speed": 41, "status": "Heavy Traffic", "timestamp": 1776748808.2374604, "alert": "Normal"}
+{"location": "Signal C", "vehicles": 80, "speed": 41, "status": "Heavy Traffic", "timestamp": 1776748808.2374604, "alert": "Normal"}
+{"location": "Signal C", "vehicles": 32, "speed": 46, "status": "Low", "timestamp": 1776748810.2398992, "alert": "Normal"}
+{"location": "Signal C", "vehicles": 32, "speed": 46, "status": "Low", "timestamp": 1776748810.2398992, "alert": "Normal"}
+{"location": "Signal A", "vehicles": 58, "speed": 42, "status": "Moderate", "timestamp": 1776748812.2414014, "alert": "Normal"}
+{"location": "Signal A", "vehicles": 58, "speed": 42, "status": "Moderate", "timestamp": 1776748812.2414014, "alert": "Normal"}
+{"location": "Signal C", "vehicles": 37, "speed": 15, "status": "Low", "timestamp": 1776748814.2427068, "alert": "Normal"}
+{"location": "Signal C", "vehicles": 37, "speed": 15, "status": "Low", "timestamp": 1776748814.2427068, "alert": "Normal"}
+{"location": "Signal A", "vehicles": 96, "speed": 11, "status": "Heavy Traffic", "timestamp": 1776748816.24442, "alert": "Normal"}
+{"location": "Signal A", "vehicles": 96, "speed": 11, "status": "Heavy Traffic", "timestamp": 1776748816.24442, "alert": "Normal"}
+{"location": "Signal A", "vehicles": 70, "speed": 49, "status": "Moderate", "timestamp": 1776748818.2457185, "alert": "Normal"}
+{"location": "Signal A", "vehicles": 70, "speed": 49, "status": "Moderate", "timestamp": 1776748818.2457185, "alert": "Normal"}
+{"location": "Signal A", "vehicles": 54, "speed": 22, "status": "Moderate", "timestamp": 1776748820.2474446, "alert": "Normal"}
+{"location": "Signal A", "vehicles": 54, "speed": 22, "status": "Moderate", "timestamp": 1776748820.2474446, "alert": "Normal"}
+{"location": "Signal A", "vehicles": 90, "speed": 46, "status": "Heavy Traffic", "timestamp": 1776748822.250241, "alert": "Normal"}
+{"location": "Signal A", "vehicles": 90, "speed": 46, "status": "Heavy Traffic", "timestamp": 1776748822.250241, "alert": "Normal"}
+{"location": "Signal C", "vehicles": 42, "speed": 32, "status": "Moderate", "timestamp": 1776748824.2518237, "alert": "Normal"}
+{"location": "Signal C", "vehicles": 42, "speed": 32, "status": "Moderate", "timestamp": 1776748824.2518237, "alert": "Normal"}
+{"location": "Signal C", "vehicles": 84, "speed": 38, "status": "Heavy Traffic", "timestamp": 1776748826.2535245, "alert": "Normal"}
+{"location": "Signal C", "vehicles": 84, "speed": 38, "status": "Heavy Traffic", "timestamp": 1776748826.2535245, "alert": "Normal"}
+{"location": "Signal B", "vehicles": 38, "speed": 58, "status": "Low", "timestamp": 1776748828.2555635, "alert": "Normal"}
+{"location": "Signal B", "vehicles": 87, "speed": 26, "status": "Heavy Traffic", "timestamp": 1776748830.2572842, "alert": "Normal"}
+{"location": "Signal B", "vehicles": 87, "speed": 26, "status": "Heavy Traffic", "timestamp": 1776748830.2572842, "alert": "Normal"}
+{"location": "Signal A", "vehicles": 15, "speed": 48, "status": "Low", "timestamp": 1776748832.25931, "alert": "Normal"}
+{"location": "Signal A", "vehicles": 15, "speed": 48, "status": "Low", "timestamp": 1776748832.25931, "alert": "Normal"}
+{"location": "Signal C", "vehicles": 75, "speed": 29, "status": "Heavy Traffic", "timestamp": 1776748834.2614267, "alert": "Normal"}
+{"location": "Signal C", "vehicles": 75, "speed": 29, "status": "Heavy Traffic", "timestamp": 1776748834.2614267, "alert": "Normal"}
+{"location": "Signal B", "vehicles": 27, "speed": 11, "status": "Low", "timestamp": 1776748836.2626386, "alert": "Normal"}
+{"location": "Signal B", "vehicles": 27, "speed": 11, "status": "Low", "timestamp": 1776748836.2626386, "alert": "Normal"}
+{"location": "Signal C", "vehicles": 54, "speed": 41, "status": "Moderate", "timestamp": 1776748838.264703, "alert": "Normal"}
+{"location": "Signal C", "vehicles": 54, "speed": 41, "status": "Moderate", "timestamp": 1776748838.264703, "alert": "Normal"}
+{"location": "Signal A", "vehicles": 99, "speed": 47, "status": "Heavy Traffic", "timestamp": 1776748840.2666848, "alert": "Normal"}
+{"location": "Signal A", "vehicles": 99, "speed": 47, "status": "Heavy Traffic", "timestamp": 1776748840.2666848, "alert": "Normal"}
+{"location": "Signal C", "vehicles": 55, "speed": 30, "status": "Moderate", "timestamp": 1776748842.268837, "alert": "Normal"}
+{"location": "Signal C", "vehicles": 55, "speed": 30, "status": "Moderate", "timestamp": 1776748842.268837, "alert": "Normal"}
+{"location": "Signal A", "vehicles": 22, "speed": 42, "status": "Low", "timestamp": 1776748844.2713583, "alert": "Normal"}
+{"location": "Signal A", "vehicles": 22, "speed": 42, "status": "Low", "timestamp": 1776748844.2713583, "alert": "Normal"}
+{"location": "Signal B", "vehicles": 76, "speed": 30, "status": "Heavy Traffic", "timestamp": 1776748846.2733953, "alert": "Normal"}
+{"location": "Signal B", "vehicles": 76, "speed": 30, "status": "Heavy Traffic", "timestamp": 1776748846.2733953, "alert": "Normal"}
+{"location": "Signal C", "vehicles": 44, "speed": 53, "status": "Moderate", "timestamp": 1776748848.2755525, "alert": "Normal"}
+{"location": "Signal C", "vehicles": 44, "speed": 53, "status": "Moderate", "timestamp": 1776748848.2755525, "alert": "Normal"}
+{"location": "Signal B", "vehicles": 89, "speed": 36, "status": "Heavy Traffic", "timestamp": 1776748850.2777116, "alert": "Normal"}
+{"location": "Signal B", "vehicles": 89, "speed": 36, "status": "Heavy Traffic", "timestamp": 1776748850.2777116, "alert": "Normal"}
+{"location": "Signal B", "vehicles": 74, "speed": 17, "status": "Heavy Traffic", "timestamp": 1776748852.2797441, "alert": "Normal"}
+{"location": "Signal B", "vehicles": 74, "speed": 17, "status": "Heavy Traffic", "timestamp": 1776748852.2797441, "alert": "Normal"}
+{"location": "Signal A", "vehicles": 97, "speed": 5, "status": "Heavy Traffic", "timestamp": 1776748854.2820342, "alert": "\ud83d\udea8 Accident"}
+{"location": "Signal A", "vehicles": 97, "speed": 5, "status": "Heavy Traffic", "timestamp": 1776748854.2820342, "alert": "\ud83d\udea8 Accident"}
+{"location": "Signal A", "vehicles": 84, "speed": 23, "status": "Heavy Traffic", "timestamp": 1776748856.2840798, "alert": "Normal"}
+{"location": "Signal A", "vehicles": 84, "speed": 23, "status": "Heavy Traffic", "timestamp": 1776748856.2840798, "alert": "Normal"}
+{"location": "Signal B", "vehicles": 69, "speed": 56, "status": "Moderate", "timestamp": 1776748858.285411, "alert": "Normal"}
+{"location": "Signal B", "vehicles": 69, "speed": 56, "status": "Moderate", "timestamp": 1776748858.285411, "alert": "Normal"}
+{"location": "Signal B", "vehicles": 26, "speed": 26, "status": "Low", "timestamp": 1776748860.2871382, "alert": "Normal"}
+{"location": "Signal B", "vehicles": 26, "speed": 26, "status": "Low", "timestamp": 1776748860.2871382, "alert": "Normal"}
+{"location": "Signal A", "vehicles": 53, "speed": 36, "status": "Moderate", "timestamp": 1776748862.2891345, "alert": "Normal"}
+{"location": "Signal A", "vehicles": 53, "speed": 36, "status": "Moderate", "timestamp": 1776748862.2891345, "alert": "Normal"}
+{"location": "Signal B", "vehicles": 97, "speed": 23, "status": "Heavy Traffic", "timestamp": 1776748864.2910035, "alert": "Normal"}
+{"location": "Signal B", "vehicles": 97, "speed": 23, "status": "Heavy Traffic", "timestamp": 1776748864.2910035, "alert": "Normal"}
+{"location": "Signal A", "vehicles": 95, "speed": 47, "status": "Heavy Traffic", "timestamp": 1776748866.292599, "alert": "Normal"}
+{"location": "Signal A", "vehicles": 95, "speed": 47, "status": "Heavy Traffic", "timestamp": 1776748866.292599, "alert": "Normal"}
+{"location": "Signal A", "vehicles": 74, "speed": 9, "status": "Heavy Traffic", "timestamp": 1776748868.2947116, "alert": "\ud83d\udea8 Accident"}
+{"location": "Signal A", "vehicles": 74, "speed": 9, "status": "Heavy Traffic", "timestamp": 1776748868.2947116, "alert": "\ud83d\udea8 Accident"}
+{"location": "Signal B", "vehicles": 16, "speed": 56, "status": "Low", "timestamp": 1776748870.2966983, "alert": "Normal"}
+{"location": "Signal B", "vehicles": 16, "speed": 56, "status": "Low", "timestamp": 1776748870.2966983, "alert": "Normal"}
+{"location": "Signal B", "vehicles": 66, "speed": 60, "status": "Moderate", "timestamp": 1776748872.2987092, "alert": "Normal"}
+{"location": "Signal B", "vehicles": 66, "speed": 60, "status": "Moderate", "timestamp": 1776748872.2987092, "alert": "Normal"}
+{"location": "Signal A", "vehicles": 42, "speed": 51, "status": "Moderate", "timestamp": 1776748874.3000298, "alert": "Normal"}
+{"location": "Signal A", "vehicles": 42, "speed": 51, "status": "Moderate", "timestamp": 1776748874.3000298, "alert": "Normal"}
+{"location": "Signal A", "vehicles": 64, "speed": 13, "status": "Moderate", "timestamp": 1776748876.3017948, "alert": "Normal"}
+{"location": "Signal A", "vehicles": 64, "speed": 13, "status": "Moderate", "timestamp": 1776748876.3017948, "alert": "Normal"}
+{"location": "Signal B", "vehicles": 78, "speed": 13, "status": "Heavy Traffic", "timestamp": 1776748878.3035934, "alert": "Normal"}
+{"location": "Signal B", "vehicles": 78, "speed": 13, "status": "Heavy Traffic", "timestamp": 1776748878.3035934, "alert": "Normal"}
+{"location": "Signal A", "vehicles": 60, "speed": 56, "status": "Moderate", "timestamp": 1776748880.3059995, "alert": "Normal"}
+{"location": "Signal A", "vehicles": 60, "speed": 56, "status": "Moderate", "timestamp": 1776748880.3059995, "alert": "Normal"}
+{"location": "Signal A", "vehicles": 96, "speed": 9, "status": "Heavy Traffic", "timestamp": 1776748882.307803, "alert": "\ud83d\udea8 Accident"}
+{"location": "Signal A", "vehicles": 96, "speed": 9, "status": "Heavy Traffic", "timestamp": 1776748882.307803, "alert": "\ud83d\udea8 Accident"}
+{"location": "Signal C", "vehicles": 23, "speed": 17, "status": "Low", "timestamp": 1776748884.310467, "alert": "Normal"}
+{"location": "Signal C", "vehicles": 23, "speed": 17, "status": "Low", "timestamp": 1776748884.310467, "alert": "Normal"}
+{"location": "Signal B", "vehicles": 22, "speed": 20, "status": "Low", "timestamp": 1776748886.3128142, "alert": "Normal"}
+{"location": "Signal B", "vehicles": 22, "speed": 20, "status": "Low", "timestamp": 1776748886.3128142, "alert": "Normal"}
+{"location": "Signal B", "vehicles": 70, "speed": 55, "status": "Moderate", "timestamp": 1776748888.3151283, "alert": "Normal"}
+{"location": "Signal B", "vehicles": 70, "speed": 55, "status": "Moderate", "timestamp": 1776748888.3151283, "alert": "Normal"}
+{"location": "Signal C", "vehicles": 68, "speed": 43, "status": "Moderate", "timestamp": 1776748890.317783, "alert": "Normal"}
+{"location": "Signal C", "vehicles": 68, "speed": 43, "status": "Moderate", "timestamp": 1776748890.317783, "alert": "Normal"}
+{"location": "Signal A", "vehicles": 56, "speed": 53, "status": "Moderate", "timestamp": 1776748892.319285, "alert": "Normal"}
+{"location": "Signal A", "vehicles": 56, "speed": 53, "status": "Moderate", "timestamp": 1776748892.319285, "alert": "Normal"}
+{"location": "Signal B", "vehicles": 90, "speed": 43, "status": "Heavy Traffic", "timestamp": 1776748894.3212023, "alert": "Normal"}
+{"location": "Signal B", "vehicles": 90, "speed": 43, "status": "Heavy Traffic", "timestamp": 1776748894.3212023, "alert": "Normal"}
+{"location": "Signal A", "vehicles": 76, "speed": 33, "status": "Heavy Traffic", "timestamp": 1776748896.3239198, "alert": "Normal"}
+{"location": "Signal A", "vehicles": 76, "speed": 33, "status": "Heavy Traffic", "timestamp": 1776748896.3239198, "alert": "Normal"}
+{"location": "Signal C", "vehicles": 65, "speed": 17, "status": "Moderate", "timestamp": 1776748898.3261924, "alert": "Normal"}
+{"location": "Signal C", "vehicles": 65, "speed": 17, "status": "Moderate", "timestamp": 1776748898.3261924, "alert": "Normal"}
+{"location": "Signal A", "vehicles": 18, "speed": 56, "status": "Low", "timestamp": 1776748900.328383, "alert": "Normal"}
+{"location": "Signal A", "vehicles": 18, "speed": 56, "status": "Low", "timestamp": 1776748900.328383, "alert": "Normal"}
+{"location": "Signal C", "vehicles": 14, "speed": 16, "status": "Low", "timestamp": 1776748902.3297782, "alert": "Normal"}
+{"location": "Signal C", "vehicles": 14, "speed": 16, "status": "Low", "timestamp": 1776748902.3297782, "alert": "Normal"}
+{"location": "Signal C", "vehicles": 93, "speed": 38, "status": "Heavy Traffic", "timestamp": 1776748904.3315315, "alert": "Normal"}
+{"location": "Signal C", "vehicles": 93, "speed": 38, "status": "Heavy Traffic", "timestamp": 1776748904.3315315, "alert": "Normal"}
+{"location": "Signal A", "vehicles": 98, "speed": 38, "status": "Heavy Traffic", "timestamp": 1776748906.3338752, "alert": "Normal"}
+{"location": "Signal A", "vehicles": 98, "speed": 38, "status": "Heavy Traffic", "timestamp": 1776748906.3338752, "alert": "Normal"}
+{"location": "Signal C", "vehicles": 46, "speed": 6, "status": "Moderate", "timestamp": 1776748908.335758, "alert": "Normal"}
+{"location": "Signal C", "vehicles": 46, "speed": 6, "status": "Moderate", "timestamp": 1776748908.335758, "alert": "Normal"}
+{"location": "Signal C", "vehicles": 81, "speed": 30, "status": "Heavy Traffic", "timestamp": 1776748910.3369205, "alert": "Normal"}
+{"location": "Signal C", "vehicles": 81, "speed": 30, "status": "Heavy Traffic", "timestamp": 1776748910.3369205, "alert": "Normal"}
+{"location": "Signal B", "vehicles": 69, "speed": 17, "status": "Moderate", "timestamp": 1776748912.3397725, "alert": "Normal"}
+{"location": "Signal B", "vehicles": 69, "speed": 17, "status": "Moderate", "timestamp": 1776748912.3397725, "alert": "Normal"}
+{"location": "Signal A", "vehicles": 58, "speed": 6, "status": "Moderate", "timestamp": 1776748914.341387, "alert": "Normal"}
+{"location": "Signal A", "vehicles": 58, "speed": 6, "status": "Moderate", "timestamp": 1776748914.341387, "alert": "Normal"}
+{"location": "Signal C", "vehicles": 99, "speed": 35, "status": "Heavy Traffic", "timestamp": 1776748916.3434854, "alert": "Normal"}
+{"location": "Signal C", "vehicles": 99, "speed": 35, "status": "Heavy Traffic", "timestamp": 1776748916.3434854, "alert": "Normal"}
+{"location": "Signal B", "vehicles": 38, "speed": 33, "status": "Low", "timestamp": 1776748918.345331, "alert": "Normal"}
+{"location": "Signal B", "vehicles": 38, "speed": 33, "status": "Low", "timestamp": 1776748918.345331, "alert": "Normal"}
+{"location": "Signal B", "vehicles": 42, "speed": 9, "status": "Moderate", "timestamp": 1776748920.348129, "alert": "Normal"}
+{"location": "Signal B", "vehicles": 42, "speed": 9, "status": "Moderate", "timestamp": 1776748920.348129, "alert": "Normal"}
+{"location": "Signal B", "vehicles": 78, "speed": 23, "status": "Heavy Traffic", "timestamp": 1776748922.350154, "alert": "Normal"}
+{"location": "Signal B", "vehicles": 78, "speed": 23, "status": "Heavy Traffic", "timestamp": 1776748922.350154, "alert": "Normal"}
+{"location": "Signal A", "vehicles": 70, "speed": 60, "status": "Moderate", "timestamp": 1776748924.3520849, "alert": "Normal"}
+{"location": "Signal A", "vehicles": 70, "speed": 60, "status": "Moderate", "timestamp": 1776748924.3520849, "alert": "Normal"}
+{"location": "Signal B", "vehicles": 47, "speed": 51, "status": "Moderate", "timestamp": 1776748926.3544426, "alert": "Normal"}
+{"location": "Signal B", "vehicles": 47, "speed": 51, "status": "Moderate", "timestamp": 1776748926.3544426, "alert": "Normal"}
+{"location": "Signal A", "vehicles": 45, "speed": 54, "status": "Moderate", "timestamp": 1776748928.3569345, "alert": "Normal"}
+{"location": "Signal A", "vehicles": 45, "speed": 54, "status": "Moderate", "timestamp": 1776748928.3569345, "alert": "Normal"}
+{"location": "Signal C", "vehicles": 22, "speed": 38, "status": "Low", "timestamp": 1776748930.3584983, "alert": "Normal"}
+{"location": "Signal C", "vehicles": 22, "speed": 38, "status": "Low", "timestamp": 1776748930.3584983, "alert": "Normal"}
+{"location": "Signal C", "vehicles": 48, "speed": 20, "status": "Moderate", "timestamp": 1776748932.3599784, "alert": "Normal"}
+{"location": "Signal C", "vehicles": 48, "speed": 20, "status": "Moderate", "timestamp": 1776748932.3599784, "alert": "Normal"}
+{"location": "Signal A", "vehicles": 73, "speed": 52, "status": "Heavy Traffic", "timestamp": 1776748934.361468, "alert": "Normal"}
+{"location": "Signal A", "vehicles": 73, "speed": 52, "status": "Heavy Traffic", "timestamp": 1776748934.361468, "alert": "Normal"}
+{"location": "Signal B", "vehicles": 40, "speed": 42, "status": "Low", "timestamp": 1776748936.3639016, "alert": "Normal"}
+{"location": "Signal B", "vehicles": 40, "speed": 42, "status": "Low", "timestamp": 1776748936.3639016, "alert": "Normal"}
+{"location": "Signal C", "vehicles": 29, "speed": 60, "status": "Low", "timestamp": 1776748938.366799, "alert": "Normal"}
+{"location": "Signal C", "vehicles": 29, "speed": 60, "status": "Low", "timestamp": 1776748938.366799, "alert": "Normal"}
+{"location": "Signal B", "vehicles": 31, "speed": 45, "status": "Low", "timestamp": 1776748940.3687167, "alert": "Normal"}
+{"location": "Signal B", "vehicles": 31, "speed": 45, "status": "Low", "timestamp": 1776748940.3687167, "alert": "Normal"}
+{"location": "Signal A", "vehicles": 80, "speed": 9, "status": "Heavy Traffic", "timestamp": 1776748942.3711498, "alert": "\ud83d\udea8 Accident"}
+{"location": "Signal A", "vehicles": 80, "speed": 9, "status": "Heavy Traffic", "timestamp": 1776748942.3711498, "alert": "\ud83d\udea8 Accident"}
+{"location": "Signal A", "vehicles": 54, "speed": 41, "status": "Moderate", "timestamp": 1776748944.3730175, "alert": "Normal"}
+{"location": "Signal A", "vehicles": 54, "speed": 41, "status": "Moderate", "timestamp": 1776748944.3730175, "alert": "Normal"}
+{"location": "Signal A", "vehicles": 35, "speed": 18, "status": "Low", "timestamp": 1776748946.3751442, "alert": "Normal"}
+{"location": "Signal A", "vehicles": 35, "speed": 18, "status": "Low", "timestamp": 1776748946.3751442, "alert": "Normal"}
+{"location": "Signal B", "vehicles": 13, "speed": 15, "status": "Low", "timestamp": 1776748948.3764963, "alert": "Normal"}
+{"location": "Signal B", "vehicles": 13, "speed": 15, "status": "Low", "timestamp": 1776748948.3764963, "alert": "Normal"}
+{"location": "Signal C", "vehicles": 67, "speed": 15, "status": "Moderate", "timestamp": 1776748950.3788998, "alert": "Normal"}
+{"location": "Signal C", "vehicles": 67, "speed": 15, "status": "Moderate", "timestamp": 1776748950.3788998, "alert": "Normal"}
+{"location": "Signal C", "vehicles": 21, "speed": 6, "status": "Low", "timestamp": 1776748952.381321, "alert": "Normal"}
+{"location": "Signal C", "vehicles": 21, "speed": 6, "status": "Low", "timestamp": 1776748952.381321, "alert": "Normal"}
+{"location": "Signal B", "vehicles": 30, "speed": 25, "status": "Low", "timestamp": 1776748954.382834, "alert": "Normal"}
+{"location": "Signal B", "vehicles": 30, "speed": 25, "status": "Low", "timestamp": 1776748954.382834, "alert": "Normal"}
+{"location": "Signal C", "vehicles": 48, "speed": 39, "status": "Moderate", "timestamp": 1776748956.38422, "alert": "Normal"}
+{"location": "Signal C", "vehicles": 48, "speed": 39, "status": "Moderate", "timestamp": 1776748956.38422, "alert": "Normal"}
+{"location": "Signal B", "vehicles": 70, "speed": 13, "status": "Moderate", "timestamp": 1776748958.385557, "alert": "Normal"}
+{"location": "Signal B", "vehicles": 70, "speed": 13, "status": "Moderate", "timestamp": 1776748958.385557, "alert": "Normal"}
+{"location": "Signal B", "vehicles": 47, "speed": 45, "status": "Moderate", "timestamp": 1776748960.3864572, "alert": "Normal"}
+{"location": "Signal B", "vehicles": 47, "speed": 45, "status": "Moderate", "timestamp": 1776748960.3864572, "alert": "Normal"}
+{"location": "Signal C", "vehicles": 95, "speed": 35, "status": "Heavy Traffic", "timestamp": 1776748962.3883524, "alert": "Normal"}
+{"location": "Signal C", "vehicles": 32, "speed": 46, "status": "Low", "timestamp": 1776748964.3909674, "alert": "Normal"}
+{"location": "Signal C", "vehicles": 32, "speed": 46, "status": "Low", "timestamp": 1776748964.3909674, "alert": "Normal"}
+{"location": "Signal C", "vehicles": 64, "speed": 42, "status": "Moderate", "timestamp": 1776748966.3928418, "alert": "Normal"}
+{"location": "Signal C", "vehicles": 64, "speed": 42, "status": "Moderate", "timestamp": 1776748966.3928418, "alert": "Normal"}
+{"location": "Signal A", "vehicles": 29, "speed": 36, "status": "Low", "timestamp": 1776748968.3944077, "alert": "Normal"}
+{"location": "Signal A", "vehicles": 29, "speed": 36, "status": "Low", "timestamp": 1776748968.3944077, "alert": "Normal"}
+{"location": "Signal B", "vehicles": 95, "speed": 34, "status": "Heavy Traffic", "timestamp": 1776748970.3966038, "alert": "Normal"}
+{"location": "Signal B", "vehicles": 95, "speed": 34, "status": "Heavy Traffic", "timestamp": 1776748970.3966038, "alert": "Normal"}
+{"location": "Signal A", "vehicles": 62, "speed": 14, "status": "Moderate", "timestamp": 1776748972.399389, "alert": "Normal"}
+{"location": "Signal A", "vehicles": 62, "speed": 14, "status": "Moderate", "timestamp": 1776748972.399389, "alert": "Normal"}
+{"location": "Signal C", "vehicles": 38, "speed": 34, "status": "Low", "timestamp": 1776748974.401463, "alert": "Normal"}
+{"location": "Signal C", "vehicles": 38, "speed": 34, "status": "Low", "timestamp": 1776748974.401463, "alert": "Normal"}
+{"location": "Signal C", "vehicles": 49, "speed": 26, "status": "Moderate", "timestamp": 1776748976.403865, "alert": "Normal"}
+{"location": "Signal C", "vehicles": 49, "speed": 26, "status": "Moderate", "timestamp": 1776748976.403865, "alert": "Normal"}
+{"location": "Signal C", "vehicles": 40, "speed": 43, "status": "Low", "timestamp": 1776748978.4064589, "alert": "Normal"}
+{"location": "Signal B", "vehicles": 97, "speed": 51, "status": "Heavy Traffic", "timestamp": 1776748980.4077086, "alert": "Normal"}
+{"location": "Signal B", "vehicles": 97, "speed": 51, "status": "Heavy Traffic", "timestamp": 1776748980.4077086, "alert": "Normal"}
+{"location": "Signal A", "vehicles": 83, "speed": 59, "status": "Heavy Traffic", "timestamp": 1776748982.4102976, "alert": "Normal"}
+{"location": "Signal A", "vehicles": 83, "speed": 59, "status": "Heavy Traffic", "timestamp": 1776748982.4102976, "alert": "Normal"}
+{"location": "Signal B", "vehicles": 42, "speed": 33, "status": "Moderate", "timestamp": 1776748984.41225, "alert": "Normal"}
+{"location": "Signal B", "vehicles": 42, "speed": 33, "status": "Moderate", "timestamp": 1776748984.41225, "alert": "Normal"}
+{"location": "Signal A", "vehicles": 20, "speed": 8, "status": "Low", "timestamp": 1776748986.4139326, "alert": "Normal"}
+{"location": "Signal A", "vehicles": 20, "speed": 8, "status": "Low", "timestamp": 1776748986.4139326, "alert": "Normal"}
+{"location": "Signal A", "vehicles": 89, "speed": 35, "status": "Heavy Traffic", "timestamp": 1776748988.416248, "alert": "Normal"}
+{"location": "Signal A", "vehicles": 89, "speed": 35, "status": "Heavy Traffic", "timestamp": 1776748988.416248, "alert": "Normal"}
+{"location": "Signal B", "vehicles": 75, "speed": 6, "status": "Heavy Traffic", "timestamp": 1776748990.4178734, "alert": "\ud83d\udea8 Accident"}
+{"location": "Signal B", "vehicles": 75, "speed": 6, "status": "Heavy Traffic", "timestamp": 1776748990.4178734, "alert": "\ud83d\udea8 Accident"}
+{"location": "Signal C", "vehicles": 11, "speed": 56, "status": "Low", "timestamp": 1776748992.4199073, "alert": "Normal"}
+{"location": "Signal C", "vehicles": 11, "speed": 56, "status": "Low", "timestamp": 1776748992.4199073, "alert": "Normal"}
+{"location": "Signal B", "vehicles": 90, "speed": 13, "status": "Heavy Traffic", "timestamp": 1776748994.4216208, "alert": "Normal"}
+{"location": "Signal B", "vehicles": 90, "speed": 13, "status": "Heavy Traffic", "timestamp": 1776748994.4216208, "alert": "Normal"}
+{"location": "Signal C", "vehicles": 78, "speed": 50, "status": "Heavy Traffic", "timestamp": 1776748996.423787, "alert": "Normal"}
+{"location": "Signal C", "vehicles": 78, "speed": 50, "status": "Heavy Traffic", "timestamp": 1776748996.423787, "alert": "Normal"}
+{"location": "Signal B", "vehicles": 52, "speed": 12, "status": "Moderate", "timestamp": 1776748998.4257605, "alert": "Normal"}
+{"location": "Signal B", "vehicles": 52, "speed": 12, "status": "Moderate", "timestamp": 1776748998.4257605, "alert": "Normal"}
+{"location": "Signal A", "vehicles": 72, "speed": 10, "status": "Heavy Traffic", "timestamp": 1776749000.4274, "alert": "Normal"}
+{"location": "Signal A", "vehicles": 72, "speed": 10, "status": "Heavy Traffic", "timestamp": 1776749000.4274, "alert": "Normal"}
+{"location": "Signal A", "vehicles": 21, "speed": 9, "status": "Low", "timestamp": 1776749002.4290848, "alert": "Normal"}
+{"location": "Signal A", "vehicles": 21, "speed": 9, "status": "Low", "timestamp": 1776749002.4290848, "alert": "Normal"}
+{"location": "Signal B", "vehicles": 41, "speed": 19, "status": "Moderate", "timestamp": 1776749004.4309196, "alert": "Normal"}
+{"location": "Signal B", "vehicles": 41, "speed": 19, "status": "Moderate", "timestamp": 1776749004.4309196, "alert": "Normal"}
+{"location": "Signal B", "vehicles": 38, "speed": 42, "status": "Low", "timestamp": 1776749006.4330413, "alert": "Normal"}
+{"location": "Signal B", "vehicles": 38, "speed": 42, "status": "Low", "timestamp": 1776749006.4330413, "alert": "Normal"}
+{"location": "Signal C", "vehicles": 92, "speed": 28, "status": "Heavy Traffic", "timestamp": 1776749008.4349968, "alert": "Normal"}
+{"location": "Signal C", "vehicles": 92, "speed": 28, "status": "Heavy Traffic", "timestamp": 1776749008.4349968, "alert": "Normal"}
+{"location": "Signal B", "vehicles": 43, "speed": 56, "status": "Moderate", "timestamp": 1776749010.436901, "alert": "Normal"}
+{"location": "Signal B", "vehicles": 43, "speed": 56, "status": "Moderate", "timestamp": 1776749010.436901, "alert": "Normal"}
+{"location": "Signal C", "vehicles": 18, "speed": 21, "status": "Low", "timestamp": 1776749012.4387677, "alert": "Normal"}
+{"location": "Signal C", "vehicles": 18, "speed": 21, "status": "Low", "timestamp": 1776749012.4387677, "alert": "Normal"}
+{"location": "Signal B", "vehicles": 27, "speed": 54, "status": "Low", "timestamp": 1776749014.4407644, "alert": "Normal"}
+{"location": "Signal B", "vehicles": 27, "speed": 54, "status": "Low", "timestamp": 1776749014.4407644, "alert": "Normal"}
+{"location": "Signal B", "vehicles": 23, "speed": 17, "status": "Low", "timestamp": 1776749016.443077, "alert": "Normal"}
+{"location": "Signal B", "vehicles": 23, "speed": 17, "status": "Low", "timestamp": 1776749016.443077, "alert": "Normal"}
+{"location": "Signal B", "vehicles": 43, "speed": 60, "status": "Moderate", "timestamp": 1776749018.4444075, "alert": "Normal"}
+{"location": "Signal B", "vehicles": 43, "speed": 60, "status": "Moderate", "timestamp": 1776749018.4444075, "alert": "Normal"}
+{"location": "Signal B", "vehicles": 34, "speed": 23, "status": "Low", "timestamp": 1776749020.4454346, "alert": "Normal"}
+{"location": "Signal B", "vehicles": 34, "speed": 23, "status": "Low", "timestamp": 1776749020.4454346, "alert": "Normal"}
+{"location": "Signal C", "vehicles": 20, "speed": 13, "status": "Low", "timestamp": 1776749022.4484456, "alert": "Normal"}
+{"location": "Signal C", "vehicles": 20, "speed": 13, "status": "Low", "timestamp": 1776749022.4484456, "alert": "Normal"}
+{"location": "Signal C", "vehicles": 45, "speed": 44, "status": "Moderate", "timestamp": 1776749024.4501374, "alert": "Normal"}
+{"location": "Signal C", "vehicles": 45, "speed": 44, "status": "Moderate", "timestamp": 1776749024.4501374, "alert": "Normal"}
+{"location": "Signal B", "vehicles": 81, "speed": 40, "status": "Heavy Traffic", "timestamp": 1776749026.452416, "alert": "Normal"}
+{"location": "Signal B", "vehicles": 81, "speed": 40, "status": "Heavy Traffic", "timestamp": 1776749026.452416, "alert": "Normal"}
+{"location": "Signal B", "vehicles": 42, "speed": 14, "status": "Moderate", "timestamp": 1776749028.4546723, "alert": "Normal"}
+{"location": "Signal B", "vehicles": 42, "speed": 14, "status": "Moderate", "timestamp": 1776749028.4546723, "alert": "Normal"}
+{"location": "Signal C", "vehicles": 32, "speed": 11, "status": "Low", "timestamp": 1776749030.4565196, "alert": "Normal"}
+{"location": "Signal C", "vehicles": 32, "speed": 11, "status": "Low", "timestamp": 1776749030.4565196, "alert": "Normal"}
+{"location": "Signal B", "vehicles": 26, "speed": 35, "status": "Low", "timestamp": 1776749032.458299, "alert": "Normal"}
+{"location": "Signal B", "vehicles": 26, "speed": 35, "status": "Low", "timestamp": 1776749032.458299, "alert": "Normal"}
+{"location": "Signal C", "vehicles": 77, "speed": 8, "status": "Heavy Traffic", "timestamp": 1776749034.4603777, "alert": "\ud83d\udea8 Accident"}
+{"location": "Signal C", "vehicles": 77, "speed": 8, "status": "Heavy Traffic", "timestamp": 1776749034.4603777, "alert": "\ud83d\udea8 Accident"}
+{"location": "Signal C", "vehicles": 25, "speed": 52, "status": "Low", "timestamp": 1776749036.4620106, "alert": "Normal"}
+{"location": "Signal C", "vehicles": 25, "speed": 52, "status": "Low", "timestamp": 1776749036.4620106, "alert": "Normal"}
+{"location": "Signal A", "vehicles": 25, "speed": 45, "status": "Low", "timestamp": 1776749038.4642174, "alert": "Normal"}
+{"location": "Signal A", "vehicles": 25, "speed": 45, "status": "Low", "timestamp": 1776749038.4642174, "alert": "Normal"}
+{"location": "Signal C", "vehicles": 29, "speed": 18, "status": "Low", "timestamp": 1776749040.465259, "alert": "Normal"}
+{"location": "Signal C", "vehicles": 29, "speed": 18, "status": "Low", "timestamp": 1776749040.465259, "alert": "Normal"}
+{"location": "Signal A", "vehicles": 99, "speed": 60, "status": "Heavy Traffic", "timestamp": 1776749042.4670806, "alert": "Normal"}
+{"location": "Signal A", "vehicles": 99, "speed": 60, "status": "Heavy Traffic", "timestamp": 1776749042.4670806, "alert": "Normal"}
+{"location": "Signal A", "vehicles": 69, "speed": 37, "status": "Moderate", "timestamp": 1776749044.4694877, "alert": "Normal"}
+{"location": "Signal A", "vehicles": 69, "speed": 37, "status": "Moderate", "timestamp": 1776749044.4694877, "alert": "Normal"}
+{"location": "Signal B", "vehicles": 56, "speed": 56, "status": "Moderate", "timestamp": 1776749046.4719214, "alert": "Normal"}
+{"location": "Signal B", "vehicles": 56, "speed": 56, "status": "Moderate", "timestamp": 1776749046.4719214, "alert": "Normal"}
+{"location": "Signal B", "vehicles": 80, "speed": 34, "status": "Heavy Traffic", "timestamp": 1776749048.4746163, "alert": "Normal"}
+{"location": "Signal B", "vehicles": 80, "speed": 34, "status": "Heavy Traffic", "timestamp": 1776749048.4746163, "alert": "Normal"}
+{"location": "Signal C", "vehicles": 83, "speed": 10, "status": "Heavy Traffic", "timestamp": 1776749050.4793775, "alert": "Normal"}
+{"location": "Signal C", "vehicles": 83, "speed": 10, "status": "Heavy Traffic", "timestamp": 1776749050.4793775, "alert": "Normal"}
+{"location": "Signal C", "vehicles": 80, "speed": 18, "status": "Heavy Traffic", "timestamp": 1776749052.4812567, "alert": "Normal"}
+{"location": "Signal C", "vehicles": 80, "speed": 18, "status": "Heavy Traffic", "timestamp": 1776749052.4812567, "alert": "Normal"}
+{"location": "Signal B", "vehicles": 49, "speed": 5, "status": "Moderate", "timestamp": 1776749054.4829624, "alert": "Normal"}
+{"location": "Signal B", "vehicles": 49, "speed": 5, "status": "Moderate", "timestamp": 1776749054.4829624, "alert": "Normal"}
+{"location": "Signal A", "vehicles": 81, "speed": 6, "status": "Heavy Traffic", "timestamp": 1776749056.4841075, "alert": "\ud83d\udea8 Accident"}
+{"location": "Signal B", "vehicles": 75, "speed": 46, "status": "Heavy Traffic", "timestamp": 1776749058.4857552, "alert": "Normal"}
+{"location": "Signal B", "vehicles": 75, "speed": 46, "status": "Heavy Traffic", "timestamp": 1776749058.4857552, "alert": "Normal"}
+{"location": "Signal A", "vehicles": 10, "speed": 35, "status": "Low", "timestamp": 1776749060.48714, "alert": "Normal"}
+{"location": "Signal A", "vehicles": 10, "speed": 35, "status": "Low", "timestamp": 1776749060.48714, "alert": "Normal"}
+{"location": "Signal A", "vehicles": 78, "speed": 42, "status": "Heavy Traffic", "timestamp": 1776749062.488367, "alert": "Normal"}
+{"location": "Signal A", "vehicles": 73, "speed": 30, "status": "Heavy Traffic", "timestamp": 1776749064.4896255, "alert": "Normal"}
+{"location": "Signal A", "vehicles": 73, "speed": 30, "status": "Heavy Traffic", "timestamp": 1776749064.4896255, "alert": "Normal"}
+{"location": "Signal B", "vehicles": 13, "speed": 11, "status": "Low", "timestamp": 1776749066.4913447, "alert": "Normal"}
+{"location": "Signal B", "vehicles": 13, "speed": 11, "status": "Low", "timestamp": 1776749066.4913447, "alert": "Normal"}
+{"location": "Signal A", "vehicles": 75, "speed": 5, "status": "Heavy Traffic", "timestamp": 1776749068.4930668, "alert": "\ud83d\udea8 Accident"}
+{"location": "Signal A", "vehicles": 75, "speed": 5, "status": "Heavy Traffic", "timestamp": 1776749068.4930668, "alert": "\ud83d\udea8 Accident"}
+{"location": "Signal A", "vehicles": 96, "speed": 52, "status": "Heavy Traffic", "timestamp": 1776749070.494428, "alert": "Normal"}
+{"location": "Signal A", "vehicles": 96, "speed": 52, "status": "Heavy Traffic", "timestamp": 1776749070.494428, "alert": "Normal"}
+{"location": "Signal A", "vehicles": 40, "speed": 42, "status": "Low", "timestamp": 1776749072.4963787, "alert": "Normal"}
+{"location": "Signal A", "vehicles": 40, "speed": 42, "status": "Low", "timestamp": 1776749072.4963787, "alert": "Normal"}
+{"location": "Signal A", "vehicles": 52, "speed": 18, "status": "Moderate", "timestamp": 1776749074.49834, "alert": "Normal"}
+{"location": "Signal B", "vehicles": 84, "speed": 37, "status": "Heavy Traffic", "timestamp": 1776749076.4997747, "alert": "Normal"}
+{"location": "Signal B", "vehicles": 84, "speed": 37, "status": "Heavy Traffic", "timestamp": 1776749076.4997747, "alert": "Normal"}
+{"location": "Signal A", "vehicles": 45, "speed": 19, "status": "Moderate", "timestamp": 1776749078.5028386, "alert": "Normal"}
+{"location": "Signal A", "vehicles": 34, "speed": 46, "status": "Low", "timestamp": 1776749080.5050542, "alert": "Normal"}
+{"location": "Signal A", "vehicles": 34, "speed": 46, "status": "Low", "timestamp": 1776749080.5050542, "alert": "Normal"}
+{"location": "Signal A", "vehicles": 74, "speed": 48, "status": "Heavy Traffic", "timestamp": 1776749082.50672, "alert": "Normal"}
+{"location": "Signal A", "vehicles": 74, "speed": 48, "status": "Heavy Traffic", "timestamp": 1776749082.50672, "alert": "Normal"}
+{"location": "Signal A", "vehicles": 66, "speed": 32, "status": "Moderate", "timestamp": 1776749084.5081937, "alert": "Normal"}
+{"location": "Signal A", "vehicles": 66, "speed": 32, "status": "Moderate", "timestamp": 1776749084.5081937, "alert": "Normal"}
+{"location": "Signal A", "vehicles": 98, "speed": 57, "status": "Heavy Traffic", "timestamp": 1776749086.5099852, "alert": "Normal"}
+{"location": "Signal A", "vehicles": 98, "speed": 57, "status": "Heavy Traffic", "timestamp": 1776749086.5099852, "alert": "Normal"}
+{"location": "Signal C", "vehicles": 58, "speed": 7, "status": "Moderate", "timestamp": 1776749088.512901, "alert": "Normal"}
+{"location": "Signal C", "vehicles": 58, "speed": 7, "status": "Moderate", "timestamp": 1776749088.512901, "alert": "Normal"}
+{"location": "Signal A", "vehicles": 33, "speed": 7, "status": "Low", "timestamp": 1776749090.5147655, "alert": "Normal"}
+{"location": "Signal A", "vehicles": 33, "speed": 7, "status": "Low", "timestamp": 1776749090.5147655, "alert": "Normal"}
+{"location": "Signal C", "vehicles": 49, "speed": 24, "status": "Moderate", "timestamp": 1776749092.5168786, "alert": "Normal"}
+{"location": "Signal B", "vehicles": 13, "speed": 25, "status": "Low", "timestamp": 1776749094.51898, "alert": "Normal"}
+{"location": "Signal B", "vehicles": 88, "speed": 39, "status": "Heavy Traffic", "timestamp": 1776749096.5204318, "alert": "Normal"}
+{"location": "Signal B", "vehicles": 88, "speed": 39, "status": "Heavy Traffic", "timestamp": 1776749096.5204318, "alert": "Normal"}
+{"location": "Signal A", "vehicles": 100, "speed": 14, "status": "Heavy Traffic", "timestamp": 1776749098.52207, "alert": "Normal"}
+{"location": "Signal A", "vehicles": 100, "speed": 14, "status": "Heavy Traffic", "timestamp": 1776749098.52207, "alert": "Normal"}
+{"location": "Signal C", "vehicles": 64, "speed": 52, "status": "Moderate", "timestamp": 1776749100.5235066, "alert": "Normal"}
+{"location": "Signal C", "vehicles": 64, "speed": 52, "status": "Moderate", "timestamp": 1776749100.5235066, "alert": "Normal"}
+{"location": "Signal C", "vehicles": 11, "speed": 17, "status": "Low", "timestamp": 1776749102.525057, "alert": "Normal"}
+{"location": "Signal C", "vehicles": 11, "speed": 17, "status": "Low", "timestamp": 1776749102.525057, "alert": "Normal"}
+{"location": "Signal C", "vehicles": 33, "speed": 14, "status": "Low", "timestamp": 1776749104.5269382, "alert": "Normal"}
+{"location": "Signal C", "vehicles": 33, "speed": 14, "status": "Low", "timestamp": 1776749104.5269382, "alert": "Normal"}
+{"location": "Signal A", "vehicles": 49, "speed": 39, "status": "Moderate", "timestamp": 1776749106.5285578, "alert": "Normal"}
+{"location": "Signal A", "vehicles": 49, "speed": 39, "status": "Moderate", "timestamp": 1776749106.5285578, "alert": "Normal"}
+{"location": "Signal C", "vehicles": 46, "speed": 18, "status": "Moderate", "timestamp": 1776749108.5301309, "alert": "Normal"}
+{"location": "Signal C", "vehicles": 46, "speed": 18, "status": "Moderate", "timestamp": 1776749108.5301309, "alert": "Normal"}
+{"location": "Signal A", "vehicles": 61, "speed": 17, "status": "Moderate", "timestamp": 1776749110.5323694, "alert": "Normal"}
+{"location": "Signal A", "vehicles": 61, "speed": 17, "status": "Moderate", "timestamp": 1776749110.5323694, "alert": "Normal"}
+{"location": "Signal A", "vehicles": 15, "speed": 11, "status": "Low", "timestamp": 1776749112.5343897, "alert": "Normal"}
+{"location": "Signal A", "vehicles": 15, "speed": 11, "status": "Low", "timestamp": 1776749112.5343897, "alert": "Normal"}
+{"location": "Signal C", "vehicles": 81, "speed": 60, "status": "Heavy Traffic", "timestamp": 1776749114.5356243, "alert": "Normal"}
+{"location": "Signal C", "vehicles": 81, "speed": 60, "status": "Heavy Traffic", "timestamp": 1776749114.5356243, "alert": "Normal"}
+{"location": "Signal A", "vehicles": 33, "speed": 60, "status": "Low", "timestamp": 1776749116.5375583, "alert": "Normal"}
+{"location": "Signal A", "vehicles": 33, "speed": 60, "status": "Low", "timestamp": 1776749116.5375583, "alert": "Normal"}
+{"location": "Signal C", "vehicles": 40, "speed": 30, "status": "Low", "timestamp": 1776749118.5395782, "alert": "Normal"}
+{"location": "Signal C", "vehicles": 40, "speed": 30, "status": "Low", "timestamp": 1776749118.5395782, "alert": "Normal"}
+{"location": "Signal A", "vehicles": 72, "speed": 37, "status": "Heavy Traffic", "timestamp": 1776749120.5407314, "alert": "Normal"}
+{"location": "Signal A", "vehicles": 72, "speed": 37, "status": "Heavy Traffic", "timestamp": 1776749120.5407314, "alert": "Normal"}
+{"location": "Signal C", "vehicles": 36, "speed": 8, "status": "Low", "timestamp": 1776749122.5429637, "alert": "Normal"}
+{"location": "Signal C", "vehicles": 36, "speed": 8, "status": "Low", "timestamp": 1776749122.5429637, "alert": "Normal"}
+{"location": "Signal B", "vehicles": 39, "speed": 39, "status": "Low", "timestamp": 1776749124.5453308, "alert": "Normal"}
+{"location": "Signal B", "vehicles": 39, "speed": 39, "status": "Low", "timestamp": 1776749124.5453308, "alert": "Normal"}
+{"location": "Signal C", "vehicles": 83, "speed": 53, "status": "Heavy Traffic", "timestamp": 1776749126.5490646, "alert": "Normal"}
+{"location": "Signal C", "vehicles": 83, "speed": 53, "status": "Heavy Traffic", "timestamp": 1776749126.5490646, "alert": "Normal"}
+{"location": "Signal B", "vehicles": 93, "speed": 43, "status": "Heavy Traffic", "timestamp": 1776749128.5506856, "alert": "Normal"}
+{"location": "Signal B", "vehicles": 93, "speed": 43, "status": "Heavy Traffic", "timestamp": 1776749128.5506856, "alert": "Normal"}
+{"location": "Signal A", "vehicles": 48, "speed": 18, "status": "Moderate", "timestamp": 1776749130.5523162, "alert": "Normal"}
+{"location": "Signal A", "vehicles": 48, "speed": 18, "status": "Moderate", "timestamp": 1776749130.5523162, "alert": "Normal"}
+{"location": "Signal A", "vehicles": 57, "speed": 36, "status": "Moderate", "timestamp": 1776749132.5545378, "alert": "Normal"}
+{"location": "Signal A", "vehicles": 57, "speed": 36, "status": "Moderate", "timestamp": 1776749132.5545378, "alert": "Normal"}
+{"location": "Signal C", "vehicles": 26, "speed": 21, "status": "Low", "timestamp": 1776749134.555958, "alert": "Normal"}
+{"location": "Signal C", "vehicles": 26, "speed": 21, "status": "Low", "timestamp": 1776749134.555958, "alert": "Normal"}
+{"location": "Signal B", "vehicles": 14, "speed": 50, "status": "Low", "timestamp": 1776749136.5575855, "alert": "Normal"}
+{"location": "Signal B", "vehicles": 14, "speed": 50, "status": "Low", "timestamp": 1776749136.5575855, "alert": "Normal"}
+{"location": "Signal A", "vehicles": 70, "speed": 5, "status": "Moderate", "timestamp": 1776749138.5591772, "alert": "Normal"}
+{"location": "Signal A", "vehicles": 70, "speed": 5, "status": "Moderate", "timestamp": 1776749138.5591772, "alert": "Normal"}
+{"location": "Signal B", "vehicles": 59, "speed": 26, "status": "Moderate", "timestamp": 1776749140.5612185, "alert": "Normal"}
+{"location": "Signal B", "vehicles": 59, "speed": 26, "status": "Moderate", "timestamp": 1776749140.5612185, "alert": "Normal"}
+{"location": "Signal A", "vehicles": 65, "speed": 48, "status": "Moderate", "timestamp": 1776749142.5633514, "alert": "Normal"}
+{"location": "Signal A", "vehicles": 65, "speed": 48, "status": "Moderate", "timestamp": 1776749142.5633514, "alert": "Normal"}
+{"location": "Signal B", "vehicles": 69, "speed": 58, "status": "Moderate", "timestamp": 1776749144.565167, "alert": "Normal"}
+{"location": "Signal B", "vehicles": 69, "speed": 58, "status": "Moderate", "timestamp": 1776749144.565167, "alert": "Normal"}
+{"location": "Signal C", "vehicles": 78, "speed": 40, "status": "Heavy Traffic", "timestamp": 1776749146.5678666, "alert": "Normal"}
+{"location": "Signal B", "vehicles": 85, "speed": 38, "status": "Heavy Traffic", "timestamp": 1776749148.5695472, "alert": "Normal"}
+{"location": "Signal B", "vehicles": 85, "speed": 38, "status": "Heavy Traffic", "timestamp": 1776749148.5695472, "alert": "Normal"}
+{"location": "Signal B", "vehicles": 35, "speed": 57, "status": "Low", "timestamp": 1776749150.5719442, "alert": "Normal"}
+{"location": "Signal B", "vehicles": 35, "speed": 57, "status": "Low", "timestamp": 1776749150.5719442, "alert": "Normal"}
+{"location": "Signal A", "vehicles": 72, "speed": 35, "status": "Heavy Traffic", "timestamp": 1776749152.5738776, "alert": "Normal"}
+{"location": "Signal A", "vehicles": 72, "speed": 35, "status": "Heavy Traffic", "timestamp": 1776749152.5738776, "alert": "Normal"}
+{"location": "Signal B", "vehicles": 49, "speed": 50, "status": "Moderate", "timestamp": 1776749154.5759993, "alert": "Normal"}
+{"location": "Signal B", "vehicles": 49, "speed": 50, "status": "Moderate", "timestamp": 1776749154.5759993, "alert": "Normal"}
+{"location": "Signal A", "vehicles": 35, "speed": 53, "status": "Low", "timestamp": 1776749156.5781476, "alert": "Normal"}
+{"location": "Signal A", "vehicles": 35, "speed": 53, "status": "Low", "timestamp": 1776749156.5781476, "alert": "Normal"}
+{"location": "Signal C", "vehicles": 52, "speed": 17, "status": "Moderate", "timestamp": 1776749158.579939, "alert": "Normal"}
+{"location": "Signal C", "vehicles": 52, "speed": 17, "status": "Moderate", "timestamp": 1776749158.579939, "alert": "Normal"}
+{"location": "Signal C", "vehicles": 78, "speed": 43, "status": "Heavy Traffic", "timestamp": 1776749160.5821855, "alert": "Normal"}
+{"location": "Signal C", "vehicles": 78, "speed": 43, "status": "Heavy Traffic", "timestamp": 1776749160.5821855, "alert": "Normal"}
+{"location": "Signal B", "vehicles": 55, "speed": 23, "status": "Moderate", "timestamp": 1776749162.5853963, "alert": "Normal"}
+{"location": "Signal B", "vehicles": 55, "speed": 23, "status": "Moderate", "timestamp": 1776749162.5853963, "alert": "Normal"}
+{"location": "Signal A", "vehicles": 53, "speed": 52, "status": "Moderate", "timestamp": 1776749164.5876398, "alert": "Normal"}
+{"location": "Signal A", "vehicles": 53, "speed": 52, "status": "Moderate", "timestamp": 1776749164.5876398, "alert": "Normal"}
+{"location": "Signal B", "vehicles": 100, "speed": 44, "status": "Heavy Traffic", "timestamp": 1776749166.5908818, "alert": "Normal"}
+{"location": "Signal B", "vehicles": 49, "speed": 17, "status": "Moderate", "timestamp": 1776749168.5927446, "alert": "Normal"}
+{"location": "Signal B", "vehicles": 49, "speed": 17, "status": "Moderate", "timestamp": 1776749168.5927446, "alert": "Normal"}
+{"location": "Signal C", "vehicles": 76, "speed": 9, "status": "Heavy Traffic", "timestamp": 1776749170.594605, "alert": "\ud83d\udea8 Accident"}
+{"location": "Signal C", "vehicles": 76, "speed": 9, "status": "Heavy Traffic", "timestamp": 1776749170.594605, "alert": "\ud83d\udea8 Accident"}
+{"location": "Signal A", "vehicles": 94, "speed": 11, "status": "Heavy Traffic", "timestamp": 1776749172.5963109, "alert": "Normal"}
+{"location": "Signal A", "vehicles": 94, "speed": 11, "status": "Heavy Traffic", "timestamp": 1776749172.5963109, "alert": "Normal"}
+{"location": "Signal A", "vehicles": 51, "speed": 43, "status": "Moderate", "timestamp": 1776749174.598079, "alert": "Normal"}
+{"location": "Signal A", "vehicles": 51, "speed": 43, "status": "Moderate", "timestamp": 1776749174.598079, "alert": "Normal"}
+{"location": "Signal A", "vehicles": 93, "speed": 54, "status": "Heavy Traffic", "timestamp": 1776749176.5996745, "alert": "Normal"}
+{"location": "Signal A", "vehicles": 93, "speed": 54, "status": "Heavy Traffic", "timestamp": 1776749176.5996745, "alert": "Normal"}
+{"location": "Signal B", "vehicles": 54, "speed": 37, "status": "Moderate", "timestamp": 1776749178.6019886, "alert": "Normal"}
+{"location": "Signal B", "vehicles": 54, "speed": 37, "status": "Moderate", "timestamp": 1776749178.6019886, "alert": "Normal"}
+{"location": "Signal A", "vehicles": 11, "speed": 17, "status": "Low", "timestamp": 1776749180.603909, "alert": "Normal"}
+{"location": "Signal A", "vehicles": 11, "speed": 17, "status": "Low", "timestamp": 1776749180.603909, "alert": "Normal"}
+{"location": "Signal A", "vehicles": 26, "speed": 60, "status": "Low", "timestamp": 1776749182.6054502, "alert": "Normal"}
+{"location": "Signal A", "vehicles": 26, "speed": 60, "status": "Low", "timestamp": 1776749182.6054502, "alert": "Normal"}
+{"location": "Signal B", "vehicles": 52, "speed": 32, "status": "Moderate", "timestamp": 1776749184.6075609, "alert": "Normal"}
+{"location": "Signal B", "vehicles": 52, "speed": 32, "status": "Moderate", "timestamp": 1776749184.6075609, "alert": "Normal"}
+{"location": "Signal C", "vehicles": 68, "speed": 34, "status": "Moderate", "timestamp": 1776749186.6094954, "alert": "Normal"}
+{"location": "Signal C", "vehicles": 68, "speed": 34, "status": "Moderate", "timestamp": 1776749186.6094954, "alert": "Normal"}
+{"location": "Signal A", "vehicles": 75, "speed": 27, "status": "Heavy Traffic", "timestamp": 1776749188.610663, "alert": "Normal"}
+{"location": "Signal A", "vehicles": 75, "speed": 27, "status": "Heavy Traffic", "timestamp": 1776749188.610663, "alert": "Normal"}
+{"location": "Signal A", "vehicles": 25, "speed": 30, "status": "Low", "timestamp": 1776749190.6120596, "alert": "Normal"}
+{"location": "Signal A", "vehicles": 25, "speed": 30, "status": "Low", "timestamp": 1776749190.6120596, "alert": "Normal"}
+{"location": "Signal C", "vehicles": 79, "speed": 6, "status": "Heavy Traffic", "timestamp": 1776749192.6139476, "alert": "\ud83d\udea8 Accident"}
+{"location": "Signal C", "vehicles": 79, "speed": 6, "status": "Heavy Traffic", "timestamp": 1776749192.6139476, "alert": "\ud83d\udea8 Accident"}
+{"location": "Signal C", "vehicles": 52, "speed": 13, "status": "Moderate", "timestamp": 1776749194.6154172, "alert": "Normal"}
+{"location": "Signal C", "vehicles": 52, "speed": 13, "status": "Moderate", "timestamp": 1776749194.6154172, "alert": "Normal"}
+{"location": "Signal B", "vehicles": 68, "speed": 60, "status": "Moderate", "timestamp": 1776749196.6169953, "alert": "Normal"}
+{"location": "Signal B", "vehicles": 68, "speed": 60, "status": "Moderate", "timestamp": 1776749196.6169953, "alert": "Normal"}
